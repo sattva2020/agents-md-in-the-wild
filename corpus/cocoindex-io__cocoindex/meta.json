@@ -1,0 +1,46 @@
+{
+  "owner": "cocoindex-io",
+  "repo": "cocoindex",
+  "full_name": "cocoindex-io/cocoindex",
+  "url": "https://github.com/cocoindex-io/cocoindex",
+  "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+  "stars": 11148,
+  "language": "Rust",
+  "topics": [
+    "agentic-data-framework",
+    "ai",
+    "ai-agents",
+    "change-data-capture",
+    "codebase-intelligence",
+    "context-engineering",
+    "data-engineering",
+    "data-indexing",
+    "data-processing",
+    "etl",
+    "help-wanted",
+    "indexing"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-30T19:21:42Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b2046b04638e1df07a0a9078756da049a1e4ff47",
+      "bytes": 19210,
+      "lines": 357,
+      "permalink": "https://github.com/cocoindex-io/cocoindex/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "f6aa6c02628c3cda86119f8555a85c0e4040bad2",
+      "bytes": 24,
+      "lines": 4,
+      "permalink": "https://github.com/cocoindex-io/cocoindex/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

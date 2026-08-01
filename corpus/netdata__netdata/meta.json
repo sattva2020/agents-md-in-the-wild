@@ -1,0 +1,54 @@
+{
+  "owner": "netdata",
+  "repo": "netdata",
+  "full_name": "netdata/netdata",
+  "url": "https://github.com/netdata/netdata",
+  "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+  "stars": 79972,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "alerting",
+    "cncf",
+    "data-visualization",
+    "database",
+    "devops",
+    "docker",
+    "grafana",
+    "influxdb",
+    "kubernetes",
+    "linux",
+    "machine-learning"
+  ],
+  "default_branch": "master",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-08-01T17:05:37Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "5dda5ac8432248ffca141b3573d8ed43980937c0",
+      "bytes": 60413,
+      "lines": 1018,
+      "permalink": "https://github.com/netdata/netdata/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/netdata/netdata/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/netdata/netdata/blob/master/GEMINI.md",
+      "stored": "GEMINI.md"
+    }
+  }
+}

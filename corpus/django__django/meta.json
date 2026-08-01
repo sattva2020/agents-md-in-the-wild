@@ -1,0 +1,35 @@
+{
+  "owner": "django",
+  "repo": "django",
+  "full_name": "django/django",
+  "url": "https://github.com/django/django",
+  "description": "The Web framework for perfectionists with deadlines.",
+  "stars": 88252,
+  "language": "Python",
+  "topics": [
+    "apps",
+    "django",
+    "framework",
+    "models",
+    "orm",
+    "python",
+    "templates",
+    "views",
+    "web"
+  ],
+  "default_branch": "main",
+  "license": "bsd-3-clause",
+  "tier": "full",
+  "tier_reason": "redistributable under bsd-3-clause",
+  "pushed_at": "2026-07-31T20:47:42Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "27cfe0811f9597141a33eaaa6fe97e70338cdab8",
+      "bytes": 316,
+      "lines": 11,
+      "permalink": "https://github.com/django/django/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

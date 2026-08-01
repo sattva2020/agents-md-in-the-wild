@@ -1,0 +1,33 @@
+{
+  "owner": "neovim",
+  "repo": "neovim",
+  "full_name": "neovim/neovim",
+  "url": "https://github.com/neovim/neovim",
+  "description": "Vim-fork focused on extensibility and usability",
+  "stars": 101438,
+  "language": "Vim Script",
+  "topics": [
+    "api",
+    "c",
+    "lua",
+    "neovim",
+    "nvim",
+    "text-editor",
+    "vim"
+  ],
+  "default_branch": "master",
+  "license": "gpl-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-2.0",
+  "pushed_at": "2026-08-01T16:15:02Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "5f37fa40f113d7692134a575bc314f174ae45917",
+      "bytes": 189,
+      "lines": 7,
+      "permalink": "https://github.com/neovim/neovim/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

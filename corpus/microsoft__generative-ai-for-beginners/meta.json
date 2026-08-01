@@ -1,0 +1,38 @@
+{
+  "owner": "microsoft",
+  "repo": "generative-ai-for-beginners",
+  "full_name": "microsoft/generative-ai-for-beginners",
+  "url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "description": "21 Lessons, Get Started Building with Generative AI ",
+  "stars": 114055,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "ai",
+    "azure",
+    "chatgpt",
+    "dall-e",
+    "generative-ai",
+    "generativeai",
+    "gpt",
+    "language-model",
+    "llms",
+    "microsoft-for-beginners",
+    "openai",
+    "prompt-engineering"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T08:23:49Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "7b3edf9b847f1f0cd806be5197e882e66b7b77b0",
+      "bytes": 12287,
+      "lines": 323,
+      "permalink": "https://github.com/microsoft/generative-ai-for-beginners/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

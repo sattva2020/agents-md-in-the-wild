@@ -1,0 +1,54 @@
+{
+  "owner": "infiniflow",
+  "repo": "ragflow",
+  "full_name": "infiniflow/ragflow",
+  "url": "https://github.com/infiniflow/ragflow",
+  "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+  "stars": 86565,
+  "language": "Go",
+  "topics": [
+    "agent-harness",
+    "agentic-ai",
+    "agentic-retrieval",
+    "agentic-search",
+    "ai",
+    "ai-agents",
+    "context-engine",
+    "context-engineering",
+    "context-management",
+    "harness-engineering",
+    "knowledge-compilation",
+    "llm-apps"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:31:22Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "733bd0ec42846d34349f0e5af1f8a36baff68034",
+      "bytes": 8259,
+      "lines": 134,
+      "permalink": "https://github.com/infiniflow/ragflow/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/infiniflow/ragflow/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "5161ded2b6c5e5d08f07addc1e7e2a8bcac375a6",
+      "bytes": 558,
+      "lines": 23,
+      "permalink": "https://github.com/infiniflow/ragflow/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

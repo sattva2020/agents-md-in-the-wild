@@ -1,0 +1,46 @@
+{
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "stars": 66754,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agents",
+    "ai-agents",
+    "ai-assistant",
+    "ai-coding",
+    "ai-skills",
+    "autonomous-agents",
+    "claude-code",
+    "codex",
+    "harness"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T07:08:47Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "68590f47c3a5cd47a0599548bf16ac7e4d0655b9",
+      "bytes": 24566,
+      "lines": 708,
+      "permalink": "https://github.com/ruvnet/ruflo/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "4a00e498337de8ab05cdd4659ba0daf5c8b92055",
+      "bytes": 66757,
+      "lines": 1494,
+      "permalink": "https://github.com/ruvnet/ruflo/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

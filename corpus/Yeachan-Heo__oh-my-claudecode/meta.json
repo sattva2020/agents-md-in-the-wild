@@ -1,0 +1,44 @@
+{
+  "owner": "Yeachan-Heo",
+  "repo": "oh-my-claudecode",
+  "full_name": "Yeachan-Heo/oh-my-claudecode",
+  "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+  "description": "Teams-first Multi-agent orchestration for Claude Code",
+  "stars": 38238,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-coding",
+    "ai-agents",
+    "automation",
+    "claude",
+    "claude-code",
+    "multi-agent-systems",
+    "oh-my-opencode",
+    "opencode",
+    "parallel-execution",
+    "vibe-coding"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T01:45:27Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c031df007748232364d5572388417d4a0248abf7",
+      "bytes": 21842,
+      "lines": 412,
+      "permalink": "https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "9e6a98a847c1fd9ced6ec80930eb552faf2c2a55",
+      "bytes": 7416,
+      "lines": 119,
+      "permalink": "https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

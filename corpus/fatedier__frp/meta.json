@@ -1,0 +1,44 @@
+{
+  "owner": "fatedier",
+  "repo": "frp",
+  "full_name": "fatedier/frp",
+  "url": "https://github.com/fatedier/frp",
+  "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+  "stars": 108493,
+  "language": "Go",
+  "topics": [
+    "expose",
+    "firewall",
+    "frp",
+    "go",
+    "http-proxy",
+    "nat",
+    "p2p",
+    "proxy",
+    "reverse-proxy",
+    "tunnel"
+  ],
+  "default_branch": "dev",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T08:53:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "23f0e734a3a8b678e01850454727c0c2267b9e7f",
+      "bytes": 1063,
+      "lines": 40,
+      "permalink": "https://github.com/fatedier/frp/blob/dev/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/fatedier/frp/blob/dev/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

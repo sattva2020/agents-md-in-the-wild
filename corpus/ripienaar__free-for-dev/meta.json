@@ -1,0 +1,42 @@
+{
+  "owner": "ripienaar",
+  "repo": "free-for-dev",
+  "full_name": "ripienaar/free-for-dev",
+  "url": "https://github.com/ripienaar/free-for-dev",
+  "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+  "stars": 130970,
+  "language": "HTML",
+  "topics": [
+    "awesome-list",
+    "free-for-developers"
+  ],
+  "default_branch": "master",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-07-30T03:08:16Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "ba15bc40d2698e1307cc749a0fad92a890e77bd4",
+      "bytes": 392,
+      "lines": 10,
+      "permalink": "https://github.com/ripienaar/free-for-dev/blob/master/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# Contributing to this repository"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "ba15bc40d2698e1307cc749a0fad92a890e77bd4",
+      "bytes": 392,
+      "lines": 10,
+      "permalink": "https://github.com/ripienaar/free-for-dev/blob/master/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "# Contributing to this repository"
+      ]
+    }
+  }
+}

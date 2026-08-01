@@ -1,0 +1,62 @@
+{
+  "owner": "superset-sh",
+  "repo": "superset",
+  "full_name": "superset-sh/superset",
+  "url": "https://github.com/superset-sh/superset",
+  "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "stars": 12726,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "cursor-agent",
+    "desktop-app",
+    "developer-tools",
+    "electron",
+    "git-worktree",
+    "llm"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T12:59:47Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c0f8e413e94b3d0fea956ee18f51fdf1ed84cc4e",
+      "bytes": 11699,
+      "lines": 158,
+      "permalink": "https://github.com/superset-sh/superset/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# Superset Monorepo Guide",
+        "## Question Tool",
+        "## Structure",
+        "## Tech Stack",
+        "## Common Commands",
+        "# Releases (desktop + host-service + cli share one version; see scripts/release/README.md)",
+        "## Code Quality",
+        "## CDP UI Verification",
+        "## Agent Rules",
+        "## Project Structure",
+        "### Exception: shadcn/ui Components",
+        "## Database Rules",
+        "## DB migrations"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "eef4bd20cf972fc2f3c7405fdae3fdcff80e59d4",
+      "bytes": 10,
+      "lines": 1,
+      "permalink": "https://github.com/superset-sh/superset/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": []
+    }
+  }
+}

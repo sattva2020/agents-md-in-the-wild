@@ -1,0 +1,33 @@
+{
+  "owner": "garrytan",
+  "repo": "gstack",
+  "full_name": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "stars": 125699,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-15T01:33:47Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "4df7eec35fc48d1febf54d2ae6c671d0852695af",
+      "bytes": 7725,
+      "lines": 138,
+      "permalink": "https://github.com/garrytan/gstack/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "98484490206ecbe51f1f598ea745935233ae3f15",
+      "bytes": 59275,
+      "lines": 1024,
+      "permalink": "https://github.com/garrytan/gstack/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

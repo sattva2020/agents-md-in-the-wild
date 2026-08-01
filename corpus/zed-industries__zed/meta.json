@@ -1,0 +1,49 @@
+{
+  "owner": "zed-industries",
+  "repo": "zed",
+  "full_name": "zed-industries/zed",
+  "url": "https://github.com/zed-industries/zed",
+  "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+  "stars": 87870,
+  "language": "Rust",
+  "topics": [
+    "gpui",
+    "rust-lang",
+    "text-editor",
+    "zed"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T16:23:28Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8a63b64bdb0afcda986ba715cb39849ac574e096",
+      "bytes": 6,
+      "lines": 1,
+      "permalink": "https://github.com/zed-industries/zed/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": []
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "8a63b64bdb0afcda986ba715cb39849ac574e096",
+      "bytes": 6,
+      "lines": 1,
+      "permalink": "https://github.com/zed-industries/zed/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": []
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "8a63b64bdb0afcda986ba715cb39849ac574e096",
+      "bytes": 6,
+      "lines": 1,
+      "permalink": "https://github.com/zed-industries/zed/blob/main/GEMINI.md",
+      "stored": null,
+      "headings": []
+    }
+  }
+}

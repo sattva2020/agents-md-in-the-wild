@@ -1,0 +1,46 @@
+{
+  "owner": "rtk-ai",
+  "repo": "rtk",
+  "full_name": "rtk-ai/rtk",
+  "url": "https://github.com/rtk-ai/rtk",
+  "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+  "stars": 74258,
+  "language": "Rust",
+  "topics": [
+    "agentic-coding",
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "command-line-tool",
+    "cost-reduction",
+    "developer-tools",
+    "llm",
+    "open-source",
+    "productivity",
+    "rust"
+  ],
+  "default_branch": "develop",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:53:26Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "dd461b12c2efbbdf97b1882ce36437bd20f52a91",
+      "bytes": 7715,
+      "lines": 172,
+      "permalink": "https://github.com/rtk-ai/rtk/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "e2681b6bebea885135e5c18693a9c162e9739974",
+      "bytes": 3459,
+      "lines": 67,
+      "permalink": "https://github.com/rtk-ai/rtk/blob/develop/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

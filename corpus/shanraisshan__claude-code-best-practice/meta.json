@@ -1,0 +1,38 @@
+{
+  "owner": "shanraisshan",
+  "repo": "claude-code-best-practice",
+  "full_name": "shanraisshan/claude-code-best-practice",
+  "url": "https://github.com/shanraisshan/claude-code-best-practice",
+  "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+  "stars": 63852,
+  "language": "HTML",
+  "topics": [
+    "agentic-ai",
+    "agentic-coding",
+    "agentic-engineering",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "best-practices",
+    "boris",
+    "claude",
+    "claude-ai",
+    "claude-code"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T06:38:05Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "953fe929d0d02d06e94604a7bfa3ae697b0aed30",
+      "bytes": 7809,
+      "lines": 127,
+      "permalink": "https://github.com/shanraisshan/claude-code-best-practice/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

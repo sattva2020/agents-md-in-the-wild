@@ -1,0 +1,50 @@
+{
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "full_name": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+  "stars": 102106,
+  "language": "Python",
+  "topics": [
+    "autograd",
+    "deep-learning",
+    "gpu",
+    "machine-learning",
+    "neural-network",
+    "numpy",
+    "python",
+    "tensor"
+  ],
+  "default_branch": "main",
+  "license": "bsd-2-clause",
+  "tier": "full",
+  "tier_reason": "redistributable under bsd-2-clause",
+  "pushed_at": "2026-08-01T17:10:02Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/pytorch/pytorch/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "bd3d81a017ea2a31d886151e4d60bea3a9d2d7b6",
+      "bytes": 14189,
+      "lines": 320,
+      "permalink": "https://github.com/pytorch/pytorch/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "06c3f32abd5e1dac1657d7b7565d2d0347e23e62",
+      "bytes": 4726,
+      "lines": 126,
+      "permalink": "https://github.com/pytorch/pytorch/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

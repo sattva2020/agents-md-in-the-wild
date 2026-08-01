@@ -1,0 +1,38 @@
+{
+  "owner": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+  "stars": 112359,
+  "language": "Python",
+  "topics": [
+    "ai-skills",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "codex",
+    "command-line",
+    "copilot",
+    "cursor-ai",
+    "html5",
+    "kiro",
+    "landing-page",
+    "mobile-ui"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T01:29:53Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "044456c343d72c6f646e84b3def8c4dff4683c79",
+      "bytes": 5562,
+      "lines": 119,
+      "permalink": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

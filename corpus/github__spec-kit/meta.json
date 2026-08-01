@@ -1,0 +1,33 @@
+{
+  "owner": "github",
+  "repo": "spec-kit",
+  "full_name": "github/spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+  "stars": 124890,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T17:45:16Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "82fde695488cb800357708da69a0f3b54fd037fd",
+      "bytes": 30810,
+      "lines": 603,
+      "permalink": "https://github.com/github/spec-kit/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "vllm-project",
+  "repo": "vllm",
+  "full_name": "vllm-project/vllm",
+  "url": "https://github.com/vllm-project/vllm",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "stars": 87870,
+  "language": "Python",
+  "topics": [
+    "amd",
+    "blackwell",
+    "cuda",
+    "deepseek",
+    "deepseek-v3",
+    "gpt",
+    "gpt-oss",
+    "inference",
+    "kimi",
+    "llama",
+    "llm",
+    "llm-serving"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:10:26Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a53b81873cf0d168c23fa25eef505065cbdba3a0",
+      "bytes": 5654,
+      "lines": 158,
+      "permalink": "https://github.com/vllm-project/vllm/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/vllm-project/vllm/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

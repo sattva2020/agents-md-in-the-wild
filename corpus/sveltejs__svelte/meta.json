@@ -1,0 +1,29 @@
+{
+  "owner": "sveltejs",
+  "repo": "svelte",
+  "full_name": "sveltejs/svelte",
+  "url": "https://github.com/sveltejs/svelte",
+  "description": "web development for the rest of us",
+  "stars": 87716,
+  "language": "JavaScript",
+  "topics": [
+    "compiler",
+    "template",
+    "ui"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T18:13:04Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "7f143248aaff1ef2b811f206b0e6277a8e72a9b2",
+      "bytes": 590,
+      "lines": 12,
+      "permalink": "https://github.com/sveltejs/svelte/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

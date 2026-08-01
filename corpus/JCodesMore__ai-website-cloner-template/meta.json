@@ -1,0 +1,62 @@
+{
+  "owner": "JCodesMore",
+  "repo": "ai-website-cloner-template",
+  "full_name": "JCodesMore/ai-website-cloner-template",
+  "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+  "description": "Clone any website with one command using AI coding agents",
+  "stars": 30770,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "automation",
+    "boilerplate",
+    "claude",
+    "claude-code",
+    "clone",
+    "developer-tools",
+    "nextjs",
+    "react",
+    "reverse-engineering"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T01:58:00Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a9f920ca766e7570dbf1f21b05c63b4894bb2f60",
+      "bytes": 3038,
+      "lines": 66,
+      "permalink": "https://github.com/JCodesMore/ai-website-cloner-template/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/JCodesMore/ai-website-cloner-template/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/JCodesMore/ai-website-cloner-template/blob/master/GEMINI.md",
+      "stored": "GEMINI.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "ab04063fefb1067760ddad33c414e3a268ab676b",
+      "bytes": 6852,
+      "lines": 148,
+      "permalink": "https://github.com/JCodesMore/ai-website-cloner-template/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

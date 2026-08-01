@@ -1,0 +1,46 @@
+{
+  "owner": "MadsLorentzen",
+  "repo": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "stars": 29090,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "career",
+    "claude-code",
+    "cover-letter",
+    "cv",
+    "interview-preparation",
+    "job-application",
+    "job-hunting",
+    "job-search",
+    "latex",
+    "resume"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T15:41:41Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "64349851a89fcdc93aeed9fb13d821c930b53426",
+      "bytes": 1586,
+      "lines": 20,
+      "permalink": "https://github.com/MadsLorentzen/ai-job-search/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "56488362eabeb01a9916565e78a4a3659714db89",
+      "bytes": 8242,
+      "lines": 139,
+      "permalink": "https://github.com/MadsLorentzen/ai-job-search/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

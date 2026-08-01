@@ -1,0 +1,68 @@
+{
+  "owner": "thedaviddias",
+  "repo": "Front-End-Checklist",
+  "full_name": "thedaviddias/Front-End-Checklist",
+  "url": "https://github.com/thedaviddias/Front-End-Checklist",
+  "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
+  "stars": 73378,
+  "language": "MDX",
+  "topics": [
+    "ai-agent",
+    "ai-agents",
+    "checklist",
+    "css",
+    "front-end-developer-tool",
+    "front-end-development",
+    "frontend",
+    "guidelines",
+    "html",
+    "javascript",
+    "lists",
+    "reference"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-06-18T03:46:44Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "652bc99c2efee3641ff0b62bc08a327d80a52486",
+      "bytes": 19680,
+      "lines": 316,
+      "permalink": "https://github.com/thedaviddias/Front-End-Checklist/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# AGENTS.md — Front-End Checklist",
+        "## Project Overview",
+        "## MCP Usage",
+        "## Monorepo Structure",
+        "## Rule MDX Frontmatter Spec",
+        "### Required Fields",
+        "### Recommended Fields",
+        "## Canonical Rule Shape",
+        "### Common Mistakes to Avoid",
+        "## Category Taxonomy",
+        "## Quality Scoring Rubric",
+        "## Adding or Updating a Rule",
+        "## Scripts Reference",
+        "## MCP Tool Development",
+        "## Workspace Architecture Notes",
+        "## Learned User Preferences",
+        "## Learned Workspace Facts"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "b578cb7a7b1d5d69c5714e444bf2f63048e24230",
+      "bytes": 211,
+      "lines": 6,
+      "permalink": "https://github.com/thedaviddias/Front-End-Checklist/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "# Project Guidance"
+      ]
+    }
+  }
+}

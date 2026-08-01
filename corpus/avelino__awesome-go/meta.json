@@ -1,0 +1,48 @@
+{
+  "owner": "avelino",
+  "repo": "awesome-go",
+  "full_name": "avelino/awesome-go",
+  "url": "https://github.com/avelino/awesome-go",
+  "description": "A curated list of awesome Go frameworks, libraries and software",
+  "stars": 179796,
+  "language": "Go",
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "go",
+    "golang",
+    "golang-library",
+    "hacktoberfest"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-29T18:16:09Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "49f07baeb02a3ad8f3895342d62039907d72d841",
+      "bytes": 2834,
+      "lines": 53,
+      "permalink": "https://github.com/avelino/awesome-go/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/avelino/awesome-go/blob/main/.cursorrules",
+      "stored": ".cursorrules"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/avelino/awesome-go/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

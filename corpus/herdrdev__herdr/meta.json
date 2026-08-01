@@ -1,0 +1,46 @@
+{
+  "owner": "herdrdev",
+  "repo": "herdr",
+  "full_name": "herdrdev/herdr",
+  "url": "https://github.com/herdrdev/herdr",
+  "description": "the runtime your coding agents live on",
+  "stars": 23298,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "devtools",
+    "multiplexer",
+    "rust"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:38:43Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8793a653747a5c25d9335876b40e86193e00a52e",
+      "bytes": 19838,
+      "lines": 252,
+      "permalink": "https://github.com/herdrdev/herdr/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/herdrdev/herdr/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

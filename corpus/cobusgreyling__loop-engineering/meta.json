@@ -1,0 +1,38 @@
+{
+  "owner": "cobusgreyling",
+  "repo": "loop-engineering",
+  "full_name": "cobusgreyling/loop-engineering",
+  "url": "https://github.com/cobusgreyling/loop-engineering",
+  "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+  "stars": 9731,
+  "language": "JavaScript",
+  "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-coding",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "devops-automation",
+    "devtools",
+    "github-actions"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T12:56:59Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "45cabc07223c30c371b9553b8d6b1e1de9e9112d",
+      "bytes": 1815,
+      "lines": 47,
+      "permalink": "https://github.com/cobusgreyling/loop-engineering/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

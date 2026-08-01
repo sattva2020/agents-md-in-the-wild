@@ -1,0 +1,44 @@
+{
+  "owner": "DietrichGebert",
+  "repo": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "stars": 93415,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm",
+    "prompt-engineering",
+    "yagni"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-15T21:32:15Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "bc3595d1a07cff2b135139cadfa4c17ec412667b",
+      "bytes": 2593,
+      "lines": 33,
+      "permalink": "https://github.com/DietrichGebert/ponytail/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "0af61d583fbd42e8900fce9183d68167eb3d93e6",
+      "bytes": 2495,
+      "lines": 31,
+      "permalink": "https://github.com/DietrichGebert/ponytail/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

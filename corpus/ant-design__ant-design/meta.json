@@ -1,0 +1,49 @@
+{
+  "owner": "ant-design",
+  "repo": "ant-design",
+  "full_name": "ant-design/ant-design",
+  "url": "https://github.com/ant-design/ant-design",
+  "description": "An enterprise-class UI design language and React UI library",
+  "stars": 98892,
+  "language": "TypeScript",
+  "topics": [
+    "ant-design",
+    "antd",
+    "design-systems",
+    "react",
+    "typescript",
+    "ui-kit",
+    "ui-library"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T14:51:59Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/ant-design/ant-design/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "79986d481c6b60685ff7fd705c5e4b4cf453a6d7",
+      "bytes": 13817,
+      "lines": 292,
+      "permalink": "https://github.com/ant-design/ant-design/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "349e87ecde0a3eb07999f1f0b032cb10f40fb446",
+      "bytes": 9593,
+      "lines": 190,
+      "permalink": "https://github.com/ant-design/ant-design/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

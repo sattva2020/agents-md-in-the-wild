@@ -1,0 +1,39 @@
+{
+  "owner": "BloopAI",
+  "repo": "vibe-kanban",
+  "full_name": "BloopAI/vibe-kanban",
+  "url": "https://github.com/BloopAI/vibe-kanban",
+  "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+  "stars": 27613,
+  "language": "Rust",
+  "topics": [
+    "agent",
+    "ai-agents",
+    "kanban",
+    "management",
+    "task-manager"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-04-24T09:17:34Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "9396b8f346ac5cc9f92e15bcfa40612d619d445b",
+      "bytes": 3989,
+      "lines": 59,
+      "permalink": "https://github.com/BloopAI/vibe-kanban/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/BloopAI/vibe-kanban/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

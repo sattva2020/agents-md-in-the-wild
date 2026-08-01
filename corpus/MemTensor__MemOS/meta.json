@@ -1,0 +1,46 @@
+{
+  "owner": "MemTensor",
+  "repo": "MemOS",
+  "full_name": "MemTensor/MemOS",
+  "url": "https://github.com/MemTensor/MemOS",
+  "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+  "stars": 10536,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "claude",
+    "hermes",
+    "llm",
+    "long-term-memory",
+    "mcp",
+    "memory",
+    "memory-management"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T09:18:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "cd885b3c468f9a1d2c0e2f795857562600b5cac5",
+      "bytes": 10155,
+      "lines": 156,
+      "permalink": "https://github.com/MemTensor/MemOS/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "c2402f7c7a0bbe95628d6301e64a9334848dc495",
+      "bytes": 1200,
+      "lines": 24,
+      "permalink": "https://github.com/MemTensor/MemOS/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

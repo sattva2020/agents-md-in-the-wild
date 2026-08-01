@@ -1,0 +1,25 @@
+{
+  "owner": "realworld-apps",
+  "repo": "realworld",
+  "full_name": "realworld-apps/realworld",
+  "url": "https://github.com/realworld-apps/realworld",
+  "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+  "stars": 83966,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-06-15T22:54:31Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "f543540aff29c4980de11f9aea87359a482ca82a",
+      "bytes": 2748,
+      "lines": 70,
+      "permalink": "https://github.com/realworld-apps/realworld/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "owner": "browser-use",
+  "repo": "browser-use",
+  "full_name": "browser-use/browser-use",
+  "url": "https://github.com/browser-use/browser-use",
+  "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "stars": 107501,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T03:02:17Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d4f1fcd728bb6f8cdeb0318f30a1e97c79b48e38",
+      "bytes": 38310,
+      "lines": 1022,
+      "permalink": "https://github.com/browser-use/browser-use/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "8600e72346bc14565a69f39ff0d7d2f281fd48a9",
+      "bytes": 11149,
+      "lines": 164,
+      "permalink": "https://github.com/browser-use/browser-use/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

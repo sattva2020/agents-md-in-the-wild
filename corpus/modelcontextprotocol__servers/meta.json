@@ -1,0 +1,25 @@
+{
+  "owner": "modelcontextprotocol",
+  "repo": "servers",
+  "full_name": "modelcontextprotocol/servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "description": "Model Context Protocol Servers",
+  "stars": 89119,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-29T23:09:46Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "ad30b915a851b1da2cba5534cd57db890a498915",
+      "bytes": 4155,
+      "lines": 105,
+      "permalink": "https://github.com/modelcontextprotocol/servers/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

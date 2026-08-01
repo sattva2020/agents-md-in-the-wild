@@ -1,0 +1,46 @@
+{
+  "owner": "nvm-sh",
+  "repo": "nvm",
+  "full_name": "nvm-sh/nvm",
+  "url": "https://github.com/nvm-sh/nvm",
+  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+  "stars": 94310,
+  "language": "Shell",
+  "topics": [
+    "bash",
+    "install",
+    "lts",
+    "node",
+    "node-js",
+    "nodejs",
+    "nvm",
+    "nvmrc",
+    "posix",
+    "posix-compliant",
+    "shell",
+    "version-manager"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-24T19:11:41Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "55efa27d68c70d6fba9a38ccbf482f0ccd2ee225",
+      "bytes": 17433,
+      "lines": 448,
+      "permalink": "https://github.com/nvm-sh/nvm/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/nvm-sh/nvm/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

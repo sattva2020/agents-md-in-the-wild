@@ -1,0 +1,54 @@
+{
+  "owner": "wshobson",
+  "repo": "agents",
+  "full_name": "wshobson/agents",
+  "url": "https://github.com/wshobson/agents",
+  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+  "stars": 38421,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "agents",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "claude-code",
+    "claude-code-plugins",
+    "codex-cli",
+    "copilot",
+    "cursor",
+    "cursor-rules"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-22T15:32:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a65b443ddcb2c74445fd464e6e2d486dc1d8be1b",
+      "bytes": 5382,
+      "lines": 77,
+      "permalink": "https://github.com/wshobson/agents/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/wshobson/agents/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "cbaee60aeb3808eff2ec3467f15d85090b6b2ded",
+      "bytes": 2030,
+      "lines": 53,
+      "permalink": "https://github.com/wshobson/agents/blob/main/GEMINI.md",
+      "stored": "GEMINI.md"
+    }
+  }
+}

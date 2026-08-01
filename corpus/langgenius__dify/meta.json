@@ -1,0 +1,51 @@
+{
+  "owner": "langgenius",
+  "repo": "dify",
+  "full_name": "langgenius/dify",
+  "url": "https://github.com/langgenius/dify",
+  "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+  "stars": 150994,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "automation",
+    "claude",
+    "genai",
+    "gpt",
+    "llm",
+    "low-code",
+    "mcp"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T14:47:09Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "046c2e1dcec3de713ce76d9655ae134495714bed",
+      "bytes": 545,
+      "lines": 9,
+      "permalink": "https://github.com/langgenius/dify/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# AGENTS.md",
+        "## Repository Gotchas"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/langgenius/dify/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": []
+    }
+  }
+}

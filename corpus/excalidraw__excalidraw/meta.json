@@ -1,0 +1,41 @@
+{
+  "owner": "excalidraw",
+  "repo": "excalidraw",
+  "full_name": "excalidraw/excalidraw",
+  "url": "https://github.com/excalidraw/excalidraw",
+  "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+  "stars": 128778,
+  "language": "TypeScript",
+  "topics": [
+    "canvas",
+    "collaboration",
+    "diagrams",
+    "drawing",
+    "hacktoberfest",
+    "productivity",
+    "whiteboard"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T12:22:20Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "4faf291ec8e6623c9d6226fd75631a0e6740c6d1",
+      "bytes": 1295,
+      "lines": 35,
+      "permalink": "https://github.com/excalidraw/excalidraw/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "aebac52a0817909649b719d4b224ec499fc2a2b9",
+      "bytes": 1638,
+      "lines": 46,
+      "permalink": "https://github.com/excalidraw/excalidraw/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

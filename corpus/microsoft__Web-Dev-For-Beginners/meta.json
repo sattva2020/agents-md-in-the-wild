@@ -1,0 +1,34 @@
+{
+  "owner": "microsoft",
+  "repo": "Web-Dev-For-Beginners",
+  "full_name": "microsoft/Web-Dev-For-Beginners",
+  "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+  "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+  "stars": 96089,
+  "language": "JavaScript",
+  "topics": [
+    "css",
+    "curriculum",
+    "education",
+    "html",
+    "javascript",
+    "learning",
+    "microsoft-for-beginners",
+    "tutorials"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T19:54:01Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "45dde22b6d5b0e863c63430a406f85e210b47a20",
+      "bytes": 11847,
+      "lines": 402,
+      "permalink": "https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

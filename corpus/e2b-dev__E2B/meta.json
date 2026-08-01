@@ -1,0 +1,46 @@
+{
+  "owner": "e2b-dev",
+  "repo": "E2B",
+  "full_name": "e2b-dev/E2B",
+  "url": "https://github.com/e2b-dev/E2B",
+  "description": "Open-source, secure environment with real-world tools for enterprise-grade agents.",
+  "stars": 13217,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "code-interpreter",
+    "copilot",
+    "development",
+    "devtools",
+    "gpt",
+    "gpt-4",
+    "javascript",
+    "llm"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T07:39:43Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/e2b-dev/E2B/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "45cca0f9048a70863701856542cc2844ef88d745",
+      "bytes": 1228,
+      "lines": 11,
+      "permalink": "https://github.com/e2b-dev/E2B/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "owner": "sickn33",
+  "repo": "agentic-awesome-skills",
+  "full_name": "sickn33/agentic-awesome-skills",
+  "url": "https://github.com/sickn33/agentic-awesome-skills",
+  "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+  "stars": 44266,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "agentic-skills",
+    "ai-agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "ai-workflows",
+    "antigravity",
+    "antigravity-skills",
+    "claude-code",
+    "claude-code-skills",
+    "codex-cli",
+    "codex-skills"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T17:44:31Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a1bf78e6b2d83939077f00af3ee9c2008ae9b27a",
+      "bytes": 6766,
+      "lines": 55,
+      "permalink": "https://github.com/sickn33/agentic-awesome-skills/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

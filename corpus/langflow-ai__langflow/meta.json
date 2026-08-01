@@ -1,0 +1,40 @@
+{
+  "owner": "langflow-ai",
+  "repo": "langflow",
+  "full_name": "langflow-ai/langflow",
+  "url": "https://github.com/langflow-ai/langflow",
+  "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+  "stars": 152713,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "chatgpt",
+    "generative-ai",
+    "large-language-models",
+    "multiagent",
+    "react-flow"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T00:43:53Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "aebcc209fa9a963155f4b147cd9755347a363529",
+      "bytes": 11312,
+      "lines": 238,
+      "permalink": "https://github.com/langflow-ai/langflow/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "7e3d5df50b61330ede41a53e9a999b8b509f61ee",
+      "bytes": 427,
+      "lines": 7,
+      "permalink": "https://github.com/langflow-ai/langflow/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

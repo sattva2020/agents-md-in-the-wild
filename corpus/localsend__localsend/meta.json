@@ -1,0 +1,38 @@
+{
+  "owner": "localsend",
+  "repo": "localsend",
+  "full_name": "localsend/localsend",
+  "url": "https://github.com/localsend/localsend",
+  "description": "An open-source cross-platform alternative to AirDrop",
+  "stars": 86520,
+  "language": "Dart",
+  "topics": [
+    "dart",
+    "file-sharing",
+    "flutter",
+    "flutter-apps"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T15:56:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "866f69573021bf7621cf928870d0c4d78857f600",
+      "bytes": 11205,
+      "lines": 136,
+      "permalink": "https://github.com/localsend/localsend/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "3ff3036e3339658770d481d7b03d52ddd319a922",
+      "bytes": 270,
+      "lines": 9,
+      "permalink": "https://github.com/localsend/localsend/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

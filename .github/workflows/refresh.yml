@@ -1,0 +1,66 @@
+name: Refresh corpus
+
+# Weekly sweep. The whole point of this repository is that the diff is the
+# product — so this job commits only when upstream files actually changed.
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # Mondays 04:17 UTC
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max repositories to probe"
+        required: false
+        default: "400"
+      min_stars:
+        description: "Star floor for the sweep"
+        required: false
+        default: "2000"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-corpus
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No pip install step on purpose: the scripts are stdlib-only, so this
+      # job cannot break because of a dependency release.
+      - name: Collect
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/collect.py \
+            --limit "${{ inputs.limit || '400' }}" \
+            --min-stars "${{ inputs.min_stars || '2000' }}"
+
+      - name: Rebuild index and patterns
+        run: python scripts/analyze.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "corpus-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- corpus data PATTERNS.md; then
+            echo "No upstream changes this week."
+            exit 0
+          fi
+
+          added=$(git status --porcelain corpus | grep -c '^??' || true)
+          changed=$(git status --porcelain corpus | grep -c '^ M' || true)
+
+          git add corpus data PATTERNS.md
+          git commit -m "corpus: weekly refresh (${added} new, ${changed} changed)"
+          git push

@@ -1,0 +1,46 @@
+{
+  "owner": "ollama",
+  "repo": "ollama",
+  "full_name": "ollama/ollama",
+  "url": "https://github.com/ollama/ollama",
+  "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+  "stars": 177510,
+  "language": "Go",
+  "topics": [
+    "deepseek",
+    "gemma",
+    "gemma3",
+    "glm",
+    "go",
+    "golang",
+    "gpt-oss",
+    "llama",
+    "llama3",
+    "llm",
+    "llms",
+    "minimax"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T23:59:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "0656d6aa2c0e508c46bbb7e0d29f9b4d467355a6",
+      "bytes": 358,
+      "lines": 22,
+      "permalink": "https://github.com/ollama/ollama/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "d6a1d4b60f82167f7c7af66b7a7b16c838d72040",
+      "bytes": 84,
+      "lines": 4,
+      "permalink": "https://github.com/ollama/ollama/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

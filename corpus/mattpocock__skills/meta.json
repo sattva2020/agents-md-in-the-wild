@@ -1,0 +1,33 @@
+{
+  "owner": "mattpocock",
+  "repo": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "stars": 198705,
+  "language": "Shell",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T17:06:59Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/mattpocock/skills/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "e2c7d0b37bf16d4253916268922b736c8e69286e",
+      "bytes": 3297,
+      "lines": 25,
+      "permalink": "https://github.com/mattpocock/skills/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

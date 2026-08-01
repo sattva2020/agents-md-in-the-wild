@@ -1,0 +1,54 @@
+{
+  "owner": "storybookjs",
+  "repo": "storybook",
+  "full_name": "storybookjs/storybook",
+  "url": "https://github.com/storybookjs/storybook",
+  "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+  "stars": 90740,
+  "language": "TypeScript",
+  "topics": [
+    "angular",
+    "components",
+    "design-systems",
+    "documentation",
+    "html",
+    "javascript",
+    "react",
+    "react-native",
+    "stories",
+    "storybook",
+    "styleguide",
+    "svelte"
+  ],
+  "default_branch": "next",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T21:24:42Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "38bc2d1c6ca80e6013163bca8c09dc4e93043dc2",
+      "bytes": 21076,
+      "lines": 366,
+      "permalink": "https://github.com/storybookjs/storybook/blob/next/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/storybookjs/storybook/blob/next/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "5890c95709109dbfd592a4f9d92207100b97c720",
+      "bytes": 1763,
+      "lines": 51,
+      "permalink": "https://github.com/storybookjs/storybook/blob/next/.cursorrules",
+      "stored": ".cursorrules"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "firecrawl",
+  "repo": "firecrawl",
+  "full_name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "description": "The API to search, scrape, and interact with the web at scale. 🔥",
+  "stars": 158988,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-crawler",
+    "ai-scraping",
+    "ai-search",
+    "crawler",
+    "data-extraction",
+    "html-to-markdown",
+    "llm",
+    "markdown",
+    "scraper",
+    "scraping"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T06:56:03Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "fb2ac4163230c142a0729f4100d67dab8065f255",
+      "bytes": 1464,
+      "lines": 19,
+      "permalink": "https://github.com/firecrawl/firecrawl/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "c5d5578a3608a1f5840bd4a2927abe5f2b469ef4",
+      "bytes": 1668,
+      "lines": 21,
+      "permalink": "https://github.com/firecrawl/firecrawl/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

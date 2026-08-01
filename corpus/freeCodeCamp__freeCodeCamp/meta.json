@@ -1,0 +1,38 @@
+{
+  "owner": "freeCodeCamp",
+  "repo": "freeCodeCamp",
+  "full_name": "freeCodeCamp/freeCodeCamp",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+  "stars": 453317,
+  "language": "TypeScript",
+  "topics": [
+    "careers",
+    "certification",
+    "community",
+    "curriculum",
+    "d3",
+    "education",
+    "freecodecamp",
+    "javascript",
+    "learn-to-code",
+    "math",
+    "nodejs",
+    "nonprofits"
+  ],
+  "default_branch": "main",
+  "license": "bsd-3-clause",
+  "tier": "full",
+  "tier_reason": "redistributable under bsd-3-clause",
+  "pushed_at": "2026-08-01T14:58:07Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "f84c24bbf31dca1c580ad10a0f39ea2d41d0377b",
+      "bytes": 4756,
+      "lines": 187,
+      "permalink": "https://github.com/freeCodeCamp/freeCodeCamp/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

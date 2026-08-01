@@ -1,0 +1,42 @@
+{
+  "owner": "micro",
+  "repo": "go-micro",
+  "full_name": "micro/go-micro",
+  "url": "https://github.com/micro/go-micro",
+  "description": "A Go agent harness and service framework",
+  "stars": 22981,
+  "language": "Go",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "distributed-systems",
+    "go",
+    "golang",
+    "mcp",
+    "micro",
+    "microservices"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T09:09:02Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "395c13e8e901af406227e37f5f5e2b1cce6ebd74",
+      "bytes": 1680,
+      "lines": 40,
+      "permalink": "https://github.com/micro/go-micro/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "fadd915fbc050f69939a3ac7ff7929323ca883d5",
+      "bytes": 8406,
+      "lines": 159,
+      "permalink": "https://github.com/micro/go-micro/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

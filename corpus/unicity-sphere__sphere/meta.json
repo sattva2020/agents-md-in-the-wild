@@ -1,0 +1,54 @@
+{
+  "owner": "unicity-sphere",
+  "repo": "sphere",
+  "full_name": "unicity-sphere/sphere",
+  "url": "https://github.com/unicity-sphere/sphere",
+  "description": "A Web3 wallet and agent platform for the Unicity network - crypto wallet, DMs, group chat, and marketplace.",
+  "stars": 9769,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "wallet"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T07:04:27Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "d7475a584f443ca49db297dd749828b2e0d7786a",
+      "bytes": 13468,
+      "lines": 266,
+      "permalink": "https://github.com/unicity-sphere/sphere/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "# CLAUDE.md",
+        "## Project Overview",
+        "## Development Commands",
+        "## Architecture",
+        "### Tech Stack",
+        "### Routes (App.tsx)",
+        "### Active Agents (src/config/activities.ts)",
+        "### Provider Tree (main.tsx)",
+        "### Source Structure",
+        "### SDK Event Bridging (`useSphereEvents`)",
+        "### Query Key Structure",
+        "### Custom Events",
+        "### localStorage Keys",
+        "## Environment Variables",
+        "# '' at build time = disabled (Pages previews do this), dev = off unless set.",
+        "# Init lives in src/instrument.ts — MUST stay the first import in main.tsx.",
+        "# environment tag is derived at runtime (hostname), NOT via runtime-config.sh.",
+        "### Docker image: build-once, promote-many",
+        "## Vite Configuration",
+        "## Testing",
+        "## TypeScript Configuration",
+        "## Developer Notes",
+        "### Node Polyfills",
+        "### Key External Dependencies"
+      ]
+    }
+  }
+}

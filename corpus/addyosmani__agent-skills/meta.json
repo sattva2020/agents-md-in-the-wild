@@ -1,0 +1,40 @@
+{
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "stars": 81223,
+  "language": "JavaScript",
+  "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "skills"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-26T12:51:12Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "e97670ed868e90b73753fafbe305cdabc7f55ad3",
+      "bytes": 5386,
+      "lines": 93,
+      "permalink": "https://github.com/addyosmani/agent-skills/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "97674d0b173c7c25764e11dc816a298a63119594",
+      "bytes": 4094,
+      "lines": 61,
+      "permalink": "https://github.com/addyosmani/agent-skills/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

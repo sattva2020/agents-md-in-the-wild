@@ -1,0 +1,53 @@
+{
+  "owner": "Significant-Gravitas",
+  "repo": "AutoGPT",
+  "full_name": "Significant-Gravitas/AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "stars": 185746,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "claude",
+    "gpt",
+    "llama-api",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:26:01Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d0b325167cd16fa8dcf131cce1cf7f4d1c2ebbd8",
+      "bytes": 3818,
+      "lines": 70,
+      "permalink": "https://github.com/Significant-Gravitas/AutoGPT/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/Significant-Gravitas/AutoGPT/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "3c72eaae18f49b86f68967c9a1df8b71bda01507",
+      "bytes": 12329,
+      "lines": 323,
+      "permalink": "https://github.com/Significant-Gravitas/AutoGPT/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

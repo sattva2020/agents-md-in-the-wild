@@ -1,0 +1,38 @@
+{
+  "owner": "caddyserver",
+  "repo": "caddy",
+  "full_name": "caddyserver/caddy",
+  "url": "https://github.com/caddyserver/caddy",
+  "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+  "stars": 74550,
+  "language": "Go",
+  "topics": [
+    "acme",
+    "automatic-https",
+    "caddy",
+    "caddyfile",
+    "go",
+    "golang",
+    "http",
+    "http-server",
+    "http3",
+    "https",
+    "privacy",
+    "reverse-proxy"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T02:19:27Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "947cef872eb72aea53d1ed7b515be6853b1157c3",
+      "bytes": 8091,
+      "lines": 230,
+      "permalink": "https://github.com/caddyserver/caddy/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

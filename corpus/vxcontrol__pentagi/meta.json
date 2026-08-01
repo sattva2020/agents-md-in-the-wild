@@ -1,0 +1,38 @@
+{
+  "owner": "vxcontrol",
+  "repo": "pentagi",
+  "full_name": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+  "stars": 21449,
+  "language": "Go",
+  "topics": [
+    "ai-agents",
+    "ai-security-tool",
+    "anthropic",
+    "autonomous-agents",
+    "golang",
+    "gpt",
+    "graphql",
+    "multi-agent-system",
+    "offensive-security",
+    "open-source",
+    "openai",
+    "penetration-testing"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T16:46:50Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "6c908dd03386fd959ae80c05367325c07e6e123d",
+      "bytes": 7873,
+      "lines": 151,
+      "permalink": "https://github.com/vxcontrol/pentagi/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

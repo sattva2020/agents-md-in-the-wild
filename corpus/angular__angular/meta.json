@@ -1,0 +1,33 @@
+{
+  "owner": "angular",
+  "repo": "angular",
+  "full_name": "angular/angular",
+  "url": "https://github.com/angular/angular",
+  "description": "Deliver web apps with confidence 🚀",
+  "stars": 100617,
+  "language": "TypeScript",
+  "topics": [
+    "angular",
+    "javascript",
+    "pwa",
+    "typescript",
+    "web",
+    "web-framework",
+    "web-performance"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T22:34:09Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "aa957faf31ee50ac21349c3832ae220b8865f82b",
+      "bytes": 1594,
+      "lines": 35,
+      "permalink": "https://github.com/angular/angular/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

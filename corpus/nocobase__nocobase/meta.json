@@ -1,0 +1,46 @@
+{
+  "owner": "nocobase",
+  "repo": "nocobase",
+  "full_name": "nocobase/nocobase",
+  "url": "https://github.com/nocobase/nocobase",
+  "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+  "stars": 23519,
+  "language": "TypeScript",
+  "topics": [
+    "admin-dashboard",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "ai-tools",
+    "airtable",
+    "crm",
+    "crud",
+    "erp",
+    "internal-tool",
+    "internal-tools",
+    "low-code"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:35:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8110cbd78bd53a0b5c6c6d58f9db3d6793dbd90d",
+      "bytes": 4237,
+      "lines": 49,
+      "permalink": "https://github.com/nocobase/nocobase/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "1917d33c5f9a3a3cb4a9e7f115d09f08448083e7",
+      "bytes": 181,
+      "lines": 4,
+      "permalink": "https://github.com/nocobase/nocobase/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

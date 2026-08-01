@@ -1,0 +1,37 @@
+{
+  "owner": "microsoft",
+  "repo": "ai-agents-for-beginners",
+  "full_name": "microsoft/ai-agents-for-beginners",
+  "url": "https://github.com/microsoft/ai-agents-for-beginners",
+  "description": "18 Lessons to Get Started Building AI Agents",
+  "stars": 70899,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "ai-agents",
+    "ai-agents-framework",
+    "autogen",
+    "foundry",
+    "foundry-local",
+    "generative-ai",
+    "microsoft-foundry",
+    "semantic-kernel"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-29T19:47:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "cb01fe9919e1179ca72eb7df37466edbc2ffb655",
+      "bytes": 10767,
+      "lines": 312,
+      "permalink": "https://github.com/microsoft/ai-agents-for-beginners/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

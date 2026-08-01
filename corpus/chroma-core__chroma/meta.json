@@ -1,0 +1,40 @@
+{
+  "owner": "chroma-core",
+  "repo": "chroma",
+  "full_name": "chroma-core/chroma",
+  "url": "https://github.com/chroma-core/chroma",
+  "description": "Search infrastructure for AI",
+  "stars": 28918,
+  "language": "Rust",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "database",
+    "rust",
+    "rust-lang"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T23:15:46Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "ddc88d378dc9c013c79ac692954c9a3f939834b1",
+      "bytes": 129,
+      "lines": 4,
+      "permalink": "https://github.com/chroma-core/chroma/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "33a11117de0a059ea2262aca6dcd745a82711033",
+      "bytes": 2149,
+      "lines": 56,
+      "permalink": "https://github.com/chroma-core/chroma/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

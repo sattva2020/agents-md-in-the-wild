@@ -1,0 +1,41 @@
+{
+  "owner": "gohugoio",
+  "repo": "hugo",
+  "full_name": "gohugoio/hugo",
+  "url": "https://github.com/gohugoio/hugo",
+  "description": "The world’s fastest framework for building websites.",
+  "stars": 89268,
+  "language": "Go",
+  "topics": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-30T09:04:04Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "60c985440f40b8f37eccb67567c0bbdafd899eba",
+      "bytes": 1678,
+      "lines": 23,
+      "permalink": "https://github.com/gohugoio/hugo/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/gohugoio/hugo/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

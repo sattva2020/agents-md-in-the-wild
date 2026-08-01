@@ -1,0 +1,38 @@
+{
+  "owner": "koala73",
+  "repo": "worldmonitor",
+  "full_name": "koala73/worldmonitor",
+  "url": "https://github.com/koala73/worldmonitor",
+  "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+  "stars": 77721,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "mcp",
+    "mcp-server",
+    "monitoring",
+    "news",
+    "opensource",
+    "osint",
+    "palantir",
+    "situation"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T16:50:28Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "271a265406f2c6a7de14967cce8f9d5ee92c883e",
+      "bytes": 15314,
+      "lines": 250,
+      "permalink": "https://github.com/koala73/worldmonitor/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "owner": "obra",
+  "repo": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "stars": 264731,
+  "language": "Shell",
+  "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "subagent-driven-development",
+    "superpowers"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T17:52:07Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/obra/superpowers/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "5f3d7410f82cb3d348a80cbd59c359da9f75e6d8",
+      "bytes": 8873,
+      "lines": 116,
+      "permalink": "https://github.com/obra/superpowers/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "0dd2f585ecb2ee37c558c8233d72489bb2135856",
+      "bytes": 92,
+      "lines": 3,
+      "permalink": "https://github.com/obra/superpowers/blob/main/GEMINI.md",
+      "stored": "GEMINI.md"
+    }
+  }
+}

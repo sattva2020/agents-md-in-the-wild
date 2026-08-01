@@ -1,0 +1,46 @@
+{
+  "owner": "activepieces",
+  "repo": "activepieces",
+  "full_name": "activepieces/activepieces",
+  "url": "https://github.com/activepieces/activepieces",
+  "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+  "stars": 23540,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agent",
+    "ai-agent-tools",
+    "ai-agents",
+    "ai-agents-framework",
+    "mcp",
+    "mcp-server",
+    "mcp-tools",
+    "mcps",
+    "n8n-alternative",
+    "no-code-automation",
+    "workflow",
+    "workflow-automation"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T15:37:07Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b047f339f4ba3be62512a303b64a1cf7cb5ef719",
+      "bytes": 14943,
+      "lines": 164,
+      "permalink": "https://github.com/activepieces/activepieces/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/activepieces/activepieces/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

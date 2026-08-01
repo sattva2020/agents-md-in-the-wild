@@ -1,0 +1,39 @@
+{
+  "owner": "microsoft",
+  "repo": "vscode",
+  "full_name": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "description": "Visual Studio Code",
+  "stars": 188099,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "electron",
+    "microsoft",
+    "typescript",
+    "visual-studio-code"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:09:51Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d6abb76ab8384fb7b391b551b159002657c218c1",
+      "bytes": 271,
+      "lines": 6,
+      "permalink": "https://github.com/microsoft/vscode/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "3159c4484dc9deedada0dab4daac865140c44275",
+      "bytes": 10592,
+      "lines": 153,
+      "permalink": "https://github.com/microsoft/vscode/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

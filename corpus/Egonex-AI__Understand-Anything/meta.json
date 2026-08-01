@@ -1,0 +1,38 @@
+{
+  "owner": "Egonex-AI",
+  "repo": "Understand-Anything",
+  "full_name": "Egonex-AI/Understand-Anything",
+  "url": "https://github.com/Egonex-AI/Understand-Anything",
+  "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+  "stars": 77021,
+  "language": "TypeScript",
+  "topics": [
+    "antigravity-skills",
+    "business-knowledge",
+    "claude-code",
+    "claude-skills",
+    "codebase-analysis",
+    "codex",
+    "codex-skills",
+    "developer-tools-ai-agent",
+    "gemini-cli-skills",
+    "karpathy-llm-wiki",
+    "knowledge-base",
+    "knowledge-graph"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T02:54:18Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "3928a346ea4a111849d6479f3c360a34cd0a6570",
+      "bytes": 6844,
+      "lines": 103,
+      "permalink": "https://github.com/Egonex-AI/Understand-Anything/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

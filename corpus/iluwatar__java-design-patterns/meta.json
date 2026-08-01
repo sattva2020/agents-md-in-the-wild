@@ -1,0 +1,34 @@
+{
+  "owner": "iluwatar",
+  "repo": "java-design-patterns",
+  "full_name": "iluwatar/java-design-patterns",
+  "url": "https://github.com/iluwatar/java-design-patterns",
+  "description": "Design patterns implemented in Java",
+  "stars": 94506,
+  "language": "Java",
+  "topics": [
+    "awesome-list",
+    "design-patterns",
+    "hacktoberfest",
+    "java",
+    "principles",
+    "snippets",
+    "snippets-collection",
+    "snippets-library"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T11:42:30Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b30cbdd19b06ea17301fe954c9088c8dda288546",
+      "bytes": 3588,
+      "lines": 52,
+      "permalink": "https://github.com/iluwatar/java-design-patterns/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "owner": "earthtojake",
+  "repo": "text-to-cad",
+  "full_name": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "description": "A library of agent skills for CAD, CAE and CAM",
+  "stars": 12353,
+  "language": "JavaScript",
+  "topics": [
+    "agents",
+    "ai-agents",
+    "cad",
+    "mechanical-engineering",
+    "robotics",
+    "step",
+    "stl",
+    "stp",
+    "text-to-cad"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T18:19:13Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "0a95db22d94f796da2b43d9032f78c7059b6833e",
+      "bytes": 11684,
+      "lines": 212,
+      "permalink": "https://github.com/earthtojake/text-to-cad/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/earthtojake/text-to-cad/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

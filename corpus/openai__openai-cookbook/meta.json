@@ -1,0 +1,30 @@
+{
+  "owner": "openai",
+  "repo": "openai-cookbook",
+  "full_name": "openai/openai-cookbook",
+  "url": "https://github.com/openai/openai-cookbook",
+  "description": "Examples and guides for using the OpenAI API",
+  "stars": 75051,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "chatgpt",
+    "gpt-4",
+    "openai",
+    "openai-api"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T02:18:54Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "90bb37894a5b223c0d8c7731d22c6fa6c569eb8c",
+      "bytes": 5964,
+      "lines": 51,
+      "permalink": "https://github.com/openai/openai-cookbook/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "multica-ai",
+  "repo": "andrej-karpathy-skills",
+  "full_name": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+  "stars": 198442,
+  "language": null,
+  "topics": [],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-04-20T10:05:04Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "daced9bd64f25908ebedeb4701fb406985dc8366",
+      "bytes": 2357,
+      "lines": 66,
+      "permalink": "https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "# CLAUDE.md",
+        "## 1. Think Before Coding",
+        "## 2. Simplicity First",
+        "## 3. Surgical Changes",
+        "## 4. Goal-Driven Execution"
+      ]
+    }
+  }
+}

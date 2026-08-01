@@ -1,0 +1,50 @@
+{
+  "owner": "affaan-m",
+  "repo": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "stars": 236784,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-29T18:11:01Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c2676f82ac72d3076aca91486f036762614a2b34",
+      "bytes": 8626,
+      "lines": 173,
+      "permalink": "https://github.com/affaan-m/ECC/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "d5649ac50594fb5f3e8597d630fd2d6c72bd4a8f",
+      "bytes": 3936,
+      "lines": 83,
+      "permalink": "https://github.com/affaan-m/ECC/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "02002d06cc8f8d6cfd8a43e7ec4156fcca3673b2",
+      "bytes": 4617,
+      "lines": 116,
+      "permalink": "https://github.com/affaan-m/ECC/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

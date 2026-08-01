@@ -1,0 +1,46 @@
+{
+  "owner": "vercel",
+  "repo": "next.js",
+  "full_name": "vercel/next.js",
+  "url": "https://github.com/vercel/next.js",
+  "description": "The React Framework",
+  "stars": 141218,
+  "language": "JavaScript",
+  "topics": [
+    "blog",
+    "browser",
+    "compiler",
+    "components",
+    "hybrid",
+    "nextjs",
+    "node",
+    "react",
+    "server-rendering",
+    "ssg",
+    "static",
+    "static-site-generator"
+  ],
+  "default_branch": "canary",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T10:39:09Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "29f1d68d9928d9bb17aa426594a179dec001d2eb",
+      "bytes": 25280,
+      "lines": 513,
+      "permalink": "https://github.com/vercel/next.js/blob/canary/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/vercel/next.js/blob/canary/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

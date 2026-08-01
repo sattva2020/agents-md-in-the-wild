@@ -1,0 +1,62 @@
+{
+  "owner": "diegosouzapw",
+  "repo": "OmniRoute",
+  "full_name": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+  "stars": 36828,
+  "language": "TypeScript",
+  "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "cline",
+    "codex",
+    "copilot",
+    "cursor",
+    "deepseek",
+    "free-ai"
+  ],
+  "default_branch": "release/v3.8.50",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T14:32:04Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "cc76b1d408fcf11f4d4ce015f85f6266cb680a42",
+      "bytes": 37005,
+      "lines": 601,
+      "permalink": "https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "262799988b1ffca722a0f09021de9855a7271338",
+      "bytes": 46651,
+      "lines": 565,
+      "permalink": "https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "31cc71e7616b498a75148874e164f9d5e96075cd",
+      "bytes": 8281,
+      "lines": 51,
+      "permalink": "https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/GEMINI.md",
+      "stored": "GEMINI.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "7fa0cc6f44a837d472ebb50bdc6dca6929d56379",
+      "bytes": 981,
+      "lines": 16,
+      "permalink": "https://github.com/diegosouzapw/OmniRoute/blob/release/v3.8.50/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

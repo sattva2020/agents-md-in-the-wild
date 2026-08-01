@@ -1,0 +1,31 @@
+{
+  "owner": "Jeffallan",
+  "repo": "claude-skills",
+  "full_name": "Jeffallan/claude-skills",
+  "url": "https://github.com/Jeffallan/claude-skills",
+  "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+  "stars": 10831,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-marketplace",
+    "claude-skills"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-05-20T13:35:05Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "2fb853e9e90dc4f3fa525df90cae3e538fcfb9fa",
+      "bytes": 11132,
+      "lines": 311,
+      "permalink": "https://github.com/Jeffallan/claude-skills/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

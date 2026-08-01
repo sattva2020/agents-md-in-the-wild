@@ -1,0 +1,54 @@
+{
+  "owner": "louislam",
+  "repo": "uptime-kuma",
+  "full_name": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "description": "A fancy self-hosted monitoring tool",
+  "stars": 89694,
+  "language": "JavaScript",
+  "topics": [
+    "docker",
+    "monitor",
+    "monitoring",
+    "responsive",
+    "self-hosted",
+    "selfhosted",
+    "single-page-app",
+    "socket-io",
+    "uptime",
+    "uptime-monitoring",
+    "webapp",
+    "websocket"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:37:00Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a81dfd3c43c3df11ae829823c46bcc87182b76b1",
+      "bytes": 2321,
+      "lines": 50,
+      "permalink": "https://github.com/louislam/uptime-kuma/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a81dfd3c43c3df11ae829823c46bcc87182b76b1",
+      "bytes": 2321,
+      "lines": 50,
+      "permalink": "https://github.com/louislam/uptime-kuma/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "0f839d6076b5e4e4fd5b8fff97fdb9bf6a41c4d9",
+      "bytes": 6447,
+      "lines": 179,
+      "permalink": "https://github.com/louislam/uptime-kuma/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

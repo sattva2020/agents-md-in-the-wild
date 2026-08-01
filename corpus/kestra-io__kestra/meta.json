@@ -1,0 +1,46 @@
+{
+  "owner": "kestra-io",
+  "repo": "kestra",
+  "full_name": "kestra-io/kestra",
+  "url": "https://github.com/kestra-io/kestra",
+  "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+  "stars": 27525,
+  "language": "Java",
+  "topics": [
+    "ai-agents",
+    "automation",
+    "control-plane",
+    "data-engineering",
+    "data-orchestration",
+    "data-orchestrator",
+    "devops",
+    "etl",
+    "hacktoberfest",
+    "high-availability",
+    "infra-automation",
+    "infra-ops"
+  ],
+  "default_branch": "develop",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T06:21:01Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a2b3a006d2adb8f5e598c920ee7c5499fc394dc9",
+      "bytes": 16725,
+      "lines": 409,
+      "permalink": "https://github.com/kestra-io/kestra/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "eef4bd20cf972fc2f3c7405fdae3fdcff80e59d4",
+      "bytes": 10,
+      "lines": 1,
+      "permalink": "https://github.com/kestra-io/kestra/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

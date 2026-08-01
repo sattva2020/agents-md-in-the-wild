@@ -1,0 +1,40 @@
+{
+  "owner": "vinta",
+  "repo": "awesome-python",
+  "full_name": "vinta/awesome-python",
+  "url": "https://github.com/vinta/awesome-python",
+  "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+  "stars": 311553,
+  "language": "Python",
+  "topics": [
+    "awesome",
+    "collections",
+    "python",
+    "python-frameworks",
+    "python-libraries",
+    "python-tools"
+  ],
+  "default_branch": "master",
+  "license": "cc-by-4.0",
+  "tier": "full",
+  "tier_reason": "redistributable under cc-by-4.0",
+  "pushed_at": "2026-07-29T04:17:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "29c863bcd4a98ab001e68807a907ba5ee72fa1d0",
+      "bytes": 1990,
+      "lines": 32,
+      "permalink": "https://github.com/vinta/awesome-python/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a6a15c166551a874b3488b209f34bdd6853262e2",
+      "bytes": 1726,
+      "lines": 32,
+      "permalink": "https://github.com/vinta/awesome-python/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

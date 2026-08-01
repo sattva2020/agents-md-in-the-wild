@@ -1,0 +1,36 @@
+{
+  "owner": "yangshun",
+  "repo": "tech-interview-handbook",
+  "full_name": "yangshun/tech-interview-handbook",
+  "url": "https://github.com/yangshun/tech-interview-handbook",
+  "description": "Curated coding interview preparation materials for busy software engineers",
+  "stars": 141467,
+  "language": "TypeScript",
+  "topics": [
+    "algorithm",
+    "algorithm-interview",
+    "algorithm-interview-questions",
+    "algorithms",
+    "behavioral-interviews",
+    "coding-interviews",
+    "interview-practice",
+    "interview-preparation",
+    "interview-questions",
+    "system-design"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-29T09:01:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "f190a523475bd20cd0b048490449019dc2af17ef",
+      "bytes": 4153,
+      "lines": 77,
+      "permalink": "https://github.com/yangshun/tech-interview-handbook/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

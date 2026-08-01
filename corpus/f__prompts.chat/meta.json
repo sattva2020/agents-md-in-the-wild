@@ -1,0 +1,46 @@
+{
+  "owner": "f",
+  "repo": "prompts.chat",
+  "full_name": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+  "stars": 166600,
+  "language": "HTML",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "awesome-list",
+    "chatgpt",
+    "chatgpt-prompts",
+    "claude",
+    "gemini",
+    "gpt",
+    "gpt-4",
+    "llm",
+    "machine-learning",
+    "nextjs"
+  ],
+  "default_branch": "main",
+  "license": "cc0-1.0",
+  "tier": "full",
+  "tier_reason": "redistributable under cc0-1.0",
+  "pushed_at": "2026-08-01T04:10:51Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8a687a54a22ecf7e7634a5e0c08f25d5f956f8c6",
+      "bytes": 9285,
+      "lines": 269,
+      "permalink": "https://github.com/f/prompts.chat/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "dd0db19a332cae6298f17d938c81aacaccbb7884",
+      "bytes": 2328,
+      "lines": 71,
+      "permalink": "https://github.com/f/prompts.chat/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

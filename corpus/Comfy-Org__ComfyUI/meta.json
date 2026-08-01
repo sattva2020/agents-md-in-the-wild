@@ -1,0 +1,32 @@
+{
+  "owner": "Comfy-Org",
+  "repo": "ComfyUI",
+  "full_name": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+  "stars": 123116,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "comfy",
+    "comfyui",
+    "python",
+    "pytorch",
+    "stable-diffusion"
+  ],
+  "default_branch": "master",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-08-01T10:47:15Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "bfe0976fdc5ef6ff45e218860e34e0569baf33cc",
+      "bytes": 22617,
+      "lines": 356,
+      "permalink": "https://github.com/Comfy-Org/ComfyUI/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

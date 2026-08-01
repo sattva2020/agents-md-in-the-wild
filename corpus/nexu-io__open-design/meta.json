@@ -1,0 +1,46 @@
+{
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "full_name": "nexu-io/open-design",
+  "url": "https://github.com/nexu-io/open-design",
+  "description": "🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK.",
+  "stars": 83003,
+  "language": "TypeScript",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-design",
+    "byok",
+    "claude-code-for-design",
+    "claude-design",
+    "codex-design",
+    "coding-agents",
+    "cursor-design",
+    "design-systems",
+    "design-tools",
+    "desktop-app"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:54:00Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "3e8119b2d76e6db9c904afc7bab956fd0481b9c2",
+      "bytes": 38307,
+      "lines": 373,
+      "permalink": "https://github.com/nexu-io/open-design/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/nexu-io/open-design/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

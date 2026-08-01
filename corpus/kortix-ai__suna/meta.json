@@ -1,0 +1,57 @@
+{
+  "owner": "kortix-ai",
+  "repo": "suna",
+  "full_name": "kortix-ai/suna",
+  "url": "https://github.com/kortix-ai/suna",
+  "description": "The open-source AI Management System",
+  "stars": 20055,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "llm"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T17:11:12Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8ba5f503d3853b0d0b41fd8d459bf456e4cf8b6f",
+      "bytes": 23377,
+      "lines": 405,
+      "permalink": "https://github.com/kortix-ai/suna/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# Kortix project",
+        "## What \"ownership\" means",
+        "### The bar: autonomy, agency, ownership",
+        "## How to communicate: precise, technically accurate, no fluff",
+        "## First, at session start: where do you work?",
+        "## Default delivery: PR, merge to main, then prove it on dev",
+        "## Architecture: `@kortix/sdk` is the source of truth",
+        "## You CAN run and verify everything end-to-end. Do it.",
+        "### Required verification standard — real inputs, real outputs",
+        "### The stack (already wired)",
+        "### Authenticating to the live API (for scripts/tests)",
+        "### End-to-end harnesses",
+        "### End-to-end tests — `ke2e` (the canonical API suite + source of truth)",
+        "### Release topology — dev, staging, prod",
+        "### Driving the real UI (chrome-devtools MCP)",
+        "### Frontend type/lint gate",
+        "### Frontend design standard — Jay/Kortix bar"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/kortix-ai/suna/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": []
+    }
+  }
+}

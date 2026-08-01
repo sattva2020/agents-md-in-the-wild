@@ -1,0 +1,46 @@
+{
+  "owner": "microsoft",
+  "repo": "PowerToys",
+  "full_name": "microsoft/PowerToys",
+  "url": "https://github.com/microsoft/PowerToys",
+  "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+  "stars": 137348,
+  "language": "C",
+  "topics": [
+    "advanced-paste",
+    "color-picker",
+    "command-palette",
+    "desktop",
+    "fancyzones",
+    "keyboard-manager",
+    "microsoft-powertoys",
+    "powerrename",
+    "powertoys",
+    "windows",
+    "windows-10",
+    "windows-11"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T02:39:27Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c1afb34edc040379057b95d06c4033636738ff1f",
+      "bytes": 6816,
+      "lines": 173,
+      "permalink": "https://github.com/microsoft/PowerToys/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "1a2987301601855eac3b1c2aec25cc9b71f8b924",
+      "bytes": 1380,
+      "lines": 42,
+      "permalink": "https://github.com/microsoft/PowerToys/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

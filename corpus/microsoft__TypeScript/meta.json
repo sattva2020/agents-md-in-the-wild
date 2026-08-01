@@ -1,0 +1,46 @@
+{
+  "owner": "microsoft",
+  "repo": "TypeScript",
+  "full_name": "microsoft/TypeScript",
+  "url": "https://github.com/microsoft/TypeScript",
+  "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+  "stars": 110028,
+  "language": "TypeScript",
+  "topics": [
+    "javascript",
+    "language",
+    "typechecker",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-27T21:04:52Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d8efb31ed9e3a18ade8e68ea74564991d4cb66e9",
+      "bytes": 1997,
+      "lines": 31,
+      "permalink": "https://github.com/microsoft/TypeScript/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "7494f654a4c48d2fe966aae6389f4b8b663355e7",
+      "bytes": 33,
+      "lines": 1,
+      "permalink": "https://github.com/microsoft/TypeScript/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "974f237d6137477800f580cb57a5d8ed6e01bf5f",
+      "bytes": 12225,
+      "lines": 372,
+      "permalink": "https://github.com/microsoft/TypeScript/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

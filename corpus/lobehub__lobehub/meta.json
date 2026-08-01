@@ -1,0 +1,76 @@
+{
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "full_name": "lobehub/lobehub",
+  "url": "https://github.com/lobehub/lobehub",
+  "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+  "stars": 81042,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-collaboration",
+    "agent-harness",
+    "ai",
+    "cao",
+    "chatgpt",
+    "chief-agent-operator",
+    "claude",
+    "deepseek",
+    "fable",
+    "gemini",
+    "glm"
+  ],
+  "default_branch": "canary",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T16:59:26Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "97bc1e6d3abbb210089989916300df7f6efd43f4",
+      "bytes": 9008,
+      "lines": 141,
+      "permalink": "https://github.com/lobehub/lobehub/blob/canary/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# LobeHub Development Guidelines",
+        "## Tech Stack",
+        "## Project Structure",
+        "## SPA Routes and Features",
+        "## Development",
+        "### Starting the Dev Environment",
+        "# SPA dev mode (frontend only, proxies API to localhost:3010)",
+        "# Full-stack dev (Next.js + Vite SPA concurrently)",
+        "# Standalone Hono backend service",
+        "### Backend Architecture",
+        "### Git Workflow",
+        "### Package Management",
+        "### Quality Check",
+        "### i18n",
+        "### Code Style",
+        "### Code Review"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/lobehub/lobehub/blob/canary/CLAUDE.md",
+      "stored": null,
+      "headings": []
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "9072b68275dfb0c650c4761c54611e73f0dd4a8e",
+      "bytes": 53,
+      "lines": 4,
+      "permalink": "https://github.com/lobehub/lobehub/blob/canary/GEMINI.md",
+      "stored": null,
+      "headings": [
+        "# GEMINI.md"
+      ]
+    }
+  }
+}

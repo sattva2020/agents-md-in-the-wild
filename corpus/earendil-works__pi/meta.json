@@ -1,0 +1,25 @@
+{
+  "owner": "earendil-works",
+  "repo": "pi",
+  "full_name": "earendil-works/pi",
+  "url": "https://github.com/earendil-works/pi",
+  "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+  "stars": 81872,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T12:38:36Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d653442f4511903408a45520896b41385576f9bb",
+      "bytes": 10731,
+      "lines": 163,
+      "permalink": "https://github.com/earendil-works/pi/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

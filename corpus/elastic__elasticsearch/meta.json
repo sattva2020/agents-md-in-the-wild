@@ -1,0 +1,68 @@
+{
+  "owner": "elastic",
+  "repo": "elasticsearch",
+  "full_name": "elastic/elasticsearch",
+  "url": "https://github.com/elastic/elasticsearch",
+  "description": "Free and Open Source, Distributed, RESTful Search Engine",
+  "stars": 77631,
+  "language": "Java",
+  "topics": [
+    "elasticsearch",
+    "java",
+    "search-engine"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T10:05:49Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "5c356d2d8b0cb0dea905a10da0f47f13728c3ff2",
+      "bytes": 16144,
+      "lines": 180,
+      "permalink": "https://github.com/elastic/elasticsearch/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# Elasticsearch",
+        "## Toolchain Snapshot",
+        "## Build & Run Commands",
+        "## Verification & Lint Tasks",
+        "## Project Structure",
+        "## Stateless Elasticsearch",
+        "### Plugin `deploymentTarget`",
+        "### Plugin locations",
+        "### Key subsystems",
+        "## Testing Cheatsheet",
+        "### Test Types",
+        "### Distribution selection for external-module tests",
+        "## Dependency Hygiene",
+        "## Entitlement Policy",
+        "## Formatting & Imports",
+        "## Types, Generics, and Suppressions",
+        "## Naming Conventions",
+        "## Logging & Error Handling",
+        "## Javadoc & Comments",
+        "## License Headers",
+        "## Generated Files",
+        "## Debugging Missing Tests",
+        "### `No tests found for given includes: [**/*$*.class]`",
+        "## Best Practices for Automation Agents",
+        "## Methods with Required Javadoc Reading",
+        "## ES|QL tests",
+        "## Backwards compatibility",
+        "## Documentation"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "eef4bd20cf972fc2f3c7405fdae3fdcff80e59d4",
+      "bytes": 10,
+      "lines": 1,
+      "permalink": "https://github.com/elastic/elasticsearch/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": []
+    }
+  }
+}

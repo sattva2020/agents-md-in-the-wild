@@ -1,0 +1,46 @@
+{
+  "owner": "topoteretes",
+  "repo": "cognee",
+  "full_name": "topoteretes/cognee",
+  "url": "https://github.com/topoteretes/cognee",
+  "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+  "stars": 29663,
+  "language": "Python",
+  "topics": [
+    "agent-memory",
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "cognitive-architecture",
+    "cognitive-memory",
+    "context-engineering",
+    "contributions-welcome",
+    "good-first-issue",
+    "good-first-pr",
+    "graph-database"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:21:43Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "376bbabed11551f0956536cfcaf8283a6896b2a5",
+      "bytes": 5771,
+      "lines": 131,
+      "permalink": "https://github.com/topoteretes/cognee/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "d9118982e8fd15299dfb970f1772d5190dd32190",
+      "bytes": 21573,
+      "lines": 615,
+      "permalink": "https://github.com/topoteretes/cognee/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

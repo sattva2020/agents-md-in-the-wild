@@ -1,0 +1,37 @@
+{
+  "owner": "jesseduffield",
+  "repo": "lazygit",
+  "full_name": "jesseduffield/lazygit",
+  "url": "https://github.com/jesseduffield/lazygit",
+  "description": "simple terminal UI for git commands",
+  "stars": 80927,
+  "language": "Go",
+  "topics": [
+    "cli",
+    "git",
+    "terminal"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T11:22:25Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "96c5ba7587142eaef06daf4edbb64bc79bf58db5",
+      "bytes": 22712,
+      "lines": 455,
+      "permalink": "https://github.com/jesseduffield/lazygit/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "3f1ed7b4ce9db87158d3211baf97be72e46e5673",
+      "bytes": 58,
+      "lines": 2,
+      "permalink": "https://github.com/jesseduffield/lazygit/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

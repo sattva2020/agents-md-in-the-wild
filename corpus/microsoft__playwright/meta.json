@@ -1,0 +1,46 @@
+{
+  "owner": "microsoft",
+  "repo": "playwright",
+  "full_name": "microsoft/playwright",
+  "url": "https://github.com/microsoft/playwright",
+  "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+  "stars": 93795,
+  "language": "TypeScript",
+  "topics": [
+    "automation",
+    "chrome",
+    "chromium",
+    "e2e-testing",
+    "electron",
+    "end-to-end-testing",
+    "firefox",
+    "javascript",
+    "playwright",
+    "test",
+    "test-automation",
+    "testing"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T21:39:29Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a8034c33431686b81568c6acedb8a88d2881b821",
+      "bytes": 7109,
+      "lines": 154,
+      "permalink": "https://github.com/microsoft/playwright/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "087cc6101df5e8c4f3862b655368b79634f457e4",
+      "bytes": 635,
+      "lines": 11,
+      "permalink": "https://github.com/microsoft/playwright/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

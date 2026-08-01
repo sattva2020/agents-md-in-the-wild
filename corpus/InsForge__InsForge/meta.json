@@ -1,0 +1,38 @@
+{
+  "owner": "InsForge",
+  "repo": "InsForge",
+  "full_name": "InsForge/InsForge",
+  "url": "https://github.com/InsForge/InsForge",
+  "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+  "stars": 12611,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "coding",
+    "deno",
+    "embeddings",
+    "insforge",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgresql",
+    "realtime",
+    "vectors"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T02:15:09Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "68d4eed2baee8b02a214dc1cdda1addbc44eb157",
+      "bytes": 5608,
+      "lines": 147,
+      "permalink": "https://github.com/InsForge/InsForge/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "Stirling-Tools",
+  "repo": "Stirling-PDF",
+  "full_name": "Stirling-Tools/Stirling-PDF",
+  "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+  "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+  "stars": 88520,
+  "language": "Java",
+  "topics": [
+    "docker",
+    "hacktoberfest",
+    "java",
+    "pdf",
+    "pdf-converter",
+    "pdf-editor",
+    "pdf-manipulation",
+    "pdf-merger",
+    "pdf-ocr",
+    "pdf-tools",
+    "pdf-web-apps",
+    "pdfmerger"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:29:12Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "259729bc0433af40926a9200072126d56ba14bfb",
+      "bytes": 27801,
+      "lines": 512,
+      "permalink": "https://github.com/Stirling-Tools/Stirling-PDF/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/Stirling-Tools/Stirling-PDF/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

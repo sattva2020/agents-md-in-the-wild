@@ -1,0 +1,28 @@
+{
+  "owner": "cloudflare",
+  "repo": "moltworker",
+  "full_name": "cloudflare/moltworker",
+  "url": "https://github.com/cloudflare/moltworker",
+  "description": "Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers",
+  "stars": 9933,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "cloudflare-workers"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-05-09T02:37:13Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "ec30d2c18bdf8c65180fa16464bd21c8e76e1d11",
+      "bytes": 10177,
+      "lines": 262,
+      "permalink": "https://github.com/cloudflare/moltworker/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

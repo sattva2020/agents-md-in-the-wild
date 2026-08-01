@@ -1,0 +1,31 @@
+{
+  "owner": "vitejs",
+  "repo": "vite",
+  "full_name": "vitejs/vite",
+  "url": "https://github.com/vitejs/vite",
+  "description": "Next generation frontend tooling. It's fast!",
+  "stars": 82162,
+  "language": "TypeScript",
+  "topics": [
+    "build-tool",
+    "dev-server",
+    "frontend",
+    "hmr",
+    "vite"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T10:31:51Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "ee997e43007f237d699ee26933517aa5d7e6a499",
+      "bytes": 1632,
+      "lines": 51,
+      "permalink": "https://github.com/vitejs/vite/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "langchain-ai",
+  "repo": "langgraph",
+  "full_name": "langchain-ai/langgraph",
+  "url": "https://github.com/langchain-ai/langgraph",
+  "description": "Build resilient agents.",
+  "stars": 38630,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "chatgpt",
+    "deepagents",
+    "enterprise",
+    "framework",
+    "gemini",
+    "generative-ai",
+    "langchain",
+    "langgraph",
+    "llm"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T06:25:50Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "7a8d1dc123639a5db6acd2e09563b7340154d77c",
+      "bytes": 1866,
+      "lines": 58,
+      "permalink": "https://github.com/langchain-ai/langgraph/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "cc4ee1a9a254d47ed182622392e67f437df9b945",
+      "bytes": 1863,
+      "lines": 58,
+      "permalink": "https://github.com/langchain-ai/langgraph/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

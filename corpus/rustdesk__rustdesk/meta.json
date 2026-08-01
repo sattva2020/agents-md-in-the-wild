@@ -1,0 +1,54 @@
+{
+  "owner": "rustdesk",
+  "repo": "rustdesk",
+  "full_name": "rustdesk/rustdesk",
+  "url": "https://github.com/rustdesk/rustdesk",
+  "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+  "stars": 119375,
+  "language": "Rust",
+  "topics": [
+    "android",
+    "anydesk",
+    "dart",
+    "flatpak",
+    "flutter",
+    "flutter-apps",
+    "ios",
+    "linux",
+    "macos",
+    "p2p",
+    "rdp",
+    "remote-control"
+  ],
+  "default_branch": "master",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-07-31T00:12:28Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8f558c959018f925d9e2803fe05d00728238c8fb",
+      "bytes": 4836,
+      "lines": 99,
+      "permalink": "https://github.com/rustdesk/rustdesk/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "c3170642553f7fbd9814aa49e9d00ed547e797cf",
+      "bytes": 10,
+      "lines": 2,
+      "permalink": "https://github.com/rustdesk/rustdesk/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "c3170642553f7fbd9814aa49e9d00ed547e797cf",
+      "bytes": 10,
+      "lines": 2,
+      "permalink": "https://github.com/rustdesk/rustdesk/blob/master/GEMINI.md",
+      "stored": "GEMINI.md"
+    }
+  }
+}

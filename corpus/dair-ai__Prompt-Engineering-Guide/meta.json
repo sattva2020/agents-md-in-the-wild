@@ -1,0 +1,37 @@
+{
+  "owner": "dair-ai",
+  "repo": "Prompt-Engineering-Guide",
+  "full_name": "dair-ai/Prompt-Engineering-Guide",
+  "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+  "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+  "stars": 77180,
+  "language": "MDX",
+  "topics": [
+    "agent",
+    "agents",
+    "ai-agents",
+    "chatgpt",
+    "deep-learning",
+    "generative-ai",
+    "language-model",
+    "llms",
+    "openai",
+    "prompt-engineering",
+    "rag"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-03-11T20:09:13Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "fe8391e06307f051c30a19c9c533f6256ff8ae29",
+      "bytes": 629,
+      "lines": 15,
+      "permalink": "https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

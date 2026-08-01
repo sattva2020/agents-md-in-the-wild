@@ -1,0 +1,38 @@
+{
+  "owner": "Chalarangelo",
+  "repo": "30-seconds-of-code",
+  "full_name": "Chalarangelo/30-seconds-of-code",
+  "url": "https://github.com/Chalarangelo/30-seconds-of-code",
+  "description": "Coding articles to level up your development skills",
+  "stars": 128566,
+  "language": "JavaScript",
+  "topics": [
+    "astro",
+    "awesome-list",
+    "css",
+    "education",
+    "es6-javascript",
+    "git",
+    "html",
+    "javascript",
+    "learn-to-code",
+    "learning-resources",
+    "nodejs",
+    "programming"
+  ],
+  "default_branch": "master",
+  "license": "cc-by-4.0",
+  "tier": "full",
+  "tier_reason": "redistributable under cc-by-4.0",
+  "pushed_at": "2026-07-29T06:40:09Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "49dedf0dd787e5af65ba466573520ab7eb211251",
+      "bytes": 6846,
+      "lines": 51,
+      "permalink": "https://github.com/Chalarangelo/30-seconds-of-code/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

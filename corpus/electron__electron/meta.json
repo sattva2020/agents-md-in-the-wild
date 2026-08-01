@@ -1,0 +1,43 @@
+{
+  "owner": "electron",
+  "repo": "electron",
+  "full_name": "electron/electron",
+  "url": "https://github.com/electron/electron",
+  "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+  "stars": 122283,
+  "language": "C++",
+  "topics": [
+    "c-plus-plus",
+    "chrome",
+    "css",
+    "electron",
+    "html",
+    "javascript",
+    "nodejs",
+    "v8",
+    "works-with-codespaces"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T03:45:28Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a5cff94733d89e26378b69dc77b4d8663e9fddf3",
+      "bytes": 9910,
+      "lines": 285,
+      "permalink": "https://github.com/electron/electron/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "e9dfaad4b5f0cd4574203876098aa826897b0edd",
+      "bytes": 4715,
+      "lines": 123,
+      "permalink": "https://github.com/electron/electron/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

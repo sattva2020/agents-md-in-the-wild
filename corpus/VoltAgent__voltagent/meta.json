@@ -1,0 +1,46 @@
+{
+  "owner": "VoltAgent",
+  "repo": "voltagent",
+  "full_name": "VoltAgent/voltagent",
+  "url": "https://github.com/VoltAgent/voltagent",
+  "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+  "stars": 10245,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-agents-framework",
+    "aiagentframework",
+    "chatbots",
+    "chatgpt",
+    "framework",
+    "javascript",
+    "llm",
+    "llm-observability",
+    "mcp"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-13T16:15:41Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "537f98720f2813da708bb07284a65564b6bd012a",
+      "bytes": 1519,
+      "lines": 38,
+      "permalink": "https://github.com/VoltAgent/voltagent/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/VoltAgent/voltagent/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

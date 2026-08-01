@@ -1,0 +1,52 @@
+{
+  "owner": "JuliusBrussee",
+  "repo": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "stars": 95059,
+  "language": "JavaScript",
+  "topics": [
+    "ai",
+    "anthropic",
+    "caveman",
+    "claude",
+    "claude-code",
+    "llm",
+    "meme",
+    "prompt-engineering",
+    "skill",
+    "tokens"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-26T16:53:51Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "03df523f448361e055a77f41338aee5ba2f60621",
+      "bytes": 131,
+      "lines": 5,
+      "permalink": "https://github.com/JuliusBrussee/caveman/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "e26a6689b83a13eaf6d0a61ad1ba0d6d021264d1",
+      "bytes": 24512,
+      "lines": 307,
+      "permalink": "https://github.com/JuliusBrussee/caveman/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "03df523f448361e055a77f41338aee5ba2f60621",
+      "bytes": 131,
+      "lines": 5,
+      "permalink": "https://github.com/JuliusBrussee/caveman/blob/main/GEMINI.md",
+      "stored": "GEMINI.md"
+    }
+  }
+}

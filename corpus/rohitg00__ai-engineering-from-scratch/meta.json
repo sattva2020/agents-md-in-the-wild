@@ -1,0 +1,38 @@
+{
+  "owner": "rohitg00",
+  "repo": "ai-engineering-from-scratch",
+  "full_name": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "description": "Learn it. Build it. Ship it for others.",
+  "stars": 45405,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "ai-engineering",
+    "computer-vision",
+    "course",
+    "deep-learning",
+    "from-scratch",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "mcp"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T13:43:21Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "217ecb8647d90a44e968edecdb923d6a41cf1944",
+      "bytes": 8645,
+      "lines": 219,
+      "permalink": "https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "owner": "axios",
+  "repo": "axios",
+  "full_name": "axios/axios",
+  "url": "https://github.com/axios/axios",
+  "description": "Promise based HTTP client for the browser and node.js",
+  "stars": 109164,
+  "language": "JavaScript",
+  "topics": [
+    "hacktoberfest",
+    "http-client",
+    "javascript",
+    "nodejs",
+    "promise"
+  ],
+  "default_branch": "v1.x",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T06:24:05Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "87e09fef4f6b3dac7937db0c9d4b754ab07a46bc",
+      "bytes": 9197,
+      "lines": 114,
+      "permalink": "https://github.com/axios/axios/blob/v1.x/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/axios/axios/blob/v1.x/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "561b989885a7874ed5f3f68312ab99811393e10f",
+      "bytes": 4730,
+      "lines": 60,
+      "permalink": "https://github.com/axios/axios/blob/v1.x/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

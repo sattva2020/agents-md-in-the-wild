@@ -1,0 +1,38 @@
+{
+  "owner": "denoland",
+  "repo": "deno",
+  "full_name": "denoland/deno",
+  "url": "https://github.com/denoland/deno",
+  "description": "A modern runtime for JavaScript and TypeScript.",
+  "stars": 107887,
+  "language": "Rust",
+  "topics": [
+    "deno",
+    "javascript",
+    "rust",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T20:47:02Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "0276c23c589c0399f8ed51d9128e34f9a1d1ce56",
+      "bytes": 11866,
+      "lines": 434,
+      "permalink": "https://github.com/denoland/deno/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "c7b3efc595b4350e7b4ffd6212ff8f93c3562eaf",
+      "bytes": 12567,
+      "lines": 353,
+      "permalink": "https://github.com/denoland/deno/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

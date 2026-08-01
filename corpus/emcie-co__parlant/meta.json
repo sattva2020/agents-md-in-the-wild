@@ -1,0 +1,37 @@
+{
+  "owner": "emcie-co",
+  "repo": "parlant",
+  "full_name": "emcie-co/parlant",
+  "url": "https://github.com/emcie-co/parlant",
+  "description": "Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.",
+  "stars": 18221,
+  "language": "Python",
+  "topics": [
+    "ai-agents",
+    "ai-alignment",
+    "customer-service",
+    "customer-success",
+    "gemini",
+    "genai",
+    "hacktoberfest",
+    "llama3",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "default_branch": "develop",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-12T19:40:55Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "8d461d005299cd119b1c7c62660dfc5863a54dbe",
+      "bytes": 2772,
+      "lines": 41,
+      "permalink": "https://github.com/emcie-co/parlant/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

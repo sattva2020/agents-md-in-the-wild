@@ -1,0 +1,46 @@
+{
+  "owner": "langchain-ai",
+  "repo": "langchain",
+  "full_name": "langchain-ai/langchain",
+  "url": "https://github.com/langchain-ai/langchain",
+  "description": "The agent engineering platform.",
+  "stars": 143169,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "deepagents",
+    "enterprise",
+    "framework",
+    "gemini",
+    "generative-ai",
+    "langchain",
+    "langgraph"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T09:41:15Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a7078ddc55f9e0e5f6acb8de586f59e750106e1d",
+      "bytes": 18831,
+      "lines": 365,
+      "permalink": "https://github.com/langchain-ai/langchain/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a7078ddc55f9e0e5f6acb8de586f59e750106e1d",
+      "bytes": 18831,
+      "lines": 365,
+      "permalink": "https://github.com/langchain-ai/langchain/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

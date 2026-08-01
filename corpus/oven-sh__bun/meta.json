@@ -1,0 +1,69 @@
+{
+  "owner": "oven-sh",
+  "repo": "bun",
+  "full_name": "oven-sh/bun",
+  "url": "https://github.com/oven-sh/bun",
+  "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+  "stars": 95136,
+  "language": "Rust",
+  "topics": [
+    "bun",
+    "bundler",
+    "javascript",
+    "javascriptcore",
+    "jsx",
+    "nodejs",
+    "npm",
+    "react",
+    "rust",
+    "rust-lang",
+    "transpiler",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T17:06:50Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/oven-sh/bun/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": []
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "0b28f133d3f6f4f48f196bb67e37b209d079649e",
+      "bytes": 16219,
+      "lines": 240,
+      "permalink": "https://github.com/oven-sh/bun/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "## Building and Running Bun",
+        "### Build Commands",
+        "### Changes that don't require a build",
+        "## Testing",
+        "### Running Tests",
+        "### Test Organization",
+        "### Writing Tests",
+        "## Code Architecture",
+        "### Language Structure",
+        "### Core Source Organization",
+        "#### Vendored Dependencies (`vendor/`)",
+        "### JavaScript Class Implementation (C++)",
+        "### Code Generation",
+        "## JavaScript Modules (`src/js/`)",
+        "## Landing PRs: What Bun Reviewers Catch",
+        "## Important Development Notes",
+        "## Debugging CI Failures",
+        "## Reading PR Feedback",
+        "# Machine-readable output for jq pipelines — one object per entry.",
+        "# Resolved threads and bot noise (robobun CI status, CodeRabbit summaries) are filtered out."
+      ]
+    }
+  }
+}

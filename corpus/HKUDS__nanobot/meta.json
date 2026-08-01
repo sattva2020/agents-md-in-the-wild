@@ -1,0 +1,46 @@
+{
+  "owner": "HKUDS",
+  "repo": "nanobot",
+  "full_name": "HKUDS/nanobot",
+  "url": "https://github.com/HKUDS/nanobot",
+  "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+  "stars": 46499,
+  "language": "Python",
+  "topics": [
+    "agent-framework",
+    "ai-agent",
+    "ai-agents",
+    "chatbot",
+    "chatops",
+    "discord-bot",
+    "llm-agents",
+    "llms",
+    "local-llm",
+    "mcp",
+    "model-context-protocol",
+    "multi-agent"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:34:50Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8217f0ad5a95d848b5a8b7ea63f281acf3377485",
+      "bytes": 5314,
+      "lines": 87,
+      "permalink": "https://github.com/HKUDS/nanobot/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/HKUDS/nanobot/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "aaif-goose",
+  "repo": "goose",
+  "full_name": "aaif-goose/goose",
+  "url": "https://github.com/aaif-goose/goose",
+  "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+  "stars": 52062,
+  "language": "Rust",
+  "topics": [
+    "acp",
+    "ai",
+    "ai-agents",
+    "mcp"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T06:29:11Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c5b6c792569a2c99e6c8786b5b46587ca2127728",
+      "bytes": 4372,
+      "lines": 115,
+      "permalink": "https://github.com/aaif-goose/goose/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/aaif-goose/goose/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "5d902fbe554c9f87d6369734aaef5ee7d951a8e8",
+      "bytes": 4637,
+      "lines": 102,
+      "permalink": "https://github.com/aaif-goose/goose/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

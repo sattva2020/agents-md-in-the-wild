@@ -1,0 +1,41 @@
+{
+  "owner": "NVIDIA",
+  "repo": "NemoClaw",
+  "full_name": "NVIDIA/NemoClaw",
+  "url": "https://github.com/NVIDIA/NemoClaw",
+  "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+  "stars": 22013,
+  "language": "TypeScript",
+  "topics": [
+    "ai-agents",
+    "hermes",
+    "nvidia",
+    "openclaw",
+    "openshell",
+    "sandboxing",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T17:11:55Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "3dd7c2425b70934b540c404d3939e3321f5c7558",
+      "bytes": 21326,
+      "lines": 337,
+      "permalink": "https://github.com/NVIDIA/NemoClaw/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/NVIDIA/NemoClaw/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

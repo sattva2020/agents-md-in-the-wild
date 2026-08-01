@@ -1,0 +1,54 @@
+{
+  "owner": "triggerdotdev",
+  "repo": "trigger.dev",
+  "full_name": "triggerdotdev/trigger.dev",
+  "url": "https://github.com/triggerdotdev/trigger.dev",
+  "description": "Trigger.dev – build and deploy fully‑managed AI agents and workflows",
+  "stars": 15834,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent-framework",
+    "ai-agents",
+    "automation",
+    "background-jobs",
+    "mcp",
+    "mcp-server",
+    "nextjs",
+    "orchestration",
+    "scheduler",
+    "serverless",
+    "workflow-automation"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T15:26:28Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "cc947c7a57d61f73b967ff4b2b54de5029636d00",
+      "bytes": 13013,
+      "lines": 276,
+      "permalink": "https://github.com/triggerdotdev/trigger.dev/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/triggerdotdev/trigger.dev/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "2beb7606fa4db7e6c218eef9992f20742623149e",
+      "bytes": 622,
+      "lines": 2,
+      "permalink": "https://github.com/triggerdotdev/trigger.dev/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

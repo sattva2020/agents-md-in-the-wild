@@ -1,0 +1,41 @@
+{
+  "owner": "openclaw",
+  "repo": "openclaw",
+  "full_name": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+  "stars": 384814,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "assistant",
+    "crustacean",
+    "molty",
+    "openclaw",
+    "own-your-data",
+    "personal"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T17:09:59Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "e7a8dadf766284527ac400859d84401a6ff733c4",
+      "bytes": 64942,
+      "lines": 386,
+      "permalink": "https://github.com/openclaw/openclaw/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 9,
+      "lines": 1,
+      "permalink": "https://github.com/openclaw/openclaw/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

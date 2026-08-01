@@ -1,0 +1,39 @@
+{
+  "owner": "ag-ui-protocol",
+  "repo": "ag-ui",
+  "full_name": "ag-ui-protocol/ag-ui",
+  "url": "https://github.com/ag-ui-protocol/ag-ui",
+  "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+  "stars": 15088,
+  "language": "Python",
+  "topics": [
+    "ag-ui-protocol",
+    "agent-frontend",
+    "agent-ui",
+    "agentic-workflow",
+    "ai-agents"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T18:40:32Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a786d3f662c0e7395ef7e721debf88cdfa2abb70",
+      "bytes": 1386,
+      "lines": 18,
+      "permalink": "https://github.com/ag-ui-protocol/ag-ui/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "2fe0d66356b2b531170b8c97f0fa150cb440dff2",
+      "bytes": 4915,
+      "lines": 130,
+      "permalink": "https://github.com/ag-ui-protocol/ag-ui/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "owner": "ruvnet",
+  "repo": "RuView",
+  "full_name": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+  "stars": 88017,
+  "language": "Rust",
+  "topics": [
+    "awesome",
+    "claude",
+    "densepose",
+    "esp32",
+    "firmware",
+    "home-assistant",
+    "home-automation",
+    "iot",
+    "monitoring",
+    "networking",
+    "npm",
+    "pose-estimation"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T12:26:58Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "7ad3df0fefa0765bebff6c21510838e969abaf0d",
+      "bytes": 9827,
+      "lines": 240,
+      "permalink": "https://github.com/ruvnet/RuView/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

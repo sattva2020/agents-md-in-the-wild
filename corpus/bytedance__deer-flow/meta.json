@@ -1,0 +1,54 @@
+{
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "url": "https://github.com/bytedance/deer-flow",
+  "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "stars": 78617,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "deep-research",
+    "harness",
+    "langchain",
+    "langgraph",
+    "langmanus",
+    "llm"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T14:34:12Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8533c8336bcb8d1c81ece008cddfcc56f7059677",
+      "bytes": 9384,
+      "lines": 154,
+      "permalink": "https://github.com/bytedance/deer-flow/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "388265f9c8f806bf467e3356ac264b571e588eca",
+      "bytes": 184,
+      "lines": 6,
+      "permalink": "https://github.com/bytedance/deer-flow/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "1f3497a0ffde527b1c8b69f8f74813774db8750b",
+      "bytes": 6936,
+      "lines": 214,
+      "permalink": "https://github.com/bytedance/deer-flow/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

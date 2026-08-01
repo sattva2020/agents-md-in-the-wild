@@ -1,0 +1,35 @@
+{
+  "owner": "frankbria",
+  "repo": "ralph-claude-code",
+  "full_name": "frankbria/ralph-claude-code",
+  "url": "https://github.com/frankbria/ralph-claude-code",
+  "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+  "stars": 9573,
+  "language": "Shell",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-development",
+    "ai-development-tools",
+    "claude-code",
+    "claude-code-cli",
+    "development-tools",
+    "development-workflow"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-18T02:33:21Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "d4e370f99dde25bf91003781ce75ac0cf7341cc3",
+      "bytes": 38146,
+      "lines": 363,
+      "permalink": "https://github.com/frankbria/ralph-claude-code/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}
