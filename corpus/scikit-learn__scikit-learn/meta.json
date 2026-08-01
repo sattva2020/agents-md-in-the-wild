@@ -1,0 +1,31 @@
+{
+  "owner": "scikit-learn",
+  "repo": "scikit-learn",
+  "full_name": "scikit-learn/scikit-learn",
+  "url": "https://github.com/scikit-learn/scikit-learn",
+  "description": "scikit-learn: machine learning in Python",
+  "stars": 66849,
+  "language": "Python",
+  "topics": [
+    "data-analysis",
+    "data-science",
+    "machine-learning",
+    "python",
+    "statistics"
+  ],
+  "default_branch": "main",
+  "license": "bsd-3-clause",
+  "tier": "full",
+  "tier_reason": "redistributable under bsd-3-clause",
+  "pushed_at": "2026-08-01T14:27:12Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "79e002a42da354821ad142995d0328faefdbf968",
+      "bytes": 1317,
+      "lines": 29,
+      "permalink": "https://github.com/scikit-learn/scikit-learn/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

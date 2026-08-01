@@ -1,0 +1,43 @@
+{
+  "owner": "ant-design",
+  "repo": "ant-design-pro",
+  "full_name": "ant-design/ant-design-pro",
+  "url": "https://github.com/ant-design/ant-design-pro",
+  "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!",
+  "stars": 38612,
+  "language": "TypeScript",
+  "topics": [
+    "admin",
+    "ant-design",
+    "antd",
+    "antv",
+    "boilerplate",
+    "dashboard",
+    "enterprise",
+    "react",
+    "umi"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-29T17:24:28Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 6083,
+      "lines": 130,
+      "permalink": "https://github.com/ant-design/ant-design-pro/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "0e182711bf008e32eb86e3db028e8fd287b6b49d",
+      "bytes": 6083,
+      "lines": 130,
+      "permalink": "https://github.com/ant-design/ant-design-pro/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

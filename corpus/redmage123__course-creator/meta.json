@@ -1,0 +1,25 @@
+{
+  "owner": "redmage123",
+  "repo": "course-creator",
+  "full_name": "redmage123/course-creator",
+  "url": "https://github.com/redmage123/course-creator",
+  "description": "courrse creation factory",
+  "stars": 0,
+  "language": "Python",
+  "topics": [],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-03-26T08:59:16Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "bbe48708d791446aaf09c1ca69da9a5b500587ee",
+      "bytes": 17225,
+      "lines": 353,
+      "permalink": "https://github.com/redmage123/course-creator/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

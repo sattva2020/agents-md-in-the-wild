@@ -1,0 +1,54 @@
+{
+  "owner": "roboflow",
+  "repo": "supervision",
+  "full_name": "roboflow/supervision",
+  "url": "https://github.com/roboflow/supervision",
+  "description": "We write your reusable computer vision tools. 💜",
+  "stars": 48527,
+  "language": "Python",
+  "topics": [
+    "classification",
+    "coco",
+    "computer-vision",
+    "deep-learning",
+    "hacktoberfest",
+    "image-processing",
+    "instance-segmentation",
+    "low-code",
+    "machine-learning",
+    "metrics",
+    "object-detection",
+    "oriented-bounding-box"
+  ],
+  "default_branch": "develop",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T22:05:10Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "7b3e3acccf365c01d1fe39f1e42b1378bfe3ad23",
+      "bytes": 8017,
+      "lines": 154,
+      "permalink": "https://github.com/roboflow/supervision/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "2eefdd701ef0574bd21800f6f70c2fe0db85f30d",
+      "bytes": 163,
+      "lines": 6,
+      "permalink": "https://github.com/roboflow/supervision/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "d67fe30967dcbbab9e8d9a2d965818cb5199ac8b",
+      "bytes": 4650,
+      "lines": 147,
+      "permalink": "https://github.com/roboflow/supervision/blob/develop/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

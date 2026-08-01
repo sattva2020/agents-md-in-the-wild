@@ -1,0 +1,38 @@
+{
+  "owner": "sequelize",
+  "repo": "sequelize",
+  "full_name": "sequelize/sequelize",
+  "url": "https://github.com/sequelize/sequelize",
+  "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.",
+  "stars": 30376,
+  "language": "TypeScript",
+  "topics": [
+    "db2-ibm-i",
+    "feature-rich",
+    "javascript",
+    "mariadb",
+    "microsoft-sql-server",
+    "mssql",
+    "mssql-server",
+    "mysql",
+    "nodejs",
+    "oracle-db",
+    "orm",
+    "postgresql"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T10:11:15Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "daae73f988c2511977095a018bf2679b08768ab3",
+      "bytes": 6750,
+      "lines": 190,
+      "permalink": "https://github.com/sequelize/sequelize/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

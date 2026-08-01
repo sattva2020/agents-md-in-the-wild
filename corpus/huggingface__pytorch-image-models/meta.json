@@ -1,0 +1,38 @@
+{
+  "owner": "huggingface",
+  "repo": "pytorch-image-models",
+  "full_name": "huggingface/pytorch-image-models",
+  "url": "https://github.com/huggingface/pytorch-image-models",
+  "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+  "stars": 37032,
+  "language": "Python",
+  "topics": [
+    "augmix",
+    "convnext",
+    "distributed-training",
+    "efficientnet",
+    "image-classification",
+    "imagenet",
+    "maxvit",
+    "mixnet",
+    "mobile-deep-learning",
+    "mobilenet-v2",
+    "mobilenetv3",
+    "nfnets"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-27T21:10:58Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "5fa6ee359589a3d88975268dd73afc5dce316666",
+      "bytes": 901,
+      "lines": 19,
+      "permalink": "https://github.com/huggingface/pytorch-image-models/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

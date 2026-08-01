@@ -1,0 +1,35 @@
+{
+  "owner": "apache",
+  "repo": "echarts",
+  "full_name": "apache/echarts",
+  "url": "https://github.com/apache/echarts",
+  "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+  "stars": 66950,
+  "language": "TypeScript",
+  "topics": [
+    "apache",
+    "canvas",
+    "charting-library",
+    "charts",
+    "data-visualization",
+    "data-viz",
+    "echarts",
+    "svg",
+    "visualization"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-29T11:29:05Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "6d9ece646567a1d5d25c93ea2eec54cda8a5a102",
+      "bytes": 4545,
+      "lines": 83,
+      "permalink": "https://github.com/apache/echarts/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

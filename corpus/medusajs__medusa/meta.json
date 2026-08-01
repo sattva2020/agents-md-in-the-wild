@@ -1,0 +1,37 @@
+{
+  "owner": "medusajs",
+  "repo": "medusa",
+  "full_name": "medusajs/medusa",
+  "url": "https://github.com/medusajs/medusa",
+  "description": "The world's most flexible commerce platform for agents and developers",
+  "stars": 35514,
+  "language": "TypeScript",
+  "topics": [
+    "ai-coding",
+    "ai-tools",
+    "commerce",
+    "e-commerce",
+    "ecommerce",
+    "framework",
+    "javascript",
+    "medusa",
+    "nodejs",
+    "react",
+    "typescript"
+  ],
+  "default_branch": "develop",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T09:42:35Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "539a16338c5e17ea58fddf11e5532c330a08cd14",
+      "bytes": 9981,
+      "lines": 358,
+      "permalink": "https://github.com/medusajs/medusa/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "full_name": "wshobson/agents",
   "url": "https://github.com/wshobson/agents",
   "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
-  "stars": 38421,
+  "stars": 38424,
   "language": "Python",
   "topics": [
     "agent-skills",
@@ -37,8 +37,8 @@
     "CLAUDE.md": {
       "source_path": "CLAUDE.md",
       "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
-      "bytes": 9,
-      "lines": 1,
+      "bytes": 5382,
+      "lines": 77,
       "permalink": "https://github.com/wshobson/agents/blob/main/CLAUDE.md",
       "stored": "CLAUDE.md"
     },

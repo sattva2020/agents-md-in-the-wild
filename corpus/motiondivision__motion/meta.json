@@ -1,0 +1,48 @@
+{
+  "owner": "motiondivision",
+  "repo": "motion",
+  "full_name": "motiondivision/motion",
+  "url": "https://github.com/motiondivision/motion",
+  "description": "A modern animation library for React and JavaScript",
+  "stars": 33041,
+  "language": "TypeScript",
+  "topics": [
+    "animation",
+    "animation-js",
+    "motion",
+    "react",
+    "reactanimations",
+    "spring"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-28T13:52:39Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "7e4d132df7bf45fd7b14fd55e9f555cf104f8c61",
+      "bytes": 1270,
+      "lines": 41,
+      "permalink": "https://github.com/motiondivision/motion/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47d96ac7db8063b0401f4cb492e5a922dff24628",
+      "bytes": 13072,
+      "lines": 192,
+      "permalink": "https://github.com/motiondivision/motion/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "fa782068157d90ed2f00a75d0cd19106280119da",
+      "bytes": 235,
+      "lines": 11,
+      "permalink": "https://github.com/motiondivision/motion/blob/main/.cursorrules",
+      "stored": ".cursorrules"
+    }
+  }
+}

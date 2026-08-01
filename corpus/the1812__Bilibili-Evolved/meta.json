@@ -1,0 +1,39 @@
+{
+  "owner": "the1812",
+  "repo": "Bilibili-Evolved",
+  "full_name": "the1812/Bilibili-Evolved",
+  "url": "https://github.com/the1812/Bilibili-Evolved",
+  "description": "强大的哔哩哔哩增强脚本",
+  "stars": 30024,
+  "language": "TypeScript",
+  "topics": [
+    "bilibili",
+    "tampermonkey",
+    "userscript"
+  ],
+  "default_branch": "master",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T05:45:45Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "bb616d3d501b9a72a26a73ff860652bf8c7e6048",
+      "bytes": 7043,
+      "lines": 96,
+      "permalink": "https://github.com/the1812/Bilibili-Evolved/blob/master/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# AGENTS.md",
+        "## Project Structure",
+        "## Development Setup",
+        "## Component And Plugin Guidelines",
+        "## Code Style",
+        "## Generated Files",
+        "## Validation",
+        "## Branches And Commits"
+      ]
+    }
+  }
+}

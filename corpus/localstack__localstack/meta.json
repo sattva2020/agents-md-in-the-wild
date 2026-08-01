@@ -1,0 +1,33 @@
+{
+  "owner": "localstack",
+  "repo": "localstack",
+  "full_name": "localstack/localstack",
+  "url": "https://github.com/localstack/localstack",
+  "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+  "stars": 65146,
+  "language": "Python",
+  "topics": [
+    "aws",
+    "cloud",
+    "continuous-integration",
+    "developer-tools",
+    "localstack",
+    "python",
+    "testing"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-03-23T08:52:01Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "e5f81c35c2119f521ba9d570491094290e773714",
+      "bytes": 7534,
+      "lines": 179,
+      "permalink": "https://github.com/localstack/localstack/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "facebook",
+  "repo": "docusaurus",
+  "full_name": "facebook/docusaurus",
+  "url": "https://github.com/facebook/docusaurus",
+  "description": "Easy to maintain open source documentation websites.",
+  "stars": 65779,
+  "language": "TypeScript",
+  "topics": [
+    "documentation",
+    "hacktoberfest",
+    "javascript",
+    "open-source",
+    "react",
+    "website"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-24T20:36:24Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "052cfb6e29cebc9f34dd18377b3cd0011baec933",
+      "bytes": 4134,
+      "lines": 82,
+      "permalink": "https://github.com/facebook/docusaurus/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

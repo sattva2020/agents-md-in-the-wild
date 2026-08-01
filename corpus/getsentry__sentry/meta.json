@@ -1,0 +1,46 @@
+{
+  "owner": "getsentry",
+  "repo": "sentry",
+  "full_name": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "description": "Developer-first error tracking and performance monitoring",
+  "stars": 44424,
+  "language": "Python",
+  "topics": [
+    "apm",
+    "crash-reporting",
+    "crash-reports",
+    "csp-report",
+    "devops",
+    "django",
+    "error-logging",
+    "error-monitoring",
+    "fair-source",
+    "hacktoberfest",
+    "monitor",
+    "monitoring"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T17:20:02Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b10d99135e2870b8810e1f468b1f52a4f25fda76",
+      "bytes": 8623,
+      "lines": 235,
+      "permalink": "https://github.com/getsentry/sentry/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/getsentry/sentry/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

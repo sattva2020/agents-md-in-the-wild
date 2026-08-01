@@ -4,7 +4,7 @@
   "full_name": "OpenCut-app/OpenCut",
   "url": "https://github.com/OpenCut-app/OpenCut",
   "description": "The open-source CapCut alternative",
-  "stars": 80317,
+  "stars": 80324,
   "language": "TypeScript",
   "topics": [
     "editor",
@@ -15,7 +15,7 @@
   "license": "mit",
   "tier": "full",
   "tier_reason": "redistributable under mit",
-  "pushed_at": "2026-07-24T12:29:15Z",
+  "pushed_at": "2026-08-01T17:57:41Z",
   "files": {
     ".github/copilot-instructions.md": {
       "source_path": ".github/copilot-instructions.md",

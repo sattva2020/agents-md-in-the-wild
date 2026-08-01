@@ -1,0 +1,41 @@
+{
+  "owner": "exo-explore",
+  "repo": "exo",
+  "full_name": "exo-explore/exo",
+  "url": "https://github.com/exo-explore/exo",
+  "description": "Run frontier AI locally.",
+  "stars": 46577,
+  "language": "Python",
+  "topics": [],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-06-23T18:59:18Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "537ff366747403f7faa60547b372ede237118029",
+      "bytes": 6523,
+      "lines": 197,
+      "permalink": "https://github.com/exo-explore/exo/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 6523,
+      "lines": 197,
+      "permalink": "https://github.com/exo-explore/exo/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "2f64c4b9423e94173828b5ba079d3c9f9a7c64d5",
+      "bytes": 3126,
+      "lines": 65,
+      "permalink": "https://github.com/exo-explore/exo/blob/main/.cursorrules",
+      "stored": ".cursorrules"
+    }
+  }
+}

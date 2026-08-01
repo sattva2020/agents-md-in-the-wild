@@ -1,0 +1,46 @@
+{
+  "owner": "CopilotKit",
+  "repo": "CopilotKit",
+  "full_name": "CopilotKit/CopilotKit",
+  "url": "https://github.com/CopilotKit/CopilotKit",
+  "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+  "stars": 36394,
+  "language": "TypeScript",
+  "topics": [
+    "agent",
+    "agent-native",
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agent",
+    "ai-assistant",
+    "assistant",
+    "assistant-chat-bots",
+    "copilot",
+    "copilot-chat",
+    "generative-ui"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T17:11:13Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "9b21e5ff4cd5420088ea2f3b15a6f7265751e551",
+      "bytes": 7612,
+      "lines": 73,
+      "permalink": "https://github.com/CopilotKit/CopilotKit/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "0755c7d1cc73eb93838cabdd3dd2fbf37e7d730e",
+      "bytes": 3265,
+      "lines": 37,
+      "permalink": "https://github.com/CopilotKit/CopilotKit/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

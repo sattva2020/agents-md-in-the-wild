@@ -1,0 +1,46 @@
+{
+  "owner": "directus",
+  "repo": "directus",
+  "full_name": "directus/directus",
+  "url": "https://github.com/directus/directus",
+  "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+  "stars": 36959,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "app",
+    "cms",
+    "composable",
+    "data-visualization",
+    "database",
+    "directus",
+    "graphql",
+    "headless-cms",
+    "javascript",
+    "mariadb",
+    "mssql"
+  ],
+  "default_branch": "main",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-08-01T12:28:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "504144cf3ff41a32fcf968330a04f5dd513faf88",
+      "bytes": 7964,
+      "lines": 240,
+      "permalink": "https://github.com/directus/directus/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "74218a396fdaa6d1988cce224ec356d13d9faa6d",
+      "bytes": 6282,
+      "lines": 266,
+      "permalink": "https://github.com/directus/directus/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "full_name": "koala73/worldmonitor",
   "url": "https://github.com/koala73/worldmonitor",
   "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-  "stars": 77721,
+  "stars": 77736,
   "language": "TypeScript",
   "topics": [
     "agent",
@@ -24,7 +24,7 @@
   "license": "agpl-3.0",
   "tier": "full",
   "tier_reason": "redistributable under agpl-3.0",
-  "pushed_at": "2026-08-01T16:50:28Z",
+  "pushed_at": "2026-08-01T18:13:18Z",
   "files": {
     "AGENTS.md": {
       "source_path": "AGENTS.md",

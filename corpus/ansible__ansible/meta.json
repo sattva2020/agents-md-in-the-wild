@@ -1,0 +1,36 @@
+{
+  "owner": "ansible",
+  "repo": "ansible",
+  "full_name": "ansible/ansible",
+  "url": "https://github.com/ansible/ansible",
+  "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+  "stars": 70059,
+  "language": "Python",
+  "topics": [
+    "ansible",
+    "python"
+  ],
+  "default_branch": "devel",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-07-30T19:26:42Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c0df9b2a9fd2c7d5f2cb245358fec2c3ba326a6a",
+      "bytes": 7209,
+      "lines": 173,
+      "permalink": "https://github.com/ansible/ansible/blob/devel/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a076ce07bdbb576137f2575a894d8277e65422a5",
+      "bytes": 56,
+      "lines": 4,
+      "permalink": "https://github.com/ansible/ansible/blob/devel/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

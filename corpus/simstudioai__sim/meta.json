@@ -1,0 +1,46 @@
+{
+  "owner": "simstudioai",
+  "repo": "sim",
+  "full_name": "simstudioai/sim",
+  "url": "https://github.com/simstudioai/sim",
+  "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+  "stars": 29259,
+  "language": "TypeScript",
+  "topics": [
+    "agent-workflow",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "aiagents",
+    "anthropic",
+    "artificial-intelligence",
+    "automation",
+    "chatbot",
+    "deepseek",
+    "gemini",
+    "low-code"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T18:23:34Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "f36d633df61d7378c25028c225f16794cc059a06",
+      "bytes": 28204,
+      "lines": 477,
+      "permalink": "https://github.com/simstudioai/sim/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "d2e376dbd9f91f1a66d0fd918da283bb698d4368",
+      "bytes": 30271,
+      "lines": 487,
+      "permalink": "https://github.com/simstudioai/sim/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

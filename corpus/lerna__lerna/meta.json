@@ -1,0 +1,39 @@
+{
+  "owner": "lerna",
+  "repo": "lerna",
+  "full_name": "lerna/lerna",
+  "url": "https://github.com/lerna/lerna",
+  "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.",
+  "stars": 36052,
+  "language": "TypeScript",
+  "topics": [
+    "lerna",
+    "monorepo",
+    "npm",
+    "package",
+    "publishing"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T17:55:54Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "78cdb0322f4e612e30f2db0b429a656865e8eed2",
+      "bytes": 3306,
+      "lines": 25,
+      "permalink": "https://github.com/lerna/lerna/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "073a47158991ca8445ddf459ea4bed05bfae8257",
+      "bytes": 6718,
+      "lines": 194,
+      "permalink": "https://github.com/lerna/lerna/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

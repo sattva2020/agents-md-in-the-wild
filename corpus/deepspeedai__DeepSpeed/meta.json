@@ -1,0 +1,46 @@
+{
+  "owner": "deepspeedai",
+  "repo": "DeepSpeed",
+  "full_name": "deepspeedai/DeepSpeed",
+  "url": "https://github.com/deepspeedai/DeepSpeed",
+  "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+  "stars": 42843,
+  "language": "Python",
+  "topics": [
+    "billion-parameters",
+    "compression",
+    "data-parallelism",
+    "deep-learning",
+    "gpu",
+    "inference",
+    "machine-learning",
+    "mixture-of-experts",
+    "model-parallelism",
+    "pipeline-parallelism",
+    "pytorch",
+    "trillion-parameters"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T12:27:32Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "599f70c75fad7abc170ed25d5efdab741188c215",
+      "bytes": 2041,
+      "lines": 33,
+      "permalink": "https://github.com/deepspeedai/DeepSpeed/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "599f70c75fad7abc170ed25d5efdab741188c215",
+      "bytes": 2041,
+      "lines": 33,
+      "permalink": "https://github.com/deepspeedai/DeepSpeed/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

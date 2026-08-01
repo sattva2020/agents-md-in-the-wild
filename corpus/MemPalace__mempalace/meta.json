@@ -1,0 +1,40 @@
+{
+  "owner": "MemPalace",
+  "repo": "mempalace",
+  "full_name": "MemPalace/mempalace",
+  "url": "https://github.com/MemPalace/mempalace",
+  "description": "The best-benchmarked open-source AI memory system. And it's free.",
+  "stars": 57941,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "chromadb",
+    "llm",
+    "mcp",
+    "memory",
+    "python"
+  ],
+  "default_branch": "develop",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T08:12:57Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 7463,
+      "lines": 134,
+      "permalink": "https://github.com/MemPalace/mempalace/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "6f9274e86f09b18d8181a47b655fdb9dda423c81",
+      "bytes": 7463,
+      "lines": 134,
+      "permalink": "https://github.com/MemPalace/mempalace/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

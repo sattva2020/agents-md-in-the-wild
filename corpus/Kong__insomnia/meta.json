@@ -1,0 +1,44 @@
+{
+  "owner": "Kong",
+  "repo": "insomnia",
+  "full_name": "Kong/insomnia",
+  "url": "https://github.com/Kong/insomnia",
+  "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+  "stars": 39906,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "api-client",
+    "api-design",
+    "curl",
+    "electron-app",
+    "graphql",
+    "grpc",
+    "http-client",
+    "rest-api",
+    "websockets"
+  ],
+  "default_branch": "develop",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T21:09:22Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d501ae715c00dfbbd58f5c1711b866c143621cc5",
+      "bytes": 5288,
+      "lines": 106,
+      "permalink": "https://github.com/Kong/insomnia/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/Kong/insomnia/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

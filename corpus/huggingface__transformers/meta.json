@@ -29,16 +29,16 @@
     "AGENTS.md": {
       "source_path": "AGENTS.md",
       "sha": "b28461c924a4217b9478062bea99d2306d7d4d05",
-      "bytes": 13,
-      "lines": 1,
+      "bytes": 3599,
+      "lines": 50,
       "permalink": "https://github.com/huggingface/transformers/blob/main/AGENTS.md",
       "stored": "AGENTS.md"
     },
     "CLAUDE.md": {
       "source_path": "CLAUDE.md",
       "sha": "b28461c924a4217b9478062bea99d2306d7d4d05",
-      "bytes": 13,
-      "lines": 1,
+      "bytes": 3599,
+      "lines": 50,
       "permalink": "https://github.com/huggingface/transformers/blob/main/CLAUDE.md",
       "stored": "CLAUDE.md"
     },

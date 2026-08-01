@@ -1,0 +1,38 @@
+{
+  "owner": "transloadit",
+  "repo": "uppy",
+  "full_name": "transloadit/uppy",
+  "url": "https://github.com/transloadit/uppy",
+  "description": "The next open source file uploader for web browsers :dog: ",
+  "stars": 30896,
+  "language": "TypeScript",
+  "topics": [
+    "dropbox",
+    "encoding",
+    "file-uploader",
+    "file-uploads",
+    "files",
+    "instagram",
+    "javascript",
+    "mit",
+    "modular",
+    "open-source",
+    "pick-files",
+    "resumable"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T11:39:34Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "4091038aa1bb2b6452e3d6395a82b051c5e6b2b8",
+      "bytes": 5023,
+      "lines": 131,
+      "permalink": "https://github.com/transloadit/uppy/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

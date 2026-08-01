@@ -1,0 +1,33 @@
+{
+  "owner": "chenglou",
+  "repo": "pretext",
+  "full_name": "chenglou/pretext",
+  "url": "https://github.com/chenglou/pretext",
+  "description": "Fast, accurate & comprehensive text measurement & layout",
+  "stars": 49600,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-06-23T05:01:09Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d6cb22bc9bbc2bd11026d803164583618a6ce23d",
+      "bytes": 17662,
+      "lines": 118,
+      "permalink": "https://github.com/chenglou/pretext/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 17662,
+      "lines": 118,
+      "permalink": "https://github.com/chenglou/pretext/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

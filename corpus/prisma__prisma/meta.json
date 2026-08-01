@@ -1,0 +1,46 @@
+{
+  "owner": "prisma",
+  "repo": "prisma",
+  "full_name": "prisma/prisma",
+  "url": "https://github.com/prisma/prisma",
+  "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+  "stars": 47426,
+  "language": "TypeScript",
+  "topics": [
+    "cockroachdb",
+    "database",
+    "javascript",
+    "mariadb",
+    "mongo",
+    "mongodb",
+    "mongodb-orm",
+    "mssql",
+    "mysql",
+    "nodejs",
+    "orm",
+    "postgres"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T09:38:38Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "6ca6c8e287521f7452060be1ef1bc197aecbfa4d",
+      "bytes": 11197,
+      "lines": 131,
+      "permalink": "https://github.com/prisma/prisma/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 11197,
+      "lines": 131,
+      "permalink": "https://github.com/prisma/prisma/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

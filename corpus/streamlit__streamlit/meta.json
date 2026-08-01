@@ -1,0 +1,50 @@
+{
+  "owner": "streamlit",
+  "repo": "streamlit",
+  "full_name": "streamlit/streamlit",
+  "url": "https://github.com/streamlit/streamlit",
+  "description": "Streamlit — A faster way to build and share data apps.",
+  "stars": 45445,
+  "language": "Python",
+  "topics": [
+    "data-analysis",
+    "data-science",
+    "data-visualization",
+    "deep-learning",
+    "developer-tools",
+    "machine-learning",
+    "python",
+    "streamlit"
+  ],
+  "default_branch": "develop",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T18:04:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "6d3b5001c28b21d7a86125c36890b62705360bf3",
+      "bytes": 8699,
+      "lines": 108,
+      "permalink": "https://github.com/streamlit/streamlit/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "285e0f5b36b49281317758e0d5b7c48b034eeb66",
+      "bytes": 13,
+      "lines": 2,
+      "permalink": "https://github.com/streamlit/streamlit/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "a870d4572f09d1182bb4a3ed3daa33c9ebfc7dc4",
+      "bytes": 8815,
+      "lines": 110,
+      "permalink": "https://github.com/streamlit/streamlit/blob/develop/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "full_name": "ComposioHQ/composio",
   "url": "https://github.com/ComposioHQ/composio",
   "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-  "stars": 29487,
+  "stars": 29489,
   "language": "TypeScript",
   "topics": [
     "agentic-ai",

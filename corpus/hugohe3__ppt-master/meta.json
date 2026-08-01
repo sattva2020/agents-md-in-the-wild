@@ -1,0 +1,44 @@
+{
+  "owner": "hugohe3",
+  "repo": "ppt-master",
+  "full_name": "hugohe3/ppt-master",
+  "url": "https://github.com/hugohe3/ppt-master",
+  "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+  "stars": 42378,
+  "language": "Python",
+  "topics": [
+    "ai-agent",
+    "aippt",
+    "office",
+    "powerpoint",
+    "powerpoint-generation",
+    "ppt",
+    "pptx",
+    "presentation",
+    "slide",
+    "slides"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T18:13:11Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "fbd2db92df77e06e9b2be90db5c06fc28b49835d",
+      "bytes": 10618,
+      "lines": 108,
+      "permalink": "https://github.com/hugohe3/ppt-master/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "b33287fe96c9bccd86bf21abac95dfa77ad57814",
+      "bytes": 307,
+      "lines": 6,
+      "permalink": "https://github.com/hugohe3/ppt-master/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

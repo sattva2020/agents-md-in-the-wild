@@ -4,7 +4,7 @@
   "full_name": "langgenius/dify",
   "url": "https://github.com/langgenius/dify",
   "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-  "stars": 150994,
+  "stars": 150997,
   "language": "TypeScript",
   "topics": [
     "agent",
@@ -41,11 +41,14 @@
     "CLAUDE.md": {
       "source_path": "CLAUDE.md",
       "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
-      "bytes": 9,
-      "lines": 1,
+      "bytes": 545,
+      "lines": 9,
       "permalink": "https://github.com/langgenius/dify/blob/main/CLAUDE.md",
       "stored": null,
-      "headings": []
+      "headings": [
+        "# AGENTS.md",
+        "## Repository Gotchas"
+      ]
     }
   }
 }

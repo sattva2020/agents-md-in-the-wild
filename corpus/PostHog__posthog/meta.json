@@ -1,0 +1,54 @@
+{
+  "owner": "PostHog",
+  "repo": "posthog",
+  "full_name": "PostHog/posthog",
+  "url": "https://github.com/PostHog/posthog",
+  "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+  "stars": 37425,
+  "language": "Python",
+  "topics": [
+    "ab-testing",
+    "ai-analytics",
+    "analytics",
+    "cdp",
+    "data-warehouse",
+    "experiments",
+    "feature-flags",
+    "javascript",
+    "product-analytics",
+    "python",
+    "react",
+    "session-replay"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T18:17:46Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "065ab73f51642bc5b5b063027adf02af1e372107",
+      "bytes": 31393,
+      "lines": 246,
+      "permalink": "https://github.com/PostHog/posthog/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 31393,
+      "lines": 246,
+      "permalink": "https://github.com/PostHog/posthog/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "55efbc77b085369c75feb30e36675bd4c0bb6f73",
+      "bytes": 1781,
+      "lines": 25,
+      "permalink": "https://github.com/PostHog/posthog/blob/master/.cursorrules",
+      "stored": ".cursorrules"
+    }
+  }
+}

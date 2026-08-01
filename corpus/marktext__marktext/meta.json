@@ -1,0 +1,38 @@
+{
+  "owner": "marktext",
+  "repo": "marktext",
+  "full_name": "marktext/marktext",
+  "url": "https://github.com/marktext/marktext",
+  "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+  "stars": 59477,
+  "language": "TypeScript",
+  "topics": [
+    "dark-mode",
+    "editor",
+    "electron",
+    "focus-mode",
+    "latex",
+    "linux",
+    "mac",
+    "macos",
+    "markdown",
+    "marktext",
+    "source-code",
+    "typewriter-mode"
+  ],
+  "default_branch": "develop",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-27T03:16:54Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "374e3349d547b22567ad45cde9c51c48f2321777",
+      "bytes": 16227,
+      "lines": 303,
+      "permalink": "https://github.com/marktext/marktext/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

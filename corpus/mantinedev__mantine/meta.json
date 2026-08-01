@@ -1,0 +1,40 @@
+{
+  "owner": "mantinedev",
+  "repo": "mantine",
+  "full_name": "mantinedev/mantine",
+  "url": "https://github.com/mantinedev/mantine",
+  "description": "A fully featured React components library",
+  "stars": 31520,
+  "language": "TypeScript",
+  "topics": [
+    "dark-mode",
+    "dark-theme",
+    "hooks",
+    "react",
+    "typescript",
+    "uikit"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T19:32:53Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8f561d8a9c94154cc2523e213b07dd7642dccb0b",
+      "bytes": 2165,
+      "lines": 53,
+      "permalink": "https://github.com/mantinedev/mantine/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "8f561d8a9c94154cc2523e213b07dd7642dccb0b",
+      "bytes": 2165,
+      "lines": 53,
+      "permalink": "https://github.com/mantinedev/mantine/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

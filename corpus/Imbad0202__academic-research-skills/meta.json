@@ -1,0 +1,44 @@
+{
+  "owner": "Imbad0202",
+  "repo": "academic-research-skills",
+  "full_name": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+  "stars": 40445,
+  "language": "Python",
+  "topics": [
+    "academic-pipeline",
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review",
+    "peer-review",
+    "prompt-engineering"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T16:39:43Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "f05d47593ef14990efcfa17d2893713e30c032fd",
+      "bytes": 2653,
+      "lines": 65,
+      "permalink": "https://github.com/Imbad0202/academic-research-skills/blob/main/.github/copilot-instructions.md",
+      "stored": null,
+      "headings": [
+        "# Academic Research Skills for GitHub Copilot",
+        "## Quick Start",
+        "## Setup & Installation",
+        "## Architecture & Components",
+        "## Integrity & Safety",
+        "## Contributing",
+        "## Docs",
+        "## License"
+      ]
+    }
+  }
+}

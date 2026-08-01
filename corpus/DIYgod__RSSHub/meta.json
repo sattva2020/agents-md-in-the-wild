@@ -1,0 +1,38 @@
+{
+  "owner": "DIYgod",
+  "repo": "RSSHub",
+  "full_name": "DIYgod/RSSHub",
+  "url": "https://github.com/DIYgod/RSSHub",
+  "description": "🧡 Everything is RSSible",
+  "stars": 45500,
+  "language": "TypeScript",
+  "topics": [
+    "bilibili",
+    "douban",
+    "dribbble",
+    "instagram",
+    "lofter",
+    "pixiv",
+    "rss",
+    "rsshub",
+    "spotify",
+    "telegram",
+    "tiktok",
+    "twitter"
+  ],
+  "default_branch": "master",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T03:42:52Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "4576664659dba12692d97654f260f71ebd08c74b",
+      "bytes": 8314,
+      "lines": 128,
+      "permalink": "https://github.com/DIYgod/RSSHub/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

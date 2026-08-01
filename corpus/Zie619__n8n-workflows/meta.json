@@ -1,0 +1,25 @@
+{
+  "owner": "Zie619",
+  "repo": "n8n-workflows",
+  "full_name": "Zie619/n8n-workflows",
+  "url": "https://github.com/Zie619/n8n-workflows",
+  "description": "all of the workflows of n8n i could find (also from the site itself)",
+  "stars": 55915,
+  "language": "Python",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-06-24T14:16:03Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "c0620aea503e9f2f92beaeb08e7fa01722d7f639",
+      "bytes": 4745,
+      "lines": 231,
+      "permalink": "https://github.com/Zie619/n8n-workflows/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "langfuse",
+  "repo": "langfuse",
+  "full_name": "langfuse/langfuse",
+  "url": "https://github.com/langfuse/langfuse",
+  "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+  "stars": 32279,
+  "language": "TypeScript",
+  "topics": [
+    "analytics",
+    "autogen",
+    "evaluation",
+    "langchain",
+    "large-language-models",
+    "llama-index",
+    "llm",
+    "llm-evaluation",
+    "llm-observability",
+    "llmops",
+    "monitoring",
+    "observability"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T18:03:32Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "41280d2fa808081dc9c5bd47c047fe1ea62e6aae",
+      "bytes": 7572,
+      "lines": 154,
+      "permalink": "https://github.com/langfuse/langfuse/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 7572,
+      "lines": 154,
+      "permalink": "https://github.com/langfuse/langfuse/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

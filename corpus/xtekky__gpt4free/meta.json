@@ -1,0 +1,38 @@
+{
+  "owner": "xtekky",
+  "repo": "gpt4free",
+  "full_name": "xtekky/gpt4free",
+  "url": "https://github.com/xtekky/gpt4free",
+  "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
+  "stars": 66515,
+  "language": "Python",
+  "topics": [
+    "chatbot",
+    "chatbots",
+    "chatgpt",
+    "chatgpt-4",
+    "chatgpt-api",
+    "chatgpt-free",
+    "chatgpt4",
+    "deepseek",
+    "deepseek-api",
+    "deepseek-r1",
+    "gpt",
+    "gpt-4"
+  ],
+  "default_branch": "main",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-07-26T01:47:30Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "ebf9309eba7c6d32943991440941bcf46c11d807",
+      "bytes": 6375,
+      "lines": 137,
+      "permalink": "https://github.com/xtekky/gpt4free/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

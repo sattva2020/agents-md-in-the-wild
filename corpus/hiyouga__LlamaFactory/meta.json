@@ -1,0 +1,46 @@
+{
+  "owner": "hiyouga",
+  "repo": "LlamaFactory",
+  "full_name": "hiyouga/LlamaFactory",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+  "stars": 73663,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "deepseek",
+    "fine-tuning",
+    "gemma",
+    "gpt",
+    "instruction-tuning",
+    "large-language-models",
+    "llama",
+    "llama3",
+    "llm",
+    "lora"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T10:54:13Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "1e135c798b0d4ad660df061cacb720a9ab832f05",
+      "bytes": 3930,
+      "lines": 106,
+      "permalink": "https://github.com/hiyouga/LlamaFactory/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "4a1ba22e24125d8eb1c1c1a868884951b905a9ef",
+      "bytes": 6059,
+      "lines": 181,
+      "permalink": "https://github.com/hiyouga/LlamaFactory/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

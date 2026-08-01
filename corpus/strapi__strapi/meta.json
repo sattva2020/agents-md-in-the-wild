@@ -1,0 +1,46 @@
+{
+  "owner": "strapi",
+  "repo": "strapi",
+  "full_name": "strapi/strapi",
+  "url": "https://github.com/strapi/strapi",
+  "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+  "stars": 72760,
+  "language": "TypeScript",
+  "topics": [
+    "api",
+    "cms",
+    "cms-framework",
+    "content-management",
+    "content-management-system",
+    "customizable",
+    "dashboard",
+    "graphql",
+    "hacktoberfest",
+    "headless-cms",
+    "jamstack",
+    "javascript"
+  ],
+  "default_branch": "develop",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T07:30:22Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "c654eb2f3fe0b91ddfb42281d3cbcfa3a2ee19a1",
+      "bytes": 10769,
+      "lines": 250,
+      "permalink": "https://github.com/strapi/strapi/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/strapi/strapi/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

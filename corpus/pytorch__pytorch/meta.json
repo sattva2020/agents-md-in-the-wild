@@ -4,7 +4,7 @@
   "full_name": "pytorch/pytorch",
   "url": "https://github.com/pytorch/pytorch",
   "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-  "stars": 102106,
+  "stars": 102107,
   "language": "Python",
   "topics": [
     "autograd",
@@ -20,13 +20,13 @@
   "license": "bsd-2-clause",
   "tier": "full",
   "tier_reason": "redistributable under bsd-2-clause",
-  "pushed_at": "2026-08-01T17:10:02Z",
+  "pushed_at": "2026-08-01T18:27:56Z",
   "files": {
     "AGENTS.md": {
       "source_path": "AGENTS.md",
       "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
-      "bytes": 9,
-      "lines": 1,
+      "bytes": 14189,
+      "lines": 320,
       "permalink": "https://github.com/pytorch/pytorch/blob/main/AGENTS.md",
       "stored": "AGENTS.md"
     },

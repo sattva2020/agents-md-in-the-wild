@@ -1,0 +1,46 @@
+{
+  "owner": "blakeblackshear",
+  "repo": "frigate",
+  "full_name": "blakeblackshear/frigate",
+  "url": "https://github.com/blakeblackshear/frigate",
+  "description": "NVR with realtime local object detection for IP cameras",
+  "stars": 34735,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "camera",
+    "google-coral",
+    "home-assistant",
+    "home-automation",
+    "homeautomation",
+    "mqtt",
+    "nvr",
+    "object-detection",
+    "realtime",
+    "rtsp",
+    "tensorflow"
+  ],
+  "default_branch": "dev",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T14:00:40Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "41d4b6460bd2751ac4096a3f129b298f81ea350b",
+      "bytes": 13350,
+      "lines": 451,
+      "permalink": "https://github.com/blakeblackshear/frigate/blob/dev/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 13350,
+      "lines": 451,
+      "permalink": "https://github.com/blakeblackshear/frigate/blob/dev/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

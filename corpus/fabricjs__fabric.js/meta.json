@@ -1,0 +1,33 @@
+{
+  "owner": "fabricjs",
+  "repo": "fabric.js",
+  "full_name": "fabricjs/fabric.js",
+  "url": "https://github.com/fabricjs/fabric.js",
+  "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+  "stars": 31356,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T12:26:02Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "426c6b35d4055de82535cfec476ffd10b32516fc",
+      "bytes": 2762,
+      "lines": 92,
+      "permalink": "https://github.com/fabricjs/fabric.js/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 2762,
+      "lines": 92,
+      "permalink": "https://github.com/fabricjs/fabric.js/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

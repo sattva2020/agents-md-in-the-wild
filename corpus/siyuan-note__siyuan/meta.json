@@ -1,0 +1,38 @@
+{
+  "owner": "siyuan-note",
+  "repo": "siyuan",
+  "full_name": "siyuan-note/siyuan",
+  "url": "https://github.com/siyuan-note/siyuan",
+  "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+  "stars": 45559,
+  "language": "TypeScript",
+  "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "digital-garden",
+    "electron",
+    "knowledge-base",
+    "knowledge-graph",
+    "local-first",
+    "markdown",
+    "mcp",
+    "note-taking",
+    "notebook",
+    "notes-app"
+  ],
+  "default_branch": "master",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T16:55:54Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "bb524c4adb6776fdbf48ed47b45a6feef0c17298",
+      "bytes": 11139,
+      "lines": 154,
+      "permalink": "https://github.com/siyuan-note/siyuan/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

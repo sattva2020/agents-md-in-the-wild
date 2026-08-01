@@ -1,0 +1,38 @@
+{
+  "owner": "makeplane",
+  "repo": "plane",
+  "full_name": "makeplane/plane",
+  "url": "https://github.com/makeplane/plane",
+  "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+  "stars": 55332,
+  "language": "TypeScript",
+  "topics": [
+    "boards",
+    "bug-tracker",
+    "django",
+    "docker",
+    "gantt",
+    "issue-tracker",
+    "jira",
+    "jira-alternative",
+    "kanban",
+    "linear",
+    "postgresql",
+    "product-management"
+  ],
+  "default_branch": "preview",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-07-31T17:33:32Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "f6e2b9dd3a44353bf18ae83737284baf704ea6e1",
+      "bytes": 1836,
+      "lines": 37,
+      "permalink": "https://github.com/makeplane/plane/blob/preview/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

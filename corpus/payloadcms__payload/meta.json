@@ -1,0 +1,46 @@
+{
+  "owner": "payloadcms",
+  "repo": "payload",
+  "full_name": "payloadcms/payload",
+  "url": "https://github.com/payloadcms/payload",
+  "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+  "stars": 43918,
+  "language": "TypeScript",
+  "topics": [
+    "cms",
+    "content-management",
+    "content-management-system",
+    "express",
+    "graphql",
+    "headless",
+    "headless-cms",
+    "jamstack",
+    "javascript",
+    "mit-license",
+    "mongodb",
+    "nextjs"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T09:59:19Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "4e9f4e64496a103ceec1e105fce54c664032bdc2",
+      "bytes": 45,
+      "lines": 2,
+      "permalink": "https://github.com/payloadcms/payload/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "5f16f18698f62020bbeebfa5bb990ef9be5d0f49",
+      "bytes": 18714,
+      "lines": 433,
+      "permalink": "https://github.com/payloadcms/payload/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

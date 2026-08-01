@@ -1,0 +1,33 @@
+{
+  "owner": "alan2207",
+  "repo": "bulletproof-react",
+  "full_name": "alan2207/bulletproof-react",
+  "url": "https://github.com/alan2207/bulletproof-react",
+  "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. ",
+  "stars": 35632,
+  "language": "TypeScript",
+  "topics": [
+    "react",
+    "react-applications",
+    "react-architecture-patterns",
+    "react-best-practice",
+    "react-guidelines",
+    "react-project-structure",
+    "react-typescript"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-05-14T13:53:04Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d64deab22050c87121948254e67d1e689a988e20",
+      "bytes": 9161,
+      "lines": 290,
+      "permalink": "https://github.com/alan2207/bulletproof-react/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

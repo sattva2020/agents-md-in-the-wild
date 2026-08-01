@@ -1,0 +1,46 @@
+{
+  "owner": "iOfficeAI",
+  "repo": "AionUi",
+  "full_name": "iOfficeAI/AionUi",
+  "url": "https://github.com/iOfficeAI/AionUi",
+  "description": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
+  "stars": 31231,
+  "language": "TypeScript",
+  "topics": [
+    "acp",
+    "agent-team",
+    "ai",
+    "ai-agent",
+    "chat",
+    "chatbot",
+    "claude-code",
+    "clawdbot",
+    "codex",
+    "cowork",
+    "gemini",
+    "gemini-cli"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T04:57:30Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "32f4aa9389e39e08c3932589893d23dd3f86416e",
+      "bytes": 7500,
+      "lines": 155,
+      "permalink": "https://github.com/iOfficeAI/AionUi/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/iOfficeAI/AionUi/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

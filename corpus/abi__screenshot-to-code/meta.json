@@ -1,0 +1,33 @@
+{
+  "owner": "abi",
+  "repo": "screenshot-to-code",
+  "full_name": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+  "stars": 73791,
+  "language": "Python",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T15:18:05Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "672da2a499f770cc98f3727feac4b214ddb89649",
+      "bytes": 3383,
+      "lines": 48,
+      "permalink": "https://github.com/abi/screenshot-to-code/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 3383,
+      "lines": 48,
+      "permalink": "https://github.com/abi/screenshot-to-code/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

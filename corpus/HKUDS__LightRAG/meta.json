@@ -1,0 +1,43 @@
+{
+  "owner": "HKUDS",
+  "repo": "LightRAG",
+  "full_name": "HKUDS/LightRAG",
+  "url": "https://github.com/HKUDS/LightRAG",
+  "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+  "stars": 38411,
+  "language": "Python",
+  "topics": [
+    "genai",
+    "gpt",
+    "gpt-4",
+    "graphrag",
+    "knowledge-graph",
+    "large-language-models",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T14:28:47Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "722bb7ce6f7f07df92249569b25d64422d4ef260",
+      "bytes": 27443,
+      "lines": 364,
+      "permalink": "https://github.com/HKUDS/LightRAG/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/HKUDS/LightRAG/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

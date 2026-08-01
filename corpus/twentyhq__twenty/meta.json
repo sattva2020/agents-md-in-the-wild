@@ -1,0 +1,38 @@
+{
+  "owner": "twentyhq",
+  "repo": "twenty",
+  "full_name": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "description": "The open alternative to Salesforce, designed for AI.",
+  "stars": 54022,
+  "language": "TypeScript",
+  "topics": [
+    "crm",
+    "crm-system",
+    "customer",
+    "good-first-issue",
+    "graphql",
+    "hacktoberfest",
+    "javascript",
+    "marketing",
+    "monorepo",
+    "nestjs",
+    "open-source",
+    "postgresql"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T16:48:58Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "022051059490e70e5b756137eed873d2d86f6325",
+      "bytes": 9384,
+      "lines": 225,
+      "permalink": "https://github.com/twentyhq/twenty/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

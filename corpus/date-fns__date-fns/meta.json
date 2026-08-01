@@ -1,0 +1,40 @@
+{
+  "owner": "date-fns",
+  "repo": "date-fns",
+  "full_name": "date-fns/date-fns",
+  "url": "https://github.com/date-fns/date-fns",
+  "description": "⏳ Modern JavaScript date utility library ⌛️",
+  "stars": 36616,
+  "language": "TypeScript",
+  "topics": [
+    "date",
+    "date-fns",
+    "hacktoberfest",
+    "javascript",
+    "modules",
+    "nodejs",
+    "time",
+    "utilities"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-06-08T05:30:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8837ee070bf4a5552bf175c5d6d6689cfc104d32",
+      "bytes": 1210,
+      "lines": 28,
+      "permalink": "https://github.com/date-fns/date-fns/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# AI Agents Instructions",
+        "## I18n",
+        "## PRs",
+        "## Git"
+      ]
+    }
+  }
+}

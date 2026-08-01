@@ -1,0 +1,33 @@
+{
+  "owner": "Alishahryar1",
+  "repo": "free-claude-code",
+  "full_name": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "description": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+  "stars": 43291,
+  "language": "Python",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T08:57:07Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "0a2a65f830fbd7defdefbf62e004f305817dc1b1",
+      "bytes": 8398,
+      "lines": 107,
+      "permalink": "https://github.com/Alishahryar1/free-claude-code/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "0a2a65f830fbd7defdefbf62e004f305817dc1b1",
+      "bytes": 8398,
+      "lines": 107,
+      "permalink": "https://github.com/Alishahryar1/free-claude-code/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

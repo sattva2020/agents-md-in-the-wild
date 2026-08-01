@@ -1,0 +1,54 @@
+{
+  "owner": "calesthio",
+  "repo": "OpenMontage",
+  "full_name": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+  "stars": 44499,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "ai",
+    "claude",
+    "copilot",
+    "cursor",
+    "elevenlabs",
+    "ffmpeg",
+    "flux",
+    "image-generation",
+    "open-source",
+    "openai"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-07-24T19:25:54Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "7649447bc320e098a06e95fe5dbc3e9a7539888b",
+      "bytes": 384,
+      "lines": 10,
+      "permalink": "https://github.com/calesthio/OpenMontage/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "e7d1f3e9fc87a9d54eb4e413545d779fd9637ad8",
+      "bytes": 402,
+      "lines": 10,
+      "permalink": "https://github.com/calesthio/OpenMontage/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "2ca6ea948d5c9f5f1542b7d693cf137b30851714",
+      "bytes": 405,
+      "lines": 10,
+      "permalink": "https://github.com/calesthio/OpenMontage/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "owner": "portainer",
+  "repo": "portainer",
+  "full_name": "portainer/portainer",
+  "url": "https://github.com/portainer/portainer",
+  "description": "Making Docker and Kubernetes management easy.",
+  "stars": 38109,
+  "language": "TypeScript",
+  "topics": [
+    "docker",
+    "docker-compose",
+    "docker-container",
+    "docker-deployment",
+    "docker-image",
+    "docker-swarm",
+    "docker-ui",
+    "dockerfile",
+    "hacktoberfest",
+    "kubernetes",
+    "moby",
+    "portainer"
+  ],
+  "default_branch": "develop",
+  "license": "zlib",
+  "tier": "full",
+  "tier_reason": "redistributable under zlib",
+  "pushed_at": "2026-07-30T13:30:38Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "38369d62eb2f0549e7af383d074291e115941448",
+      "bytes": 2513,
+      "lines": 60,
+      "permalink": "https://github.com/portainer/portainer/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

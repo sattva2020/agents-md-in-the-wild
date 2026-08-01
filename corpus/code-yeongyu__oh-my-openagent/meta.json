@@ -4,7 +4,7 @@
   "full_name": "code-yeongyu/oh-my-openagent",
   "url": "https://github.com/code-yeongyu/oh-my-openagent",
   "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
-  "stars": 66988,
+  "stars": 66989,
   "language": "TypeScript",
   "topics": [
     "ai",
@@ -64,11 +64,37 @@
     "CLAUDE.md": {
       "source_path": "CLAUDE.md",
       "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
-      "bytes": 9,
-      "lines": 1,
+      "bytes": 53546,
+      "lines": 409,
       "permalink": "https://github.com/code-yeongyu/oh-my-openagent/blob/dev/CLAUDE.md",
       "stored": null,
-      "headings": []
+      "headings": [
+        "# oh-my-opencode — OpenCode Plugin",
+        "## STOP. QA IS MANDATORY. NON-NEGOTIABLE. EVERY SINGLE TIME YOU TOUCH AN OPENCODE- OR CODEX-CONNECTED COMPONENT.",
+        "### OPENCODE side (`packages/omo-opencode/`): ALWAYS run the `opencode-qa` skill",
+        "### CODEX side (`packages/omo-codex/`): ALWAYS run the `codex-qa` skill",
+        "### EVIDENCE: record it under `.omo/evidence/` or it DID NOT HAPPEN",
+        "## MANDATORY CHANGE-EXECUTION PROTOCOL. EVERY USER-ORDERED PATCH FOLLOWS THIS. NO EXCEPTIONS.",
+        "## DEFAULT WORKFLOW — how to take on any task",
+        "## OVERVIEW",
+        "## STRUCTURE",
+        "## INITIALIZATION FLOW",
+        "## 14 OPENCODE HOOK HANDLERS",
+        "## TOOL CATALOG (config-gated)",
+        "## TEAM MODE",
+        "## CODEX LIGHT EDITION (omo-codex / lazycodex)",
+        "## MULTI-LEVEL CONFIG",
+        "## THREE-TIER MCP SYSTEM",
+        "## WHERE TO LOOK",
+        "## ARCHITECTURE INVARIANTS",
+        "## CONVENTIONS",
+        "## ANTI-PATTERNS (BLOCKING)",
+        "## COMMANDS",
+        "## DEVELOPMENT ENVIRONMENT",
+        "## CI/CD",
+        "## PR MERGE POLICY",
+        "## NOTES"
+      ]
     }
   }
 }

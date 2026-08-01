@@ -1,0 +1,40 @@
+{
+  "owner": "styled-components",
+  "repo": "styled-components",
+  "full_name": "styled-components/styled-components",
+  "url": "https://github.com/styled-components/styled-components",
+  "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+  "stars": 41135,
+  "language": "TypeScript",
+  "topics": [
+    "css",
+    "css-in-js",
+    "react",
+    "reactnative",
+    "rsc",
+    "styled-components"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T04:13:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "ad0471b3c29d5d3ae570cc8006d24e98d61ef51c",
+      "bytes": 30349,
+      "lines": 205,
+      "permalink": "https://github.com/styled-components/styled-components/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "dbb983074104ee0567a1685533ef7d9dc3320362",
+      "bytes": 85,
+      "lines": 2,
+      "permalink": "https://github.com/styled-components/styled-components/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

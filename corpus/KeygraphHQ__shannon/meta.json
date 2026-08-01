@@ -1,0 +1,38 @@
+{
+  "owner": "KeygraphHQ",
+  "repo": "shannon",
+  "full_name": "KeygraphHQ/shannon",
+  "url": "https://github.com/KeygraphHQ/shannon",
+  "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+  "stars": 46331,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "ai-penetration-testing",
+    "ai-security",
+    "cybersecurity",
+    "ethical-hacking",
+    "offensive-security",
+    "penetration-testing",
+    "pentesting",
+    "pentesting-tools",
+    "red-teaming",
+    "security",
+    "security-audit"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-07-31T00:46:55Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "44d0f4da76f892d7e64975337eb65c0ce24052d8",
+      "bytes": 24290,
+      "lines": 255,
+      "permalink": "https://github.com/KeygraphHQ/shannon/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

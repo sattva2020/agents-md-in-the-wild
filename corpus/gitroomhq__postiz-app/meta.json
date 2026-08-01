@@ -1,0 +1,42 @@
+{
+  "owner": "gitroomhq",
+  "repo": "postiz-app",
+  "full_name": "gitroomhq/postiz-app",
+  "url": "https://github.com/gitroomhq/postiz-app",
+  "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+  "stars": 34084,
+  "language": "TypeScript",
+  "topics": [
+    "nextjs",
+    "open-source",
+    "open-source-social-media-scheduling-tool",
+    "oss",
+    "redis",
+    "scheduling-tool",
+    "social-media-scheduling-tool",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T01:50:12Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "2704017990140945f94d2ab68ef641f2a0fdb8a8",
+      "bytes": 4130,
+      "lines": 70,
+      "permalink": "https://github.com/gitroomhq/postiz-app/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "999efe6d9b1cc9e2712e2a975b022ff1cff9bb94",
+      "bytes": 4170,
+      "lines": 117,
+      "permalink": "https://github.com/gitroomhq/postiz-app/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

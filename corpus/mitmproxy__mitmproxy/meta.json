@@ -1,0 +1,37 @@
+{
+  "owner": "mitmproxy",
+  "repo": "mitmproxy",
+  "full_name": "mitmproxy/mitmproxy",
+  "url": "https://github.com/mitmproxy/mitmproxy",
+  "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+  "stars": 44539,
+  "language": "Python",
+  "topics": [
+    "debugging",
+    "http",
+    "http2",
+    "man-in-the-middle",
+    "mitmproxy",
+    "proxy",
+    "python",
+    "security",
+    "ssl",
+    "tls",
+    "websocket"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T08:08:46Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "9c46043810e176676f01580eab5d2726ff443e54",
+      "bytes": 214,
+      "lines": 3,
+      "permalink": "https://github.com/mitmproxy/mitmproxy/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

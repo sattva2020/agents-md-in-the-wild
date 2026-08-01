@@ -1,0 +1,38 @@
+{
+  "owner": "gradio-app",
+  "repo": "gradio",
+  "full_name": "gradio-app/gradio",
+  "url": "https://github.com/gradio-app/gradio",
+  "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+  "stars": 43262,
+  "language": "Python",
+  "topics": [
+    "data-analysis",
+    "data-science",
+    "data-visualization",
+    "deep-learning",
+    "deploy",
+    "gradio",
+    "gradio-interface",
+    "interface",
+    "machine-learning",
+    "models",
+    "python",
+    "python-notebook"
+  ],
+  "default_branch": "main",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T06:20:32Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "5ffe42db7ce1d16017756515da9ca6b6e358500d",
+      "bytes": 3530,
+      "lines": 73,
+      "permalink": "https://github.com/gradio-app/gradio/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

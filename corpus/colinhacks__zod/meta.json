@@ -1,0 +1,47 @@
+{
+  "owner": "colinhacks",
+  "repo": "zod",
+  "full_name": "colinhacks/zod",
+  "url": "https://github.com/colinhacks/zod",
+  "description": "TypeScript-first schema validation with static type inference",
+  "stars": 43381,
+  "language": "TypeScript",
+  "topics": [
+    "runtime-validation",
+    "schema-validation",
+    "static-types",
+    "type-inference",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T22:30:18Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "cec793716db0e16cb816b9d5b0f411a38aeb927a",
+      "bytes": 11800,
+      "lines": 139,
+      "permalink": "https://github.com/colinhacks/zod/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 11800,
+      "lines": 139,
+      "permalink": "https://github.com/colinhacks/zod/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 11800,
+      "lines": 139,
+      "permalink": "https://github.com/colinhacks/zod/blob/main/.cursorrules",
+      "stored": ".cursorrules"
+    }
+  }
+}

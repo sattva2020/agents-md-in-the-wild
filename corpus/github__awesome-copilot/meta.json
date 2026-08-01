@@ -1,0 +1,42 @@
+{
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "full_name": "github/awesome-copilot",
+  "url": "https://github.com/github/awesome-copilot",
+  "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+  "stars": 37326,
+  "language": "Python",
+  "topics": [
+    "agent-skills",
+    "agents",
+    "ai",
+    "awesome",
+    "custom-agents",
+    "github-copilot",
+    "hacktoberfest",
+    "prompt-engineering"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T21:04:31Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "3a17693cdf52014e7aa289dfc0cd77abab626159",
+      "bytes": 16569,
+      "lines": 339,
+      "permalink": "https://github.com/github/awesome-copilot/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "0645f2841c25bc6fb7238d22a3d5f2eb84c6f700",
+      "bytes": 3271,
+      "lines": 72,
+      "permalink": "https://github.com/github/awesome-copilot/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

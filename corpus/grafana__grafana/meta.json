@@ -4,7 +4,7 @@
   "full_name": "grafana/grafana",
   "url": "https://github.com/grafana/grafana",
   "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
-  "stars": 75910,
+  "stars": 75912,
   "language": "TypeScript",
   "topics": [
     "alerting",
@@ -24,7 +24,7 @@
   "license": "agpl-3.0",
   "tier": "full",
   "tier_reason": "redistributable under agpl-3.0",
-  "pushed_at": "2026-08-01T16:54:34Z",
+  "pushed_at": "2026-08-01T18:14:31Z",
   "files": {
     "AGENTS.md": {
       "source_path": "AGENTS.md",

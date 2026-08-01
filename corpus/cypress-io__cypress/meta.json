@@ -1,0 +1,46 @@
+{
+  "owner": "cypress-io",
+  "repo": "cypress",
+  "full_name": "cypress-io/cypress",
+  "url": "https://github.com/cypress-io/cypress",
+  "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+  "stars": 50645,
+  "language": "TypeScript",
+  "topics": [
+    "angular-testing-library",
+    "component-testing",
+    "cypress",
+    "cypress-cloud",
+    "cypress-schematic",
+    "end-to-end-testing",
+    "react-testing-library",
+    "svelte-testing-library",
+    "test-replay",
+    "testing-framework",
+    "testing-library",
+    "testing-tool"
+  ],
+  "default_branch": "develop",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:29:57Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "16d0a0f588df4c4c8dbd370a2a35bb59949b93eb",
+      "bytes": 15334,
+      "lines": 280,
+      "permalink": "https://github.com/cypress-io/cypress/blob/develop/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "267fd6ef28d8b2545ab19e581d8fae01bc3621bb",
+      "bytes": 1935,
+      "lines": 49,
+      "permalink": "https://github.com/cypress-io/cypress/blob/develop/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

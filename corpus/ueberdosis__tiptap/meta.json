@@ -1,0 +1,45 @@
+{
+  "owner": "ueberdosis",
+  "repo": "tiptap",
+  "full_name": "ueberdosis/tiptap",
+  "url": "https://github.com/ueberdosis/tiptap",
+  "description": "The headless rich text editor framework for web artisans.",
+  "stars": 37858,
+  "language": "TypeScript",
+  "topics": [
+    "editor",
+    "javascript",
+    "js",
+    "prosemirror",
+    "react",
+    "renderless-components",
+    "rich-text",
+    "tiptap",
+    "vue",
+    "wysiwyg",
+    "wysiwyg-editor"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T17:12:34Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "aa99f710a683073dd9b7ab862a2ef8df49cce393",
+      "bytes": 4422,
+      "lines": 101,
+      "permalink": "https://github.com/ueberdosis/tiptap/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 4422,
+      "lines": 101,
+      "permalink": "https://github.com/ueberdosis/tiptap/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

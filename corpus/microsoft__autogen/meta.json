@@ -1,0 +1,36 @@
+{
+  "owner": "microsoft",
+  "repo": "autogen",
+  "full_name": "microsoft/autogen",
+  "url": "https://github.com/microsoft/autogen",
+  "description": "A programming framework for agentic AI",
+  "stars": 60154,
+  "language": "Python",
+  "topics": [
+    "agentic",
+    "agentic-agi",
+    "agents",
+    "ai",
+    "autogen",
+    "autogen-ecosystem",
+    "chatgpt",
+    "framework",
+    "llm-agent",
+    "llm-framework"
+  ],
+  "default_branch": "main",
+  "license": "cc-by-4.0",
+  "tier": "full",
+  "tier_reason": "redistributable under cc-by-4.0",
+  "pushed_at": "2026-04-15T11:59:09Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "752303147aa32edc22c1a8f0be6bbff66740f4c9",
+      "bytes": 8858,
+      "lines": 226,
+      "permalink": "https://github.com/microsoft/autogen/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

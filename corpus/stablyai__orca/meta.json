@@ -4,7 +4,7 @@
   "full_name": "stablyai/orca",
   "url": "https://github.com/stablyai/orca",
   "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-  "stars": 35064,
+  "stars": 35086,
   "language": "TypeScript",
   "topics": [
     "ade",
@@ -24,7 +24,7 @@
   "license": "mit",
   "tier": "full",
   "tier_reason": "redistributable under mit",
-  "pushed_at": "2026-08-01T17:05:28Z",
+  "pushed_at": "2026-08-01T18:09:47Z",
   "files": {
     "AGENTS.md": {
       "source_path": "AGENTS.md",

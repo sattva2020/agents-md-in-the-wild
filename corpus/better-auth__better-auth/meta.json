@@ -1,0 +1,42 @@
+{
+  "owner": "better-auth",
+  "repo": "better-auth",
+  "full_name": "better-auth/better-auth",
+  "url": "https://github.com/better-auth/better-auth",
+  "description": "The most comprehensive authentication framework",
+  "stars": 29419,
+  "language": "TypeScript",
+  "topics": [
+    "authentication",
+    "iam",
+    "oauth",
+    "oauth2",
+    "oidc",
+    "sso",
+    "stripe",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T12:11:16Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "3bafbfd1c10d325c522a652d7782e8d808e8e0a9",
+      "bytes": 4175,
+      "lines": 72,
+      "permalink": "https://github.com/better-auth/better-auth/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 4175,
+      "lines": 72,
+      "permalink": "https://github.com/better-auth/better-auth/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "statelyai",
+  "repo": "xstate",
+  "full_name": "statelyai/xstate",
+  "url": "https://github.com/statelyai/xstate",
+  "description": "State machines, statecharts, and actors for complex logic",
+  "stars": 29952,
+  "language": "TypeScript",
+  "topics": [
+    "background-jobs",
+    "finite-state-machine",
+    "fsm",
+    "hacktoberfest",
+    "interpreter",
+    "javascript",
+    "orchestration",
+    "scxml",
+    "state",
+    "state-machine",
+    "state-management",
+    "statechart"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:50:07Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "0fb6392ab0789c8be76b4304fede6cc0df9e42e1",
+      "bytes": 666,
+      "lines": 14,
+      "permalink": "https://github.com/statelyai/xstate/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 666,
+      "lines": 14,
+      "permalink": "https://github.com/statelyai/xstate/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "owner": "jestjs",
+  "repo": "jest",
+  "full_name": "jestjs/jest",
+  "url": "https://github.com/jestjs/jest",
+  "description": "Delightful JavaScript Testing.",
+  "stars": 45455,
+  "language": "TypeScript",
+  "topics": [
+    "easy",
+    "expectation",
+    "facebook",
+    "immersive",
+    "javascript",
+    "painless",
+    "painless-javascript-testing",
+    "snapshot",
+    "testing"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T19:07:55Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "a7e292c9bcebfbaad86a5db12b93cb4de1e18b17",
+      "bytes": 46,
+      "lines": 4,
+      "permalink": "https://github.com/jestjs/jest/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "3b547ebc2a6dda03cb77cdbf4fcf35b872d61355",
+      "bytes": 16142,
+      "lines": 239,
+      "permalink": "https://github.com/jestjs/jest/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

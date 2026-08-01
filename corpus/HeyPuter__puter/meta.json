@@ -1,0 +1,46 @@
+{
+  "owner": "HeyPuter",
+  "repo": "puter",
+  "full_name": "HeyPuter/puter",
+  "url": "https://github.com/HeyPuter/puter",
+  "description": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+  "stars": 42922,
+  "language": "TypeScript",
+  "topics": [
+    "cloud",
+    "cloud-os",
+    "cloud-storage",
+    "desktop",
+    "desktop-environment",
+    "dropbox",
+    "good-first-issue",
+    "gui",
+    "javascript",
+    "nas",
+    "open-source",
+    "operating-system"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T17:45:50Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a4d08f0219173e46b2ea7133f365d27988a12711",
+      "bytes": 16239,
+      "lines": 153,
+      "permalink": "https://github.com/HeyPuter/puter/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "4f2fa3032dce3a90ea44db6d34dad875fdb8ea7c",
+      "bytes": 19,
+      "lines": 2,
+      "permalink": "https://github.com/HeyPuter/puter/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

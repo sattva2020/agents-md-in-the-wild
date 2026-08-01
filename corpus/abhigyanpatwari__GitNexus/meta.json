@@ -1,0 +1,80 @@
+{
+  "owner": "abhigyanpatwari",
+  "repo": "GitNexus",
+  "full_name": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+  "stars": 44912,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T18:01:26Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "2e03061e2b7a881e5a07310d89647707deb57081",
+      "bytes": 13654,
+      "lines": 197,
+      "permalink": "https://github.com/abhigyanpatwari/GitNexus/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "## Scope",
+        "## Model Configuration",
+        "## Execution Sequence (complex tasks)",
+        "## Claude Code hooks",
+        "## Context budget",
+        "## Reference docs",
+        "## PR Swarm Review (cross-CLI)",
+        "## Engineering planning & execution (`/gitnexus-plan` · `/gitnexus-work` · `/gitnexus-review` · `/gitnexus-lfg`)",
+        "## Changelog",
+        "# GitNexus — Code Intelligence",
+        "## Always Do",
+        "## Never Do",
+        "## Resources",
+        "## CLI",
+        "## Repo reference",
+        "### Packages",
+        "### Running services",
+        "### Testing",
+        "### Gotchas"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "cede8bee978a22605a88545d0bf4d556bcb7ef82",
+      "bytes": 7154,
+      "lines": 106,
+      "permalink": "https://github.com/abhigyanpatwari/GitNexus/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "## Scope",
+        "## Model Configuration",
+        "## Execution Sequence (complex tasks)",
+        "## Claude Code hooks",
+        "## Context budget",
+        "## Reference Documentation",
+        "## Changelog",
+        "## GitNexus rules",
+        "# GitNexus — Code Intelligence",
+        "## Always Do",
+        "## Never Do",
+        "## Resources",
+        "## CLI"
+      ]
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "4ef32f28d811c517f65e0fbb08fb138ceb720586",
+      "bytes": 194,
+      "lines": 6,
+      "permalink": "https://github.com/abhigyanpatwari/GitNexus/blob/main/.cursorrules",
+      "stored": null,
+      "headings": [
+        "# Deprecated for Cursor Agent Mode"
+      ]
+    }
+  }
+}

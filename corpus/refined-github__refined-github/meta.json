@@ -1,0 +1,41 @@
+{
+  "owner": "refined-github",
+  "repo": "refined-github",
+  "full_name": "refined-github/refined-github",
+  "url": "https://github.com/refined-github/refined-github",
+  "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+  "stars": 31845,
+  "language": "TypeScript",
+  "topics": [
+    "browser-extension",
+    "chrome-extension",
+    "firefox-addon",
+    "github",
+    "github-extension",
+    "safari-extension",
+    "userstyle"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T08:54:29Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47d29cb5ec2e3b9d59b995b5c3cc4c63511fcd54",
+      "bytes": 639,
+      "lines": 20,
+      "permalink": "https://github.com/refined-github/refined-github/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "c9dfd355b99aa497dae0e0de42e1ae40ff2e5ae4",
+      "bytes": 427,
+      "lines": 8,
+      "permalink": "https://github.com/refined-github/refined-github/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

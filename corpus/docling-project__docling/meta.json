@@ -1,0 +1,46 @@
+{
+  "owner": "docling-project",
+  "repo": "docling",
+  "full_name": "docling-project/docling",
+  "url": "https://github.com/docling-project/docling",
+  "description": "Get your documents ready for gen AI",
+  "stars": 64096,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "convert",
+    "document-parser",
+    "document-parsing",
+    "documents",
+    "docx",
+    "html",
+    "markdown",
+    "pdf",
+    "pdf-converter",
+    "pdf-to-json",
+    "pdf-to-text"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T16:09:58Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "85e9a67657be945707eb90dedf95e5145e597b46",
+      "bytes": 3642,
+      "lines": 71,
+      "permalink": "https://github.com/docling-project/docling/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "dfd98d2dddb1205cf763a0063d20665f735530f1",
+      "bytes": 149,
+      "lines": 8,
+      "permalink": "https://github.com/docling-project/docling/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

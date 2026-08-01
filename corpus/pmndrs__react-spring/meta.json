@@ -1,0 +1,31 @@
+{
+  "owner": "pmndrs",
+  "repo": "react-spring",
+  "full_name": "pmndrs/react-spring",
+  "url": "https://github.com/pmndrs/react-spring",
+  "description": "✌️ A spring physics based React animation library",
+  "stars": 29128,
+  "language": "TypeScript",
+  "topics": [
+    "animation-library",
+    "react",
+    "react-spring",
+    "spring-physics",
+    "springs"
+  ],
+  "default_branch": "next",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T00:55:15Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "fc16b6a69b8d0ec6c62c8f84d80e6c5a046398a2",
+      "bytes": 11199,
+      "lines": 126,
+      "permalink": "https://github.com/pmndrs/react-spring/blob/next/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

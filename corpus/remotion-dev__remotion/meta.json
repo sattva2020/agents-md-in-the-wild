@@ -1,0 +1,66 @@
+{
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "full_name": "remotion-dev/remotion",
+  "url": "https://github.com/remotion-dev/remotion",
+  "description": "🎥      Make videos programmatically with React",
+  "stars": 55161,
+  "language": "TypeScript",
+  "topics": [
+    "javascript",
+    "react",
+    "video"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-08-01T09:23:39Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "79ceca96ad33133361a18992706214f89f8af226",
+      "bytes": 1432,
+      "lines": 42,
+      "permalink": "https://github.com/remotion-dev/remotion/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "## Setup commands",
+        "# Install dependencies (uses Bun)",
+        "# Build all packages",
+        "# Run tests and linting",
+        "# Clean build artifacts",
+        "# Build a specific package",
+        "## Coding style",
+        "## Key services",
+        "## Rendering test videos"
+      ]
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "278a919ceb8d25213de615e31cd658dae0315f98",
+      "bytes": 326,
+      "lines": 10,
+      "permalink": "https://github.com/remotion-dev/remotion/blob/main/CLAUDE.md",
+      "stored": null,
+      "headings": [
+        "# CLAUDE.md",
+        "## Primary Reference"
+      ]
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "974a0b4330b98c17dc67cc297f2ceae7a1c2b8e2",
+      "bytes": 1629,
+      "lines": 24,
+      "permalink": "https://github.com/remotion-dev/remotion/blob/main/.github/copilot-instructions.md",
+      "stored": null,
+      "headings": [
+        "## Monorepo setup",
+        "## Build instructions",
+        "## Documentation",
+        "## Commit messages"
+      ]
+    }
+  }
+}

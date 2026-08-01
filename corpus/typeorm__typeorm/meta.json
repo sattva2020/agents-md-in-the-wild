@@ -1,0 +1,38 @@
+{
+  "owner": "typeorm",
+  "repo": "typeorm",
+  "full_name": "typeorm/typeorm",
+  "url": "https://github.com/typeorm/typeorm",
+  "description": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+  "stars": 36611,
+  "language": "TypeScript",
+  "topics": [
+    "active-record",
+    "cockroachdb",
+    "data-mapper",
+    "database",
+    "hacktoberfest",
+    "javascript",
+    "mariadb",
+    "mysql",
+    "orm",
+    "postgresql",
+    "sqlite",
+    "sqlserver"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T06:44:16Z",
+  "files": {
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "26118f20a1146ba61bb8894b7ed641fcd233e427",
+      "bytes": 9289,
+      "lines": 298,
+      "permalink": "https://github.com/typeorm/typeorm/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

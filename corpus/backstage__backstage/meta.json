@@ -1,0 +1,43 @@
+{
+  "owner": "backstage",
+  "repo": "backstage",
+  "full_name": "backstage/backstage",
+  "url": "https://github.com/backstage/backstage",
+  "description": "Backstage is an open framework for building developer portals",
+  "stars": 33994,
+  "language": "TypeScript",
+  "topics": [
+    "backstage",
+    "cncf",
+    "developer-experience",
+    "developer-portal",
+    "dx",
+    "hacktoberfest",
+    "infrastructure",
+    "microservices",
+    "self-service-portal"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T16:32:44Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "bf10c38dc75f937bfd8c308f55bbda052ffbe05a",
+      "bytes": 6297,
+      "lines": 68,
+      "permalink": "https://github.com/backstage/backstage/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "973b92de698c185ebb126b913ef76a8281e55bef",
+      "bytes": 2855,
+      "lines": 47,
+      "permalink": "https://github.com/backstage/backstage/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

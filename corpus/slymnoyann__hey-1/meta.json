@@ -1,0 +1,46 @@
+{
+  "owner": "slymnoyann",
+  "repo": "hey-1",
+  "full_name": "slymnoyann/hey-1",
+  "url": "https://github.com/slymnoyann/hey-1",
+  "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+  "stars": 29371,
+  "language": "TypeScript",
+  "topics": [
+    "blockchain",
+    "crypto",
+    "dapp",
+    "graphql",
+    "hacktoberfest",
+    "lens-protocol",
+    "nextjs",
+    "react",
+    "social-media",
+    "tailwindcss",
+    "turborepo",
+    "typescript"
+  ],
+  "default_branch": "main",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-05-13T15:47:46Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "0dceaa149c836c4acc2f99c691911291fe257e95",
+      "bytes": 2366,
+      "lines": 47,
+      "permalink": "https://github.com/slymnoyann/hey-1/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".cursorrules": {
+      "source_path": ".cursorrules",
+      "sha": "02d8d7feb02e0b42241dd0bd30ae2c0d01d09945",
+      "bytes": 3815,
+      "lines": 94,
+      "permalink": "https://github.com/slymnoyann/hey-1/blob/main/.cursorrules",
+      "stored": ".cursorrules"
+    }
+  }
+}

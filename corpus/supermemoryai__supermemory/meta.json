@@ -1,0 +1,38 @@
+{
+  "owner": "supermemoryai",
+  "repo": "supermemory",
+  "full_name": "supermemoryai/supermemory",
+  "url": "https://github.com/supermemoryai/supermemory",
+  "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+  "stars": 28726,
+  "language": "TypeScript",
+  "topics": [
+    "agent-memory",
+    "ai-memory",
+    "cloudflare-kv",
+    "cloudflare-pages",
+    "cloudflare-workers",
+    "drizzle-orm",
+    "memory",
+    "postgres",
+    "remix",
+    "tailwindcss",
+    "typescript",
+    "vite"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T17:15:35Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "da9208e5649b034a3a17d54ba51ec8d0f8d7e998",
+      "bytes": 3963,
+      "lines": 121,
+      "permalink": "https://github.com/supermemoryai/supermemory/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "full_name": "lobehub/lobehub",
   "url": "https://github.com/lobehub/lobehub",
   "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-  "stars": 81042,
+  "stars": 81044,
   "language": "TypeScript",
   "topics": [
     "agent",
@@ -24,7 +24,7 @@
   "license": null,
   "tier": "metadata",
   "tier_reason": "no declared licence — all rights reserved by default",
-  "pushed_at": "2026-08-01T16:59:26Z",
+  "pushed_at": "2026-08-01T18:14:28Z",
   "files": {
     "AGENTS.md": {
       "source_path": "AGENTS.md",

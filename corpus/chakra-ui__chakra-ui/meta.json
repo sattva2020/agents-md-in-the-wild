@@ -1,0 +1,38 @@
+{
+  "owner": "chakra-ui",
+  "repo": "chakra-ui",
+  "full_name": "chakra-ui/chakra-ui",
+  "url": "https://github.com/chakra-ui/chakra-ui",
+  "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+  "stars": 40547,
+  "language": "TypeScript",
+  "topics": [
+    "a11y",
+    "accessible",
+    "ark-ui",
+    "chakra-ui",
+    "component",
+    "css-in-js",
+    "dark-mode",
+    "design-system",
+    "react",
+    "react-components",
+    "reactjs",
+    "styled"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T17:12:42Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "e52be442ca0965cd80e6a2fa1c47398be92275be",
+      "bytes": 9398,
+      "lines": 344,
+      "permalink": "https://github.com/chakra-ui/chakra-ui/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

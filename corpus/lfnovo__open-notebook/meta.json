@@ -1,0 +1,40 @@
+{
+  "owner": "lfnovo",
+  "repo": "open-notebook",
+  "full_name": "lfnovo/open-notebook",
+  "url": "https://github.com/lfnovo/open-notebook",
+  "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+  "stars": 36242,
+  "language": "TypeScript",
+  "topics": [
+    "assistant",
+    "learning",
+    "note-taking",
+    "notebook",
+    "notes-app",
+    "self-learning"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-28T03:15:55Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b288fc68a68d9fd2b603d5f337e140249aac3b9b",
+      "bytes": 3074,
+      "lines": 46,
+      "permalink": "https://github.com/lfnovo/open-notebook/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/lfnovo/open-notebook/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

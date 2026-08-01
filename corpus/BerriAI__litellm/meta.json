@@ -1,0 +1,54 @@
+{
+  "owner": "BerriAI",
+  "repo": "litellm",
+  "full_name": "BerriAI/litellm",
+  "url": "https://github.com/BerriAI/litellm",
+  "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+  "stars": 55270,
+  "language": "Python",
+  "topics": [
+    "ai-gateway",
+    "anthropic",
+    "azure-openai",
+    "bedrock",
+    "gateway",
+    "langchain",
+    "litellm",
+    "llm",
+    "llm-gateway",
+    "llmops",
+    "mcp-gateway",
+    "openai"
+  ],
+  "default_branch": "litellm_internal_staging",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T18:32:56Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "41921fdff4dca18b31e5c8ffb25563e0a2d41ebf",
+      "bytes": 38,
+      "lines": 2,
+      "permalink": "https://github.com/BerriAI/litellm/blob/litellm_internal_staging/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "c3c8138d2ac3a7c558b45dc3b9467a93aa2fff48",
+      "bytes": 12173,
+      "lines": 109,
+      "permalink": "https://github.com/BerriAI/litellm/blob/litellm_internal_staging/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "41921fdff4dca18b31e5c8ffb25563e0a2d41ebf",
+      "bytes": 38,
+      "lines": 2,
+      "permalink": "https://github.com/BerriAI/litellm/blob/litellm_internal_staging/GEMINI.md",
+      "stored": "GEMINI.md"
+    }
+  }
+}

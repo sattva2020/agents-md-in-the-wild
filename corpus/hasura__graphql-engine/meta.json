@@ -1,0 +1,38 @@
+{
+  "owner": "hasura",
+  "repo": "graphql-engine",
+  "full_name": "hasura/graphql-engine",
+  "url": "https://github.com/hasura/graphql-engine",
+  "description": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+  "stars": 32063,
+  "language": "TypeScript",
+  "topics": [
+    "access-control",
+    "api",
+    "automatic-api",
+    "bigquery",
+    "graphql",
+    "graphql-api",
+    "graphql-server",
+    "haskell",
+    "hasura",
+    "mongodb",
+    "postgres",
+    "rest-api"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-07-31T11:30:21Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "83cf33ba02ff2811b9802e5dcedb4218738c211b",
+      "bytes": 582,
+      "lines": 16,
+      "permalink": "https://github.com/hasura/graphql-engine/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

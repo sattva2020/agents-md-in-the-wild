@@ -1,0 +1,32 @@
+{
+  "owner": "justjavac",
+  "repo": "wechat-miniapp-radar",
+  "full_name": "justjavac/wechat-miniapp-radar",
+  "url": "https://github.com/justjavac/wechat-miniapp-radar",
+  "description": "小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具",
+  "stars": 51212,
+  "language": "TypeScript",
+  "topics": [
+    "minapp",
+    "miniprogram",
+    "wechat",
+    "wechat-weapp",
+    "wxapp",
+    "wxml"
+  ],
+  "default_branch": "main",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-07-09T01:37:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "79fd00cbd09664b2f0cb1bea5f1ff3af3a11a29e",
+      "bytes": 4963,
+      "lines": 109,
+      "permalink": "https://github.com/justjavac/wechat-miniapp-radar/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

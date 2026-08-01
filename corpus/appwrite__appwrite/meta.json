@@ -1,0 +1,46 @@
+{
+  "owner": "appwrite",
+  "repo": "appwrite",
+  "full_name": "appwrite/appwrite",
+  "url": "https://github.com/appwrite/appwrite",
+  "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+  "stars": 56750,
+  "language": "TypeScript",
+  "topics": [
+    "android",
+    "appwrite",
+    "backend",
+    "backend-as-a-service",
+    "docker",
+    "firebase",
+    "flutter",
+    "hosting",
+    "ios",
+    "javascript",
+    "nextjs",
+    "react"
+  ],
+  "default_branch": "main",
+  "license": "bsd-3-clause",
+  "tier": "full",
+  "tier_reason": "redistributable under bsd-3-clause",
+  "pushed_at": "2026-08-01T08:18:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a54bb22dfb881b4c207c34d9d294a78e4718f6bb",
+      "bytes": 16253,
+      "lines": 251,
+      "permalink": "https://github.com/appwrite/appwrite/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/appwrite/appwrite/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

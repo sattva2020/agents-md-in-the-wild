@@ -1,0 +1,38 @@
+{
+  "owner": "novuhq",
+  "repo": "novu",
+  "full_name": "novuhq/novu",
+  "url": "https://github.com/novuhq/novu",
+  "description": "The open-source communication infrastructure for agents and products",
+  "stars": 39411,
+  "language": "TypeScript",
+  "topics": [
+    "agents",
+    "communication",
+    "email",
+    "inbox",
+    "infrastructure",
+    "nodejs",
+    "notification-center",
+    "notifications",
+    "novu",
+    "push-notifications",
+    "react",
+    "reactjs"
+  ],
+  "default_branch": "next",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T21:08:56Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "384fdc4b37391afb6b3323ac8469aab1ca81909e",
+      "bytes": 2431,
+      "lines": 44,
+      "permalink": "https://github.com/novuhq/novu/blob/next/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "pandas-dev",
+  "repo": "pandas",
+  "full_name": "pandas-dev/pandas",
+  "url": "https://github.com/pandas-dev/pandas",
+  "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+  "stars": 49388,
+  "language": "Python",
+  "topics": [
+    "alignment",
+    "data-analysis",
+    "data-science",
+    "flexible",
+    "pandas",
+    "python"
+  ],
+  "default_branch": "main",
+  "license": "bsd-3-clause",
+  "tier": "full",
+  "tier_reason": "redistributable under bsd-3-clause",
+  "pushed_at": "2026-08-01T18:25:38Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "10b9f4f6e78fd6bdefca93ffc2c5fe2a038c15c7",
+      "bytes": 2827,
+      "lines": 49,
+      "permalink": "https://github.com/pandas-dev/pandas/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

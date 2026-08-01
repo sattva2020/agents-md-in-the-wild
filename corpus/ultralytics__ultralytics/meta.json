@@ -1,0 +1,46 @@
+{
+  "owner": "ultralytics",
+  "repo": "ultralytics",
+  "full_name": "ultralytics/ultralytics",
+  "url": "https://github.com/ultralytics/ultralytics",
+  "description": "Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+  "stars": 60107,
+  "language": "Python",
+  "topics": [
+    "computer-vision",
+    "deep-learning",
+    "image-classification",
+    "instance-segmentation",
+    "machine-learning",
+    "object-detection",
+    "object-tracking",
+    "pose-estimation",
+    "python",
+    "pytorch",
+    "rotated-object-detection",
+    "segment-anything"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T18:16:47Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a9121c964f247a525cd31074ba06513d0ef5c944",
+      "bytes": 8484,
+      "lines": 81,
+      "permalink": "https://github.com/ultralytics/ultralytics/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 8484,
+      "lines": 81,
+      "permalink": "https://github.com/ultralytics/ultralytics/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

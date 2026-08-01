@@ -1,0 +1,33 @@
+{
+  "owner": "remix-run",
+  "repo": "remix",
+  "full_name": "remix-run/remix",
+  "url": "https://github.com/remix-run/remix",
+  "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+  "stars": 33268,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T22:40:39Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "39275f8d65ec5459eb2207ce084f2c808fc4e7cb",
+      "bytes": 7849,
+      "lines": 87,
+      "permalink": "https://github.com/remix-run/remix/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "83e24f140a6ec0a25b9ddc9aa343f1578e683918",
+      "bytes": 469,
+      "lines": 6,
+      "permalink": "https://github.com/remix-run/remix/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

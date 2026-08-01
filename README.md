@@ -1,11 +1,11 @@
 # AGENTS.md in the Wild
 
-**274 real agent instruction files from 153 production repositories — stored in full, refreshed weekly, with the patterns measured instead of guessed.**
+**480 real agent instruction files from 272 production repositories — stored in full, refreshed weekly, with the patterns measured instead of guessed.**
 
 [![Refresh corpus](https://github.com/sattva2020/agents-md-in-the-wild/actions/workflows/refresh.yml/badge.svg)](https://github.com/sattva2020/agents-md-in-the-wild/actions/workflows/refresh.yml)
-![Repositories](https://img.shields.io/badge/repositories-153-blue)
-![Files](https://img.shields.io/badge/files-274-blue)
-![Median stars](https://img.shields.io/badge/median%20stars-82k-orange)
+![Repositories](https://img.shields.io/badge/repositories-272-blue)
+![Files](https://img.shields.io/badge/files-480-blue)
+![Median stars](https://img.shields.io/badge/median%20stars-50k-orange)
 ![License](https://img.shields.io/badge/code-MIT-green)
 
 Everyone writing an `AGENTS.md` is guessing. The format has no spec worth the name, the advice online is one person's blog post repeated forty times, and the actual files that steer agents in React, Grafana, LangChain and Home Assistant are scattered across a thousand repositories where nobody reads them side by side.
@@ -37,45 +37,45 @@ That is the whole interface. Clone it, grep it, steal the good parts.
 
 | | |
 |---|---:|
-| Repositories | **153** |
-| Instruction files | **274** |
-| Stored in full | **248** |
-| Median stars of source repo | **82 779** |
-| Sources above 50k stars | **103** |
+| Repositories | **272** |
+| Instruction files | **480** |
+| Stored in full | **441** |
+| Median stars of source repo | **50 123** |
+| Sources above 50k stars | **136** |
 
 Filenames covered:
 
 | Filename | Files |
 |---|---:|
-| `AGENTS.md` | 119 |
-| `CLAUDE.md` | 109 |
-| `.github/copilot-instructions.md` | 33 |
-| `GEMINI.md` | 10 |
-| `.cursorrules` | 3 |
+| `AGENTS.md` | 208 |
+| `CLAUDE.md` | 194 |
+| `.github/copilot-instructions.md` | 57 |
+| `GEMINI.md` | 12 |
+| `.cursorrules` | 9 |
 
 Sources include React, Grafana, LangChain, Home Assistant, Hugo, Ollama, Transformers, AutoGPT, VS Code, Next.js, PowerToys and 140+ others.
 
 ## What the corpus says
 
-Measured across the 248 fully stored files. Full report with method: **[PATTERNS.md](PATTERNS.md)** — regenerated on every refresh, never hand-edited.
+Measured across the 441 fully stored files. Full report with method: **[PATTERNS.md](PATTERNS.md)** — regenerated on every refresh, never hand-edited.
 
 | Element | Share of files |
 |---|---:|
-| Explicit prohibitions (*do not / never / must not*) | 60% |
-| Architecture or layout overview | 46% |
-| How to run tests | 43% |
-| Build / run commands | 38% |
-| Code style rules | 37% |
-| Points at other files (`@refs` or links) | 35% |
-| Contrastive examples (good vs bad) | 34% |
-| Commit / PR conventions | 27% |
-| Security or secrets guidance | 23% |
-| Emphatic markers (IMPORTANT / CRITICAL) | 18% |
+| Explicit prohibitions (*do not / never / must not*) | 68% |
+| How to run tests | 54% |
+| Architecture or layout overview | 50% |
+| Build / run commands | 44% |
+| Contrastive examples (good vs bad) | 41% |
+| Code style rules | 41% |
+| Points at other files (`@refs` or links) | 37% |
+| Commit / PR conventions | 32% |
+| Emphatic markers (IMPORTANT / CRITICAL) | 23% |
+| Security or secrets guidance | 21% |
 | Directory tree block | 17% |
 
-Median file: **60 lines, 513 words**. Longest in the corpus: 1 494 lines.
+Median file: **92 lines, 647 words**. Longest in the corpus: 1 494 lines.
 
-Three things worth noticing. Prohibitions are the single most common element — more common than telling the agent how to *build the project*. Only 23% say anything about secrets, in files that routinely hand an agent the run of the repository. And the median is 60 lines, which is a long way from the 500-line documents people argue about online.
+Three things worth noticing. Prohibitions are the single most common element — more common than telling the agent how to *build the project*. Only 21% say anything about secrets, in files that routinely hand an agent the run of the repository. And the median is 92 lines, which is a long way from the 500-line documents people argue about online.
 
 ## Layout
 
@@ -100,8 +100,8 @@ This repository redistributes other people's files. That is fine under permissiv
 
 So there are two tiers:
 
-- **`full`** — 140 repositories. Licence is on the [redistribution allowlist](scripts/policy.py); the file is stored verbatim with source, commit SHA and licence recorded.
-- **`metadata`** — 13 repositories. No redistributable licence upstream, so only *structure* is stored: headings, counts, and a link. No body text.
+- **`full`** — 251 repositories. Licence is on the [redistribution allowlist](scripts/policy.py); the file is stored verbatim with source, commit SHA and licence recorded.
+- **`metadata`** — 21 repositories. No redistributable licence upstream, so only *structure* is stored: headings, counts, and a link. No body text.
 
 Licences are read from the upstream `LICENSE` file and identified by text fingerprint ([`scripts/licenses.py`](scripts/licenses.py)), because the GitHub search API frequently omits licence metadata. Anything unrecognised stays unlicensed and drops to metadata tier — ambiguity always resolves to *do not store*.
 

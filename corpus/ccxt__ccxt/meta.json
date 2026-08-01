@@ -1,0 +1,46 @@
+{
+  "owner": "ccxt",
+  "repo": "ccxt",
+  "full_name": "ccxt/ccxt",
+  "url": "https://github.com/ccxt/ccxt",
+  "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
+  "stars": 43472,
+  "language": "Python",
+  "topics": [
+    "altcoin",
+    "api",
+    "arbitrage",
+    "bitcoin",
+    "bot",
+    "btc",
+    "crypto",
+    "cryptocurrencies",
+    "cryptocurrency",
+    "eth",
+    "ethereum",
+    "exchange"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T18:29:55Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "681311eb9cf453d0faddf3aacaec7357e97ba8e9",
+      "bytes": 35966,
+      "lines": 578,
+      "permalink": "https://github.com/ccxt/ccxt/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "f44319e334dbccd4ddbe15b4f988026266ee7585",
+      "bytes": 35966,
+      "lines": 578,
+      "permalink": "https://github.com/ccxt/ccxt/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

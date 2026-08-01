@@ -1,0 +1,46 @@
+{
+  "owner": "danny-avila",
+  "repo": "LibreChat",
+  "full_name": "danny-avila/LibreChat",
+  "url": "https://github.com/danny-avila/LibreChat",
+  "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+  "stars": 41528,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "anthropic",
+    "artifacts",
+    "aws",
+    "azure",
+    "chatgpt",
+    "chatgpt-clone",
+    "claude",
+    "clone",
+    "deepseek",
+    "gemini",
+    "google"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T15:49:14Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "48e86847e2788dffa18bc21cd395733371c77ab7",
+      "bytes": 293,
+      "lines": 4,
+      "permalink": "https://github.com/danny-avila/LibreChat/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "511d579866f7077628a8e7bd58bde4ed36af2cba",
+      "bytes": 9647,
+      "lines": 186,
+      "permalink": "https://github.com/danny-avila/LibreChat/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

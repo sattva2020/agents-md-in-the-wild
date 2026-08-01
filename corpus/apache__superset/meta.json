@@ -1,0 +1,62 @@
+{
+  "owner": "apache",
+  "repo": "superset",
+  "full_name": "apache/superset",
+  "url": "https://github.com/apache/superset",
+  "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+  "stars": 74091,
+  "language": "Python",
+  "topics": [
+    "analytics",
+    "apache",
+    "apache-superset",
+    "asf",
+    "bi",
+    "business-analytics",
+    "business-intelligence",
+    "data-analysis",
+    "data-analytics",
+    "data-engineering",
+    "data-science",
+    "data-visualization"
+  ],
+  "default_branch": "master",
+  "license": "apache-2.0",
+  "tier": "full",
+  "tier_reason": "redistributable under apache-2.0",
+  "pushed_at": "2026-08-01T18:05:12Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "e3d45185eea0b2f106a020e05087048cc6c1d8d0",
+      "bytes": 15700,
+      "lines": 308,
+      "permalink": "https://github.com/apache/superset/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 15700,
+      "lines": 308,
+      "permalink": "https://github.com/apache/superset/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    "GEMINI.md": {
+      "source_path": "GEMINI.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 15700,
+      "lines": 308,
+      "permalink": "https://github.com/apache/superset/blob/master/GEMINI.md",
+      "stored": "GEMINI.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "be77ac83a1895cfa9e271961ba1e565c273c717c",
+      "bytes": 15700,
+      "lines": 308,
+      "permalink": "https://github.com/apache/superset/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

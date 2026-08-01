@@ -1,0 +1,38 @@
+{
+  "owner": "TriliumNext",
+  "repo": "Trilium",
+  "full_name": "TriliumNext/Trilium",
+  "url": "https://github.com/TriliumNext/Trilium",
+  "description": "Build your personal knowledge base with Trilium Notes",
+  "stars": 37160,
+  "language": "TypeScript",
+  "topics": [
+    "electron",
+    "electron-app",
+    "knowledge-base",
+    "knowledge-graph",
+    "knowledge-management",
+    "knowledge-management-graph",
+    "local-first",
+    "note-managment",
+    "note-taker",
+    "note-taking",
+    "notebook",
+    "notes"
+  ],
+  "default_branch": "main",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T18:20:06Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "b72f19f4719022b7cf61b4614626e80644b5e9aa",
+      "bytes": 28060,
+      "lines": 360,
+      "permalink": "https://github.com/TriliumNext/Trilium/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

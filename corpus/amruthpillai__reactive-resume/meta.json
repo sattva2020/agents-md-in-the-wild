@@ -1,0 +1,42 @@
+{
+  "owner": "amruthpillai",
+  "repo": "reactive-resume",
+  "full_name": "amruthpillai/reactive-resume",
+  "url": "https://github.com/amruthpillai/reactive-resume",
+  "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+  "stars": 39928,
+  "language": "TypeScript",
+  "topics": [
+    "better-auth",
+    "hacktoberfest",
+    "react",
+    "resume",
+    "resume-builder",
+    "self-hosted",
+    "tailwindcss",
+    "tanstack-start"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-31T15:25:44Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b89c1b791e5895977930ce4dbb7aceb50ab17bc2",
+      "bytes": 13369,
+      "lines": 158,
+      "permalink": "https://github.com/amruthpillai/reactive-resume/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 13369,
+      "lines": 158,
+      "permalink": "https://github.com/amruthpillai/reactive-resume/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

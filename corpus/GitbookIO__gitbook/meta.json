@@ -1,0 +1,38 @@
+{
+  "owner": "GitbookIO",
+  "repo": "gitbook",
+  "full_name": "GitbookIO/gitbook",
+  "url": "https://github.com/GitbookIO/gitbook",
+  "description": "The open source frontend for GitBook doc sites",
+  "stars": 28972,
+  "language": "TypeScript",
+  "topics": [
+    "documentation",
+    "git",
+    "gitbook",
+    "markdown"
+  ],
+  "default_branch": "main",
+  "license": "gpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under gpl-3.0",
+  "pushed_at": "2026-07-31T16:24:29Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "0dd76526812516e7a82964a3202e4ecaf11ded12",
+      "bytes": 2388,
+      "lines": 82,
+      "permalink": "https://github.com/GitbookIO/gitbook/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/GitbookIO/gitbook/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

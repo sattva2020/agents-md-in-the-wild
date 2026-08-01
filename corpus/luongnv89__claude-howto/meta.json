@@ -1,0 +1,29 @@
+{
+  "owner": "luongnv89",
+  "repo": "claude-howto",
+  "full_name": "luongnv89/claude-howto",
+  "url": "https://github.com/luongnv89/claude-howto",
+  "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+  "stars": 40755,
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "guide",
+    "tutorial"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-29T08:10:19Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "2b137d682b6d254bf129098c676a63f9047ce062",
+      "bytes": 3207,
+      "lines": 63,
+      "permalink": "https://github.com/luongnv89/claude-howto/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "owner": "withastro",
+  "repo": "astro",
+  "full_name": "withastro/astro",
+  "url": "https://github.com/withastro/astro",
+  "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+  "stars": 61442,
+  "language": "TypeScript",
+  "topics": [
+    "astro",
+    "blog",
+    "browser",
+    "components",
+    "hybrid",
+    "islands",
+    "node",
+    "server",
+    "static",
+    "static-site-generator",
+    "universal"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:51:16Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "9007c47b4260a1bd8faa5f0eac15818f9fababd4",
+      "bytes": 8903,
+      "lines": 166,
+      "permalink": "https://github.com/withastro/astro/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    }
+  }
+}

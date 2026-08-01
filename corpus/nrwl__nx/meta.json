@@ -1,0 +1,46 @@
+{
+  "owner": "nrwl",
+  "repo": "nx",
+  "full_name": "nrwl/nx",
+  "url": "https://github.com/nrwl/nx",
+  "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+  "stars": 29169,
+  "language": "TypeScript",
+  "topics": [
+    "angular",
+    "build",
+    "build-system",
+    "build-tool",
+    "building-tool",
+    "cli",
+    "cypress",
+    "hacktoberfest",
+    "javascript",
+    "monorepo",
+    "nextjs",
+    "nodejs"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T15:29:02Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "31c706704ce6eda3980066cef6479fa91f85fd77",
+      "bytes": 9139,
+      "lines": 235,
+      "permalink": "https://github.com/nrwl/nx/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "b0bdcf3071dc8e984b0b9186a72d5262f2a1c67a",
+      "bytes": 9094,
+      "lines": 229,
+      "permalink": "https://github.com/nrwl/nx/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "remix-run",
+  "repo": "react-router",
+  "full_name": "remix-run/react-router",
+  "url": "https://github.com/remix-run/react-router",
+  "description": "Declarative routing for React",
+  "stars": 56537,
+  "language": "TypeScript",
+  "topics": [],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-07-30T18:04:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "d01a1ab2fa9317fae459343ab79809b2b562a3de",
+      "bytes": 7678,
+      "lines": 159,
+      "permalink": "https://github.com/remix-run/react-router/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "7ee0ae35c6fe5c5345fa150fdf43ec1a2afecc8b",
+      "bytes": 988,
+      "lines": 27,
+      "permalink": "https://github.com/remix-run/react-router/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "owner": "AstrBotDevs",
+  "repo": "AstrBot",
+  "full_name": "AstrBotDevs/AstrBot",
+  "url": "https://github.com/AstrBotDevs/AstrBot",
+  "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "stars": 38438,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "astrbot",
+    "chatbot",
+    "chatgpt",
+    "discord",
+    "docker",
+    "gemini",
+    "gpt",
+    "llama",
+    "llm",
+    "mcp"
+  ],
+  "default_branch": "master",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T16:59:48Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "4d7ba90490a0605f83ddd0ae778210fa9c91d040",
+      "bytes": 6502,
+      "lines": 137,
+      "permalink": "https://github.com/AstrBotDevs/AstrBot/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "abdeee93b3033ac0287fc35576f8f1a9be196993",
+      "bytes": 3092,
+      "lines": 63,
+      "permalink": "https://github.com/AstrBotDevs/AstrBot/blob/master/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "DefinitelyTyped",
+  "repo": "DefinitelyTyped",
+  "full_name": "DefinitelyTyped/DefinitelyTyped",
+  "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+  "description": "The repository for high quality TypeScript type definitions.",
+  "stars": 51354,
+  "language": "TypeScript",
+  "topics": [
+    "definition",
+    "dts",
+    "hacktoberfest",
+    "types",
+    "typescript",
+    "typescript-definitions",
+    "typings"
+  ],
+  "default_branch": "master",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T09:16:04Z",
+  "files": {
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "f83206e6304a1f0cc5a8bd97952dc022d35c3a12",
+      "bytes": 1001,
+      "lines": 15,
+      "permalink": "https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

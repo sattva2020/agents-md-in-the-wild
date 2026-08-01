@@ -1,0 +1,39 @@
+{
+  "owner": "RSSNext",
+  "repo": "Folo",
+  "full_name": "RSSNext/Folo",
+  "url": "https://github.com/RSSNext/Folo",
+  "description": "🧡 Folo is the AI RSS Reader",
+  "stars": 38741,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "reader",
+    "rss",
+    "rss-reader",
+    "rsshub"
+  ],
+  "default_branch": "dev",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T15:14:35Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "a8744653682e4885176642a7290a8a3bc9449c24",
+      "bytes": 7699,
+      "lines": 172,
+      "permalink": "https://github.com/RSSNext/Folo/blob/dev/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "e27d54efabfb0bf6d6ebc4a995843e10c37f49a8",
+      "bytes": 73,
+      "lines": 2,
+      "permalink": "https://github.com/RSSNext/Folo/blob/dev/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

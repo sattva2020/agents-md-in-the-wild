@@ -1,0 +1,53 @@
+{
+  "owner": "moeru-ai",
+  "repo": "airi",
+  "full_name": "moeru-ai/airi",
+  "url": "https://github.com/moeru-ai/airi",
+  "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+  "stars": 46360,
+  "language": "TypeScript",
+  "topics": [
+    "ai-companion",
+    "ai-vtuber",
+    "airi",
+    "digital-life",
+    "grok-companion",
+    "live2d",
+    "neuro-sama",
+    "neurosama",
+    "openclaw",
+    "vrm",
+    "vtuber"
+  ],
+  "default_branch": "main",
+  "license": "mit",
+  "tier": "full",
+  "tier_reason": "redistributable under mit",
+  "pushed_at": "2026-08-01T16:10:49Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "b9a5675fc10e184c0ea27a24545ea026fee9d76a",
+      "bytes": 33305,
+      "lines": 340,
+      "permalink": "https://github.com/moeru-ai/airi/blob/main/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "43c994c2d3617f947bcb5adf1933e21dabe46bb5",
+      "bytes": 11,
+      "lines": 2,
+      "permalink": "https://github.com/moeru-ai/airi/blob/main/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    },
+    ".github/copilot-instructions.md": {
+      "source_path": ".github/copilot-instructions.md",
+      "sha": "f9804f4fcf0633078b42634c05e54f18e74c14ed",
+      "bytes": 1049,
+      "lines": 31,
+      "permalink": "https://github.com/moeru-ai/airi/blob/main/.github/copilot-instructions.md",
+      "stored": ".github_copilot-instructions.md"
+    }
+  }
+}

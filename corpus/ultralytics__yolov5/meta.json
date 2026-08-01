@@ -1,0 +1,46 @@
+{
+  "owner": "ultralytics",
+  "repo": "yolov5",
+  "full_name": "ultralytics/yolov5",
+  "url": "https://github.com/ultralytics/yolov5",
+  "description": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+  "stars": 57780,
+  "language": "Python",
+  "topics": [
+    "computer-vision",
+    "coreml",
+    "deep-learning",
+    "image-classification",
+    "inference",
+    "instance-segmentation",
+    "model-export",
+    "model-training",
+    "object-detection",
+    "onnx",
+    "pytorch",
+    "tensorrt"
+  ],
+  "default_branch": "master",
+  "license": "agpl-3.0",
+  "tier": "full",
+  "tier_reason": "redistributable under agpl-3.0",
+  "pushed_at": "2026-08-01T04:04:23Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "8ff57aaceb14f275c5ef00da2b1e2cccf4e8b3b4",
+      "bytes": 7628,
+      "lines": 57,
+      "permalink": "https://github.com/ultralytics/yolov5/blob/master/AGENTS.md",
+      "stored": "AGENTS.md"
+    },
+    "CLAUDE.md": {
+      "source_path": "CLAUDE.md",
+      "sha": "47dc3e3d863cfb5727b87d785d09abf9743c0a72",
+      "bytes": 7628,
+      "lines": 57,
+      "permalink": "https://github.com/ultralytics/yolov5/blob/master/CLAUDE.md",
+      "stored": "CLAUDE.md"
+    }
+  }
+}

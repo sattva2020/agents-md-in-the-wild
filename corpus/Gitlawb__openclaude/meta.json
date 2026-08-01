@@ -1,0 +1,41 @@
+{
+  "owner": "Gitlawb",
+  "repo": "openclaude",
+  "full_name": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "description": "runs anywhere. uses anything",
+  "stars": 30468,
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "default_branch": "main",
+  "license": null,
+  "tier": "metadata",
+  "tier_reason": "no declared licence — all rights reserved by default",
+  "pushed_at": "2026-07-31T06:39:26Z",
+  "files": {
+    "AGENTS.md": {
+      "source_path": "AGENTS.md",
+      "sha": "fc10f4e7f44855341844399ac376b77f787c3ee9",
+      "bytes": 3526,
+      "lines": 102,
+      "permalink": "https://github.com/Gitlawb/openclaude/blob/main/AGENTS.md",
+      "stored": null,
+      "headings": [
+        "# AGENTS.md - AI Agent Coding Guide",
+        "## Project Snapshot",
+        "## Work Style",
+        "## Stack And Conventions",
+        "## Repository Map",
+        "## Validation",
+        "## Provider Changes",
+        "## Things To Avoid"
+      ]
+    }
+  }
+}
