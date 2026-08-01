@@ -2,7 +2,6 @@
 
 **480 real agent instruction files from 272 production repositories — stored in full, refreshed weekly, with the patterns measured instead of guessed.**
 
-[![Refresh corpus](https://github.com/sattva2020/agents-md-in-the-wild/actions/workflows/refresh.yml/badge.svg)](https://github.com/sattva2020/agents-md-in-the-wild/actions/workflows/refresh.yml)
 ![Repositories](https://img.shields.io/badge/repositories-272-blue)
 ![Files](https://img.shields.io/badge/files-480-blue)
 ![Median stars](https://img.shields.io/badge/median%20stars-50k-orange)
