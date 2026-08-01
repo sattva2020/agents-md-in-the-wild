@@ -22,14 +22,14 @@
 
 **Строка в README:**
 ```markdown
-- [agents-md-in-the-wild](https://github.com/sattva2020/agents-md-in-the-wild) – 274 real AGENTS.md files from 153 repos, refreshed weekly.
+- [agents-md-in-the-wild](https://github.com/sattva2020/agents-md-in-the-wild) – 480 real AGENTS.md files from 272 repos, refreshed weekly.
 ```
 (58 символов описания — в лимите)
 
 **Описание PR:**
 ```
 Adds agents-md-in-the-wild — a corpus of real AGENTS.md files pulled
-verbatim from 153 production repos (React, Grafana, LangChain, Home
+verbatim from 272 production repos (React, Grafana, LangChain, Home
 Assistant...), refreshed weekly via GitHub Action. Not a link list —
 the actual files, greppable in one tree.
 
@@ -49,7 +49,7 @@ engineering — дисциплина проектирования scaffolding и
 
 **Строка в README:**
 ```markdown
-- [agents-md-in-the-wild](https://github.com/sattva2020/agents-md-in-the-wild) [![Stars](https://img.shields.io/github/stars/sattva2020/agents-md-in-the-wild)](https://github.com/sattva2020/agents-md-in-the-wild) — Corpus of real AGENTS.md/CLAUDE.md files from 153 production repos, with structural analysis (how often prohibitions, test commands, secrets guidance appear) regenerated weekly.
+- [agents-md-in-the-wild](https://github.com/sattva2020/agents-md-in-the-wild) [![Stars](https://img.shields.io/github/stars/sattva2020/agents-md-in-the-wild)](https://github.com/sattva2020/agents-md-in-the-wild) — Corpus of real AGENTS.md/CLAUDE.md files from 272 production repos, with structural analysis (how often prohibitions, test commands, secrets guidance appear) regenerated weekly.
 ```
 
 **Куда добавить:** раздел про context management / agent instructions
@@ -85,7 +85,7 @@ issue сначала (шаблон "New Example Suggestion") → форк → ф
 корпуса (например, `grafana/AGENTS.md` — у него есть таблица директорий,
 разобранная в нашем PATTERNS.md) и в разделе «Additional Resources» этого
 analysis.md сослаться на agents-md-in-the-wild как источник и место с ещё
-152 примерами. Это больше работы (нужен цельный разбор), но абсолютно легитимно
+271 примером. Это больше работы (нужен цельный разбор), но абсолютно легитимно
 и даёт бэклинк с 438★-репозитория без нарушения их правил.
 
 **Статус:** не делаю сейчас — это отдельная задача на написание, оценка
