@@ -11,6 +11,8 @@ Everyone writing an `AGENTS.md` is guessing. The format has no spec worth the na
 
 This is the side-by-side. Not a link list — **the files themselves**, in one tree, greppable.
 
+![Cloning the repo and grepping the corpus for "never"](demo.gif)
+
 ```bash
 git clone https://github.com/sattva2020/agents-md-in-the-wild
 grep -rl "never" agents-md-in-the-wild/corpus/*/AGENTS.md | head
